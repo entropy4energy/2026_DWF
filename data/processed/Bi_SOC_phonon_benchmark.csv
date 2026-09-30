@@ -1,0 +1,6 @@
+# NRMSE_definition: range  (RMSE / (max(B_exp) - min(B_exp)))
+method,soc_status,N,RMSE_A2,MAE_A2,NRMSE,R2
+harmonic phonon (isotropic),noSOC,11,0.62239,0.51707,0.43689,-0.75323
+harmonic phonon (isotropic),SOC,11,1.12296,0.94647,0.78828,-4.70749
+elastic-derived Debye,SOC,11,0.69661,0.58122,0.48900,-1.19633
+quasi-harmonic Debye,SOC,11,0.46544,0.34790,0.32672,0.01951

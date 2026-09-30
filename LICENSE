@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2026 entropy4energy
+Copyright (c) 2026 Entropy for Energy Lab, Johns Hopkins University
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,3 +19,19 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+---
+
+Note on third-party material
+----------------------------
+
+The MIT terms above cover the data files in this repository. They do not and
+cannot cover material owned by others:
+
+* The experimental Debye-Waller values in data/literature/ are derived from
+  published papers, cited per row. The papers themselves are not redistributed
+  here. Reuse of those numbers should cite the original sources listed there,
+  not only this repository.
+* data/dft_raw/ holds outputs of AFLOW and VASP runs performed by the authors.
+  The outputs are the authors' own; the programs that produced them are not
+  included and carry their own licences.

@@ -1,0 +1,1517 @@
+material,soc_status,T_K,method,B_A2
+As,noSOC,0,empirical digitized reference,NA
+As,noSOC,10,empirical digitized reference,0.19936136
+As,noSOC,20,empirical digitized reference,0.16261544
+As,noSOC,30,empirical digitized reference,0.17494095
+As,noSOC,40,empirical digitized reference,0.19036039
+As,noSOC,50,empirical digitized reference,0.2068684
+As,noSOC,60,empirical digitized reference,0.22604214
+As,noSOC,70,empirical digitized reference,0.24766281
+As,noSOC,80,empirical digitized reference,0.2712556
+As,noSOC,90,empirical digitized reference,0.30184268
+As,noSOC,100,empirical digitized reference,0.35409609
+As,noSOC,110,empirical digitized reference,0.46132762
+As,noSOC,120,empirical digitized reference,0.53909403
+As,noSOC,130,empirical digitized reference,0.56090474
+As,noSOC,140,empirical digitized reference,0.57486825
+As,noSOC,150,empirical digitized reference,0.58617739
+As,noSOC,160,empirical digitized reference,0.59999383
+As,noSOC,170,empirical digitized reference,0.61614003
+As,noSOC,180,empirical digitized reference,0.63226781
+As,noSOC,190,empirical digitized reference,0.64853884
+As,noSOC,200,empirical digitized reference,0.66511477
+As,noSOC,210,empirical digitized reference,0.68215726
+As,noSOC,220,empirical digitized reference,0.69982795
+As,noSOC,230,empirical digitized reference,0.71828852
+As,noSOC,240,empirical digitized reference,0.7377006
+As,noSOC,250,empirical digitized reference,0.75822585
+As,noSOC,260,empirical digitized reference,0.78007143
+As,noSOC,270,empirical digitized reference,0.80427487
+As,noSOC,280,empirical digitized reference,0.83085299
+As,noSOC,290,empirical digitized reference,0.8593281
+As,noSOC,300,empirical digitized reference,0.88922251
+As,noSOC,310,empirical digitized reference,0.92005856
+As,noSOC,320,empirical digitized reference,0.95135856
+As,noSOC,330,empirical digitized reference,0.98264482
+As,noSOC,340,empirical digitized reference,1.01343966
+As,noSOC,350,empirical digitized reference,1.04326542
+As,noSOC,360,empirical digitized reference,1.0718608
+As,noSOC,370,empirical digitized reference,1.10024408
+As,noSOC,380,empirical digitized reference,1.12860431
+As,noSOC,390,empirical digitized reference,1.15692518
+As,noSOC,400,empirical digitized reference,1.18519037
+As,noSOC,410,empirical digitized reference,1.21338357
+As,noSOC,420,empirical digitized reference,1.24148845
+As,noSOC,430,empirical digitized reference,1.26948871
+As,noSOC,440,empirical digitized reference,1.29736802
+As,noSOC,450,empirical digitized reference,1.32511006
+As,noSOC,460,empirical digitized reference,1.35269853
+As,noSOC,470,empirical digitized reference,1.3801171
+As,noSOC,480,empirical digitized reference,1.40734945
+As,noSOC,490,empirical digitized reference,1.43437928
+As,noSOC,500,empirical digitized reference,1.46119025
+As,noSOC,510,empirical digitized reference,1.48776606
+As,noSOC,520,empirical digitized reference,1.51409039
+As,noSOC,530,empirical digitized reference,1.53990884
+As,noSOC,540,empirical digitized reference,1.56475356
+As,noSOC,550,empirical digitized reference,1.58877854
+As,noSOC,560,empirical digitized reference,1.61216198
+As,noSOC,570,empirical digitized reference,1.63508207
+As,noSOC,580,empirical digitized reference,1.657717
+As,noSOC,590,empirical digitized reference,1.68024496
+As,noSOC,600,empirical digitized reference,1.70284415
+As,noSOC,610,empirical digitized reference,1.72569274
+As,noSOC,620,empirical digitized reference,1.74896894
+As,noSOC,630,empirical digitized reference,1.77285093
+As,noSOC,640,empirical digitized reference,1.79751691
+As,noSOC,650,empirical digitized reference,1.82314506
+As,noSOC,660,empirical digitized reference,1.84991358
+As,noSOC,670,empirical digitized reference,1.87800066
+As,noSOC,680,empirical digitized reference,1.90758448
+As,noSOC,690,empirical digitized reference,1.93932503
+As,noSOC,700,empirical digitized reference,1.97620825
+As,noSOC,710,empirical digitized reference,2.01672631
+As,noSOC,720,empirical digitized reference,2.05845866
+As,noSOC,730,empirical digitized reference,2.09898472
+As,noSOC,740,empirical digitized reference,2.13588393
+As,noSOC,750,empirical digitized reference,2.16949572
+As,noSOC,760,empirical digitized reference,2.20263106
+As,noSOC,770,empirical digitized reference,2.23524443
+As,noSOC,780,empirical digitized reference,2.26727009
+As,noSOC,790,empirical digitized reference,2.29864232
+As,noSOC,800,empirical digitized reference,2.32929536
+As,noSOC,810,empirical digitized reference,2.35916348
+As,noSOC,820,empirical digitized reference,2.38818096
+As,noSOC,830,empirical digitized reference,2.41628205
+As,noSOC,840,empirical digitized reference,2.44340101
+As,noSOC,850,empirical digitized reference,2.46947211
+As,noSOC,860,empirical digitized reference,2.49442961
+As,noSOC,870,empirical digitized reference,2.51820778
+As,noSOC,0,elastic-derived Debye,0.15389664
+As,noSOC,10,elastic-derived Debye,0.15552807
+As,noSOC,20,elastic-derived Debye,0.16042215
+As,noSOC,30,elastic-derived Debye,0.16855895
+As,noSOC,40,elastic-derived Debye,0.17977303
+As,noSOC,50,elastic-derived Debye,0.19366221
+As,noSOC,60,elastic-derived Debye,0.20971385
+As,noSOC,70,elastic-derived Debye,0.22744849
+As,noSOC,80,elastic-derived Debye,0.24647652
+As,noSOC,90,elastic-derived Debye,0.26649993
+As,noSOC,100,elastic-derived Debye,0.28729578
+As,noSOC,110,elastic-derived Debye,0.3086979
+As,noSOC,120,elastic-derived Debye,0.33058178
+As,noSOC,130,elastic-derived Debye,0.35285319
+As,noSOC,140,elastic-derived Debye,0.37544006
+As,noSOC,150,elastic-derived Debye,0.39828654
+As,noSOC,160,elastic-derived Debye,0.42134889
+As,noSOC,170,elastic-derived Debye,0.44459243
+As,noSOC,180,elastic-derived Debye,0.46798937
+As,noSOC,190,elastic-derived Debye,0.49151723
+As,noSOC,200,elastic-derived Debye,0.51515764
+As,noSOC,210,elastic-derived Debye,0.53889548
+As,noSOC,220,elastic-derived Debye,0.56271815
+As,noSOC,230,elastic-derived Debye,0.58661515
+As,noSOC,240,elastic-derived Debye,0.61057759
+As,noSOC,250,elastic-derived Debye,0.63459794
+As,noSOC,260,elastic-derived Debye,0.65866978
+As,noSOC,270,elastic-derived Debye,0.6827876
+As,noSOC,280,elastic-derived Debye,0.70694661
+As,noSOC,290,elastic-derived Debye,0.7311427
+As,noSOC,300,elastic-derived Debye,0.75537227
+As,noSOC,310,elastic-derived Debye,0.77963215
+As,noSOC,320,elastic-derived Debye,0.80391958
+As,noSOC,330,elastic-derived Debye,0.82823212
+As,noSOC,340,elastic-derived Debye,0.85256759
+As,noSOC,350,elastic-derived Debye,0.87692408
+As,noSOC,360,elastic-derived Debye,0.90129986
+As,noSOC,370,elastic-derived Debye,0.9256934
+As,noSOC,380,elastic-derived Debye,0.95010332
+As,noSOC,390,elastic-derived Debye,0.97452839
+As,noSOC,400,elastic-derived Debye,0.99896749
+As,noSOC,410,elastic-derived Debye,1.0234196
+As,noSOC,420,elastic-derived Debye,1.04788381
+As,noSOC,430,elastic-derived Debye,1.07235929
+As,noSOC,440,elastic-derived Debye,1.09684528
+As,noSOC,450,elastic-derived Debye,1.12134108
+As,noSOC,460,elastic-derived Debye,1.14584607
+As,noSOC,470,elastic-derived Debye,1.17035966
+As,noSOC,480,elastic-derived Debye,1.19488133
+As,noSOC,490,elastic-derived Debye,1.21941058
+As,noSOC,500,elastic-derived Debye,1.24394697
+As,noSOC,510,elastic-derived Debye,1.26849007
+As,noSOC,520,elastic-derived Debye,1.29303951
+As,noSOC,530,elastic-derived Debye,1.31759493
+As,noSOC,540,elastic-derived Debye,1.342156
+As,noSOC,550,elastic-derived Debye,1.36672241
+As,noSOC,560,elastic-derived Debye,1.39129388
+As,noSOC,570,elastic-derived Debye,1.41587015
+As,noSOC,580,elastic-derived Debye,1.44045097
+As,noSOC,590,elastic-derived Debye,1.46503611
+As,noSOC,600,elastic-derived Debye,1.48962535
+As,noSOC,610,elastic-derived Debye,1.5142185
+As,noSOC,620,elastic-derived Debye,1.53881537
+As,noSOC,630,elastic-derived Debye,1.56341577
+As,noSOC,640,elastic-derived Debye,1.58801956
+As,noSOC,650,elastic-derived Debye,1.61262656
+As,noSOC,660,elastic-derived Debye,1.63723665
+As,noSOC,670,elastic-derived Debye,1.66184967
+As,noSOC,680,elastic-derived Debye,1.6864655
+As,noSOC,690,elastic-derived Debye,1.71108402
+As,noSOC,700,elastic-derived Debye,1.73570511
+As,noSOC,710,elastic-derived Debye,1.76032867
+As,noSOC,720,elastic-derived Debye,1.78495459
+As,noSOC,730,elastic-derived Debye,1.80958278
+As,noSOC,740,elastic-derived Debye,1.83421315
+As,noSOC,750,elastic-derived Debye,1.8588456
+As,noSOC,760,elastic-derived Debye,1.88348006
+As,noSOC,770,elastic-derived Debye,1.90811645
+As,noSOC,780,elastic-derived Debye,1.9327547
+As,noSOC,790,elastic-derived Debye,1.95739473
+As,noSOC,800,elastic-derived Debye,1.98203647
+As,noSOC,810,elastic-derived Debye,2.00667988
+As,noSOC,820,elastic-derived Debye,2.03132487
+As,noSOC,830,elastic-derived Debye,2.05597141
+As,noSOC,840,elastic-derived Debye,2.08061942
+As,noSOC,850,elastic-derived Debye,2.10526887
+As,noSOC,860,elastic-derived Debye,2.12991969
+As,noSOC,870,elastic-derived Debye,2.15457185
+As,noSOC,0,quasi-harmonic Debye,0.11395905
+As,noSOC,10,quasi-harmonic Debye,0.11462228
+As,noSOC,20,quasi-harmonic Debye,0.11661371
+As,noSOC,30,quasi-harmonic Debye,0.11992854
+As,noSOC,40,quasi-harmonic Debye,0.1245634
+As,noSOC,50,quasi-harmonic Debye,0.13047264
+As,noSOC,60,quasi-harmonic Debye,0.13755233
+As,noSOC,70,quasi-harmonic Debye,0.14566105
+As,noSOC,80,quasi-harmonic Debye,0.15464918
+As,noSOC,90,quasi-harmonic Debye,0.16437709
+As,noSOC,100,quasi-harmonic Debye,0.17472385
+As,noSOC,110,quasi-harmonic Debye,0.18559345
+As,noSOC,120,quasi-harmonic Debye,0.19690611
+As,noSOC,130,quasi-harmonic Debye,0.20859745
+As,noSOC,140,quasi-harmonic Debye,0.22061583
+As,noSOC,150,quasi-harmonic Debye,0.23291922
+As,noSOC,160,quasi-harmonic Debye,0.24547335
+As,noSOC,170,quasi-harmonic Debye,0.25825029
+As,noSOC,180,quasi-harmonic Debye,0.2712271
+As,noSOC,190,quasi-harmonic Debye,0.28438453
+As,noSOC,200,quasi-harmonic Debye,0.29770715
+As,noSOC,210,quasi-harmonic Debye,0.31118236
+As,noSOC,220,quasi-harmonic Debye,0.3247995
+As,noSOC,230,quasi-harmonic Debye,0.33854995
+As,noSOC,240,quasi-harmonic Debye,0.35242703
+As,noSOC,250,quasi-harmonic Debye,0.36642469
+As,noSOC,260,quasi-harmonic Debye,0.3799983
+As,noSOC,270,quasi-harmonic Debye,0.3942391
+As,noSOC,280,quasi-harmonic Debye,0.40858988
+As,noSOC,290,quasi-harmonic Debye,0.42304723
+As,noSOC,300,quasi-harmonic Debye,0.43760873
+As,noSOC,310,quasi-harmonic Debye,0.45227161
+As,noSOC,320,quasi-harmonic Debye,0.46703397
+As,noSOC,330,quasi-harmonic Debye,0.48189423
+As,noSOC,340,quasi-harmonic Debye,0.49685075
+As,noSOC,350,quasi-harmonic Debye,0.51190226
+As,noSOC,360,quasi-harmonic Debye,0.52704771
+As,noSOC,370,quasi-harmonic Debye,0.54228681
+As,noSOC,380,quasi-harmonic Debye,0.55761775
+As,noSOC,390,quasi-harmonic Debye,0.5730409
+As,noSOC,400,quasi-harmonic Debye,0.58855565
+As,noSOC,410,quasi-harmonic Debye,0.60416118
+As,noSOC,420,quasi-harmonic Debye,0.61985801
+As,noSOC,430,quasi-harmonic Debye,0.63564567
+As,noSOC,440,quasi-harmonic Debye,0.65152341
+As,noSOC,450,quasi-harmonic Debye,0.66749234
+As,noSOC,460,quasi-harmonic Debye,0.68355292
+As,noSOC,470,quasi-harmonic Debye,0.69970342
+As,noSOC,480,quasi-harmonic Debye,0.71594599
+As,noSOC,490,quasi-harmonic Debye,0.73227927
+As,noSOC,500,quasi-harmonic Debye,0.74870457
+As,noSOC,510,quasi-harmonic Debye,0.76522314
+As,noSOC,520,quasi-harmonic Debye,0.78183459
+As,noSOC,530,quasi-harmonic Debye,0.79854223
+As,noSOC,540,quasi-harmonic Debye,0.81534906
+As,noSOC,550,quasi-harmonic Debye,0.83225457
+As,noSOC,560,quasi-harmonic Debye,0.84926112
+As,noSOC,570,quasi-harmonic Debye,0.86636863
+As,noSOC,580,quasi-harmonic Debye,0.88357835
+As,noSOC,590,quasi-harmonic Debye,0.90089221
+As,noSOC,600,quasi-harmonic Debye,0.91831035
+As,noSOC,610,quasi-harmonic Debye,0.93583512
+As,noSOC,620,quasi-harmonic Debye,0.95346705
+As,noSOC,630,quasi-harmonic Debye,0.97120688
+As,noSOC,640,quasi-harmonic Debye,0.98905757
+As,noSOC,650,quasi-harmonic Debye,1.00701973
+As,noSOC,660,quasi-harmonic Debye,1.02509389
+As,noSOC,670,quasi-harmonic Debye,1.04328223
+As,noSOC,680,quasi-harmonic Debye,1.0615874
+As,noSOC,690,quasi-harmonic Debye,1.08000886
+As,noSOC,700,quasi-harmonic Debye,1.09854982
+As,noSOC,710,quasi-harmonic Debye,1.11721027
+As,noSOC,720,quasi-harmonic Debye,1.13599447
+As,noSOC,730,quasi-harmonic Debye,1.15490226
+As,noSOC,740,quasi-harmonic Debye,1.17393488
+As,noSOC,750,quasi-harmonic Debye,1.19093014
+As,noSOC,760,quasi-harmonic Debye,1.21038419
+As,noSOC,770,quasi-harmonic Debye,1.22996788
+As,noSOC,780,quasi-harmonic Debye,1.24968186
+As,noSOC,790,quasi-harmonic Debye,1.26952942
+As,noSOC,800,quasi-harmonic Debye,1.28950943
+As,noSOC,810,quasi-harmonic Debye,1.30962626
+As,noSOC,820,quasi-harmonic Debye,1.32987927
+As,noSOC,830,quasi-harmonic Debye,1.35026819
+As,noSOC,840,quasi-harmonic Debye,1.37079844
+As,noSOC,850,quasi-harmonic Debye,1.39147015
+As,noSOC,860,quasi-harmonic Debye,1.41228237
+As,noSOC,870,quasi-harmonic Debye,1.43324054
+As,noSOC,0,harmonic phonon spectrum (isotropic),0.15985232
+As,noSOC,10,harmonic phonon spectrum (isotropic),0.16158227
+As,noSOC,20,harmonic phonon spectrum (isotropic),0.16780512
+As,noSOC,30,harmonic phonon spectrum (isotropic),0.17916806
+As,noSOC,40,harmonic phonon spectrum (isotropic),0.19481283
+As,noSOC,50,harmonic phonon spectrum (isotropic),0.2135535
+As,noSOC,60,harmonic phonon spectrum (isotropic),0.2345047
+As,noSOC,70,harmonic phonon spectrum (isotropic),0.25706872
+As,noSOC,80,harmonic phonon spectrum (isotropic),0.28083867
+As,noSOC,90,harmonic phonon spectrum (isotropic),0.30552795
+As,noSOC,100,harmonic phonon spectrum (isotropic),0.33093099
+As,noSOC,110,harmonic phonon spectrum (isotropic),0.356897
+As,noSOC,120,harmonic phonon spectrum (isotropic),0.38331227
+As,noSOC,130,harmonic phonon spectrum (isotropic),0.4100918
+As,noSOC,140,harmonic phonon spectrum (isotropic),0.43716926
+As,noSOC,150,harmonic phonon spectrum (isotropic),0.46449306
+As,noSOC,160,harmonic phonon spectrum (isotropic),0.4920232
+As,noSOC,170,harmonic phonon spectrum (isotropic),0.51972731
+As,noSOC,180,harmonic phonon spectrum (isotropic),0.54757855
+As,noSOC,190,harmonic phonon spectrum (isotropic),0.57555664
+As,noSOC,200,harmonic phonon spectrum (isotropic),0.60364343
+As,noSOC,210,harmonic phonon spectrum (isotropic),0.63182497
+As,noSOC,220,harmonic phonon spectrum (isotropic),0.66008888
+As,noSOC,230,harmonic phonon spectrum (isotropic),0.6884257
+As,noSOC,240,harmonic phonon spectrum (isotropic),0.71682595
+As,noSOC,250,harmonic phonon spectrum (isotropic),0.74528331
+As,noSOC,260,harmonic phonon spectrum (isotropic),0.77379093
+As,noSOC,270,harmonic phonon spectrum (isotropic),0.80234383
+As,noSOC,280,harmonic phonon spectrum (isotropic),0.83093726
+As,noSOC,290,harmonic phonon spectrum (isotropic),0.85956674
+As,noSOC,300,harmonic phonon spectrum (isotropic),0.88822992
+As,noSOC,310,harmonic phonon spectrum (isotropic),0.91692257
+As,noSOC,320,harmonic phonon spectrum (isotropic),0.94564207
+As,noSOC,330,harmonic phonon spectrum (isotropic),0.97438735
+As,noSOC,340,harmonic phonon spectrum (isotropic),1.00315422
+As,noSOC,350,harmonic phonon spectrum (isotropic),1.03194215
+As,noSOC,360,harmonic phonon spectrum (isotropic),1.06074981
+As,noSOC,370,harmonic phonon spectrum (isotropic),1.08957432
+As,noSOC,380,harmonic phonon spectrum (isotropic),1.11841541
+As,noSOC,390,harmonic phonon spectrum (isotropic),1.14727124
+As,noSOC,400,harmonic phonon spectrum (isotropic),1.17614128
+As,noSOC,410,harmonic phonon spectrum (isotropic),1.20502422
+As,noSOC,420,harmonic phonon spectrum (isotropic),1.23391952
+As,noSOC,430,harmonic phonon spectrum (isotropic),1.26282536
+As,noSOC,440,harmonic phonon spectrum (isotropic),1.29174198
+As,noSOC,450,harmonic phonon spectrum (isotropic),1.32066808
+As,noSOC,460,harmonic phonon spectrum (isotropic),1.34960313
+As,noSOC,470,harmonic phonon spectrum (isotropic),1.37854739
+As,noSOC,480,harmonic phonon spectrum (isotropic),1.40749902
+As,noSOC,490,harmonic phonon spectrum (isotropic),1.43645854
+As,noSOC,500,harmonic phonon spectrum (isotropic),1.46542544
+As,noSOC,510,harmonic phonon spectrum (isotropic),1.49439839
+As,noSOC,520,harmonic phonon spectrum (isotropic),1.52337818
+As,noSOC,530,harmonic phonon spectrum (isotropic),1.55236376
+As,noSOC,540,harmonic phonon spectrum (isotropic),1.58135486
+As,noSOC,550,harmonic phonon spectrum (isotropic),1.61035124
+As,noSOC,560,harmonic phonon spectrum (isotropic),1.63935261
+As,noSOC,570,harmonic phonon spectrum (isotropic),1.66835924
+As,noSOC,580,harmonic phonon spectrum (isotropic),1.69736983
+As,noSOC,590,harmonic phonon spectrum (isotropic),1.72638462
+As,noSOC,600,harmonic phonon spectrum (isotropic),1.75540389
+As,noSOC,610,harmonic phonon spectrum (isotropic),1.78442737
+As,noSOC,620,harmonic phonon spectrum (isotropic),1.81345375
+As,noSOC,630,harmonic phonon spectrum (isotropic),1.84248433
+As,noSOC,640,harmonic phonon spectrum (isotropic),1.87151781
+As,noSOC,650,harmonic phonon spectrum (isotropic),1.90055472
+As,noSOC,660,harmonic phonon spectrum (isotropic),1.92959451
+As,noSOC,670,harmonic phonon spectrum (isotropic),1.95863773
+As,noSOC,680,harmonic phonon spectrum (isotropic),1.98768306
+As,noSOC,690,harmonic phonon spectrum (isotropic),2.01673154
+As,noSOC,700,harmonic phonon spectrum (isotropic),2.04578265
+As,noSOC,710,harmonic phonon spectrum (isotropic),2.07483587
+As,noSOC,720,harmonic phonon spectrum (isotropic),2.10389173
+As,noSOC,730,harmonic phonon spectrum (isotropic),2.13294968
+As,noSOC,740,harmonic phonon spectrum (isotropic),2.16201001
+As,noSOC,750,harmonic phonon spectrum (isotropic),2.19107218
+As,noSOC,760,harmonic phonon spectrum (isotropic),2.22013672
+As,noSOC,770,harmonic phonon spectrum (isotropic),2.24920257
+As,noSOC,780,harmonic phonon spectrum (isotropic),2.27827079
+As,noSOC,790,harmonic phonon spectrum (isotropic),2.30734086
+As,noSOC,800,harmonic phonon spectrum (isotropic),2.33641224
+As,noSOC,810,harmonic phonon spectrum (isotropic),2.36548546
+As,noSOC,820,harmonic phonon spectrum (isotropic),2.39456
+As,noSOC,830,harmonic phonon spectrum (isotropic),2.42363638
+As,noSOC,840,harmonic phonon spectrum (isotropic),2.45271408
+As,noSOC,850,harmonic phonon spectrum (isotropic),2.48179362
+As,noSOC,860,harmonic phonon spectrum (isotropic),2.51087394
+As,noSOC,870,harmonic phonon spectrum (isotropic),2.53995568
+As,noSOC,0,harmonic phonon spectrum (basal-plane average),0.15188058
+As,noSOC,10,harmonic phonon spectrum (basal-plane average),0.15307993
+As,noSOC,20,harmonic phonon spectrum (basal-plane average),0.15738229
+As,noSOC,30,harmonic phonon spectrum (basal-plane average),0.16580935
+As,noSOC,40,harmonic phonon spectrum (basal-plane average),0.17794739
+As,noSOC,50,harmonic phonon spectrum (basal-plane average),0.19289708
+As,noSOC,60,harmonic phonon spectrum (basal-plane average),0.20992017
+As,noSOC,70,harmonic phonon spectrum (basal-plane average),0.22848845
+As,noSOC,80,harmonic phonon spectrum (basal-plane average),0.24822924
+As,noSOC,90,harmonic phonon spectrum (basal-plane average),0.26887171
+As,noSOC,100,harmonic phonon spectrum (basal-plane average),0.29021848
+As,noSOC,110,harmonic phonon spectrum (basal-plane average),0.31212348
+As,noSOC,120,harmonic phonon spectrum (basal-plane average),0.33447458
+As,noSOC,130,harmonic phonon spectrum (basal-plane average),0.35718809
+As,noSOC,140,harmonic phonon spectrum (basal-plane average),0.38019848
+As,noSOC,150,harmonic phonon spectrum (basal-plane average),0.40345443
+As,noSOC,160,harmonic phonon spectrum (basal-plane average),0.42691645
+As,noSOC,170,harmonic phonon spectrum (basal-plane average),0.45055218
+As,noSOC,180,harmonic phonon spectrum (basal-plane average),0.47433477
+As,noSOC,190,harmonic phonon spectrum (basal-plane average),0.49824448
+As,noSOC,200,harmonic phonon spectrum (basal-plane average),0.52226236
+As,noSOC,210,harmonic phonon spectrum (basal-plane average),0.54637498
+As,noSOC,220,harmonic phonon spectrum (basal-plane average),0.57056973
+As,noSOC,230,harmonic phonon spectrum (basal-plane average),0.5948379
+As,noSOC,240,harmonic phonon spectrum (basal-plane average),0.61916924
+As,noSOC,250,harmonic phonon spectrum (basal-plane average),0.64355742
+As,noSOC,260,harmonic phonon spectrum (basal-plane average),0.66799614
+As,noSOC,270,harmonic phonon spectrum (basal-plane average),0.69247987
+As,noSOC,280,harmonic phonon spectrum (basal-plane average),0.71700465
+As,noSOC,290,harmonic phonon spectrum (basal-plane average),0.74156496
+As,noSOC,300,harmonic phonon spectrum (basal-plane average),0.76615923
+As,noSOC,310,harmonic phonon spectrum (basal-plane average),0.79078271
+As,noSOC,320,harmonic phonon spectrum (basal-plane average),0.81543303
+As,noSOC,330,harmonic phonon spectrum (basal-plane average),0.84010941
+As,noSOC,340,harmonic phonon spectrum (basal-plane average),0.86480711
+As,noSOC,350,harmonic phonon spectrum (basal-plane average),0.88952613
+As,noSOC,360,harmonic phonon spectrum (basal-plane average),0.91426488
+As,noSOC,370,harmonic phonon spectrum (basal-plane average),0.93902022
+As,noSOC,380,harmonic phonon spectrum (basal-plane average),0.96379214
+As,noSOC,390,harmonic phonon spectrum (basal-plane average),0.98857906
+As,noSOC,400,harmonic phonon spectrum (basal-plane average),1.01338019
+As,noSOC,410,harmonic phonon spectrum (basal-plane average),1.03819395
+As,noSOC,420,harmonic phonon spectrum (basal-plane average),1.06302035
+As,noSOC,430,harmonic phonon spectrum (basal-plane average),1.08785701
+As,noSOC,440,harmonic phonon spectrum (basal-plane average),1.11270473
+As,noSOC,450,harmonic phonon spectrum (basal-plane average),1.13756192
+As,noSOC,460,harmonic phonon spectrum (basal-plane average),1.16242779
+As,noSOC,470,harmonic phonon spectrum (basal-plane average),1.18730315
+As,noSOC,480,harmonic phonon spectrum (basal-plane average),1.2121856
+As,noSOC,490,harmonic phonon spectrum (basal-plane average),1.23707595
+As,noSOC,500,harmonic phonon spectrum (basal-plane average),1.2619742
+As,noSOC,510,harmonic phonon spectrum (basal-plane average),1.28687798
+As,noSOC,520,harmonic phonon spectrum (basal-plane average),1.31178886
+As,noSOC,530,harmonic phonon spectrum (basal-plane average),1.33670527
+As,noSOC,540,harmonic phonon spectrum (basal-plane average),1.3616272
+As,noSOC,550,harmonic phonon spectrum (basal-plane average),1.38655467
+As,noSOC,560,harmonic phonon spectrum (basal-plane average),1.41148687
+As,noSOC,570,harmonic phonon spectrum (basal-plane average),1.43642459
+As,noSOC,580,harmonic phonon spectrum (basal-plane average),1.46136627
+As,noSOC,590,harmonic phonon spectrum (basal-plane average),1.48631189
+As,noSOC,600,harmonic phonon spectrum (basal-plane average),1.51126225
+As,noSOC,610,harmonic phonon spectrum (basal-plane average),1.53621656
+As,noSOC,620,harmonic phonon spectrum (basal-plane average),1.56117402
+As,noSOC,630,harmonic phonon spectrum (basal-plane average),1.58613544
+As,noSOC,640,harmonic phonon spectrum (basal-plane average),1.61110001
+As,noSOC,650,harmonic phonon spectrum (basal-plane average),1.63606774
+As,noSOC,660,harmonic phonon spectrum (basal-plane average),1.66103863
+As,noSOC,670,harmonic phonon spectrum (basal-plane average),1.68601268
+As,noSOC,680,harmonic phonon spectrum (basal-plane average),1.71098909
+As,noSOC,690,harmonic phonon spectrum (basal-plane average),1.73596867
+As,noSOC,700,harmonic phonon spectrum (basal-plane average),1.76095061
+As,noSOC,710,harmonic phonon spectrum (basal-plane average),1.78593492
+As,noSOC,720,harmonic phonon spectrum (basal-plane average),1.8109216
+As,noSOC,730,harmonic phonon spectrum (basal-plane average),1.83591065
+As,noSOC,740,harmonic phonon spectrum (basal-plane average),1.86090207
+As,noSOC,750,harmonic phonon spectrum (basal-plane average),1.88589506
+As,noSOC,760,harmonic phonon spectrum (basal-plane average),1.91089043
+As,noSOC,770,harmonic phonon spectrum (basal-plane average),1.93588737
+As,noSOC,780,harmonic phonon spectrum (basal-plane average),1.96088669
+As,noSOC,790,harmonic phonon spectrum (basal-plane average),1.98588758
+As,noSOC,800,harmonic phonon spectrum (basal-plane average),2.01089005
+As,noSOC,810,harmonic phonon spectrum (basal-plane average),2.0358941
+As,noSOC,820,harmonic phonon spectrum (basal-plane average),2.06089973
+As,noSOC,830,harmonic phonon spectrum (basal-plane average),2.08590694
+As,noSOC,840,harmonic phonon spectrum (basal-plane average),2.11091573
+As,noSOC,850,harmonic phonon spectrum (basal-plane average),2.13592609
+As,noSOC,860,harmonic phonon spectrum (basal-plane average),2.16093725
+As,noSOC,870,harmonic phonon spectrum (basal-plane average),2.18595012
+As,noSOC,0,harmonic phonon spectrum (c-axis),0.17579581
+As,noSOC,10,harmonic phonon spectrum (c-axis),0.17858694
+As,noSOC,20,harmonic phonon spectrum (c-axis),0.18865078
+As,noSOC,30,harmonic phonon spectrum (c-axis),0.20588547
+As,noSOC,40,harmonic phonon spectrum (c-axis),0.22854372
+As,noSOC,50,harmonic phonon spectrum (c-axis),0.25486635
+As,noSOC,60,harmonic phonon spectrum (c-axis),0.28367375
+As,noSOC,70,harmonic phonon spectrum (c-axis),0.31422925
+As,noSOC,80,harmonic phonon spectrum (c-axis),0.34605754
+As,noSOC,90,harmonic phonon spectrum (c-axis),0.37884042
+As,noSOC,100,harmonic phonon spectrum (c-axis),0.41235602
+As,noSOC,110,harmonic phonon spectrum (c-axis),0.44644405
+As,noSOC,120,harmonic phonon spectrum (c-axis),0.48098767
+As,noSOC,130,harmonic phonon spectrum (c-axis),0.51589922
+As,noSOC,140,harmonic phonon spectrum (c-axis),0.55111081
+As,noSOC,150,harmonic phonon spectrum (c-axis),0.58657033
+As,noSOC,160,harmonic phonon spectrum (c-axis),0.62223671
+As,noSOC,170,harmonic phonon spectrum (c-axis),0.65807759
+As,noSOC,180,harmonic phonon spectrum (c-axis),0.69406611
+As,noSOC,190,harmonic phonon spectrum (c-axis),0.73018097
+As,noSOC,200,harmonic phonon spectrum (c-axis),0.76640557
+As,noSOC,210,harmonic phonon spectrum (c-axis),0.80272493
+As,noSOC,220,harmonic phonon spectrum (c-axis),0.83912719
+As,noSOC,230,harmonic phonon spectrum (c-axis),0.8756013
+As,noSOC,240,harmonic phonon spectrum (c-axis),0.91213936
+As,noSOC,250,harmonic phonon spectrum (c-axis),0.94873507
+As,noSOC,260,harmonic phonon spectrum (c-axis),0.98538051
+As,noSOC,270,harmonic phonon spectrum (c-axis),1.02207176
+As,noSOC,280,harmonic phonon spectrum (c-axis),1.05880247
+As,noSOC,290,harmonic phonon spectrum (c-axis),1.0955703
+As,noSOC,300,harmonic phonon spectrum (c-axis),1.1323713
+As,noSOC,310,harmonic phonon spectrum (c-axis),1.16920229
+As,noSOC,320,harmonic phonon spectrum (c-axis),1.20606013
+As,noSOC,330,harmonic phonon spectrum (c-axis),1.24294324
+As,noSOC,340,harmonic phonon spectrum (c-axis),1.27984845
+As,noSOC,350,harmonic phonon spectrum (c-axis),1.31677419
+As,noSOC,360,harmonic phonon spectrum (c-axis),1.35371968
+As,noSOC,370,harmonic phonon spectrum (c-axis),1.39068253
+As,noSOC,380,harmonic phonon spectrum (c-axis),1.42766196
+As,noSOC,390,harmonic phonon spectrum (c-axis),1.46465561
+As,noSOC,400,harmonic phonon spectrum (c-axis),1.50166347
+As,noSOC,410,harmonic phonon spectrum (c-axis),1.53868475
+As,noSOC,420,harmonic phonon spectrum (c-axis),1.57571787
+As,noSOC,430,harmonic phonon spectrum (c-axis),1.61276205
+As,noSOC,440,harmonic phonon spectrum (c-axis),1.64981649
+As,noSOC,450,harmonic phonon spectrum (c-axis),1.68688041
+As,noSOC,460,harmonic phonon spectrum (c-axis),1.7239538
+As,noSOC,470,harmonic phonon spectrum (c-axis),1.76103588
+As,noSOC,480,harmonic phonon spectrum (c-axis),1.79812586
+As,noSOC,490,harmonic phonon spectrum (c-axis),1.83522372
+As,noSOC,500,harmonic phonon spectrum (c-axis),1.87232791
+As,noSOC,510,harmonic phonon spectrum (c-axis),1.9094392
+As,noSOC,520,harmonic phonon spectrum (c-axis),1.94655681
+As,noSOC,530,harmonic phonon spectrum (c-axis),1.98368073
+As,noSOC,540,harmonic phonon spectrum (c-axis),2.02081019
+As,noSOC,550,harmonic phonon spectrum (c-axis),2.05794438
+As,noSOC,560,harmonic phonon spectrum (c-axis),2.09508409
+As,noSOC,570,harmonic phonon spectrum (c-axis),2.13222855
+As,noSOC,580,harmonic phonon spectrum (c-axis),2.16937695
+As,noSOC,590,harmonic phonon spectrum (c-axis),2.20653009
+As,noSOC,600,harmonic phonon spectrum (c-axis),2.24368717
+As,noSOC,610,harmonic phonon spectrum (c-axis),2.280849
+As,noSOC,620,harmonic phonon spectrum (c-axis),2.31801319
+As,noSOC,630,harmonic phonon spectrum (c-axis),2.35518212
+As,noSOC,640,harmonic phonon spectrum (c-axis),2.39235342
+As,noSOC,650,harmonic phonon spectrum (c-axis),2.42952866
+As,noSOC,660,harmonic phonon spectrum (c-axis),2.46670628
+As,noSOC,670,harmonic phonon spectrum (c-axis),2.50388784
+As,noSOC,680,harmonic phonon spectrum (c-axis),2.54107099
+As,noSOC,690,harmonic phonon spectrum (c-axis),2.57825729
+As,noSOC,700,harmonic phonon spectrum (c-axis),2.61544675
+As,noSOC,710,harmonic phonon spectrum (c-axis),2.65263778
+As,noSOC,720,harmonic phonon spectrum (c-axis),2.68983198
+As,noSOC,730,harmonic phonon spectrum (c-axis),2.72702776
+As,noSOC,740,harmonic phonon spectrum (c-axis),2.7642259
+As,noSOC,750,harmonic phonon spectrum (c-axis),2.80142641
+As,noSOC,760,harmonic phonon spectrum (c-axis),2.83862929
+As,noSOC,770,harmonic phonon spectrum (c-axis),2.87583297
+As,noSOC,780,harmonic phonon spectrum (c-axis),2.91303901
+As,noSOC,790,harmonic phonon spectrum (c-axis),2.95024741
+As,noSOC,800,harmonic phonon spectrum (c-axis),2.98745661
+As,noSOC,810,harmonic phonon spectrum (c-axis),3.02466818
+As,noSOC,820,harmonic phonon spectrum (c-axis),3.06188054
+As,noSOC,830,harmonic phonon spectrum (c-axis),3.09909526
+As,noSOC,840,harmonic phonon spectrum (c-axis),3.13631078
+As,noSOC,850,harmonic phonon spectrum (c-axis),3.17352866
+As,noSOC,860,harmonic phonon spectrum (c-axis),3.21074733
+As,noSOC,870,harmonic phonon spectrum (c-axis),3.24796679
+Sb,noSOC,0,empirical digitized reference,0.27142857
+Sb,noSOC,10,empirical digitized reference,0.17678498
+Sb,noSOC,20,empirical digitized reference,0.13142857
+Sb,noSOC,30,empirical digitized reference,0.13536578
+Sb,noSOC,40,empirical digitized reference,0.14523419
+Sb,noSOC,50,empirical digitized reference,0.15811899
+Sb,noSOC,60,empirical digitized reference,0.17192732
+Sb,noSOC,70,empirical digitized reference,0.19066437
+Sb,noSOC,80,empirical digitized reference,0.2135798
+Sb,noSOC,90,empirical digitized reference,0.2385025
+Sb,noSOC,100,empirical digitized reference,0.26326135
+Sb,noSOC,110,empirical digitized reference,0.28568523
+Sb,noSOC,120,empirical digitized reference,0.30494417
+Sb,noSOC,130,empirical digitized reference,0.32278936
+Sb,noSOC,140,empirical digitized reference,0.3399472
+Sb,noSOC,150,empirical digitized reference,0.3571166
+Sb,noSOC,160,empirical digitized reference,0.37499647
+Sb,noSOC,170,empirical digitized reference,0.39428571
+Sb,noSOC,180,empirical digitized reference,0.41519789
+Sb,noSOC,190,empirical digitized reference,0.4373194
+Sb,noSOC,200,empirical digitized reference,0.46040836
+Sb,noSOC,210,empirical digitized reference,0.48422291
+Sb,noSOC,220,empirical digitized reference,0.50852118
+Sb,noSOC,230,empirical digitized reference,0.53306132
+Sb,noSOC,240,empirical digitized reference,0.55760146
+Sb,noSOC,250,empirical digitized reference,0.58189974
+Sb,noSOC,260,empirical digitized reference,0.60571429
+Sb,noSOC,270,empirical digitized reference,0.6292708
+Sb,noSOC,280,empirical digitized reference,0.65292399
+Sb,noSOC,290,empirical digitized reference,0.67662552
+Sb,noSOC,300,empirical digitized reference,0.70032704
+Sb,noSOC,310,empirical digitized reference,0.72398023
+Sb,noSOC,320,empirical digitized reference,0.74753675
+Sb,noSOC,330,empirical digitized reference,0.77094825
+Sb,noSOC,340,empirical digitized reference,0.7941664
+Sb,noSOC,350,empirical digitized reference,0.81714286
+Sb,noSOC,360,empirical digitized reference,0.83982627
+Sb,noSOC,370,empirical digitized reference,0.86224124
+Sb,noSOC,380,empirical digitized reference,0.8844534
+Sb,noSOC,390,empirical digitized reference,0.90652839
+Sb,noSOC,400,empirical digitized reference,0.92853184
+Sb,noSOC,410,empirical digitized reference,0.95052938
+Sb,noSOC,420,empirical digitized reference,0.97258664
+Sb,noSOC,430,empirical digitized reference,0.99476925
+Sb,noSOC,440,empirical digitized reference,1.01714286
+Sb,noSOC,450,empirical digitized reference,1.0396763
+Sb,noSOC,460,empirical digitized reference,1.06228865
+Sb,noSOC,470,empirical digitized reference,1.08497084
+Sb,noSOC,480,empirical digitized reference,1.10771383
+Sb,noSOC,490,empirical digitized reference,1.13050855
+Sb,noSOC,500,empirical digitized reference,1.15334597
+Sb,noSOC,510,empirical digitized reference,1.17621701
+Sb,noSOC,520,empirical digitized reference,1.19911264
+Sb,noSOC,530,empirical digitized reference,1.2220238
+Sb,noSOC,540,empirical digitized reference,1.24496233
+Sb,noSOC,550,empirical digitized reference,1.26797356
+Sb,noSOC,560,empirical digitized reference,1.29104508
+Sb,noSOC,570,empirical digitized reference,1.31416106
+Sb,noSOC,580,empirical digitized reference,1.33730568
+Sb,noSOC,590,empirical digitized reference,1.36046311
+Sb,noSOC,600,empirical digitized reference,1.38361751
+Sb,noSOC,610,empirical digitized reference,1.40675305
+Sb,noSOC,620,empirical digitized reference,1.42985391
+Sb,noSOC,630,empirical digitized reference,1.45290425
+Sb,noSOC,640,empirical digitized reference,1.47588824
+Sb,noSOC,650,empirical digitized reference,1.49879389
+Sb,noSOC,660,empirical digitized reference,1.52163454
+Sb,noSOC,670,empirical digitized reference,1.54442402
+Sb,noSOC,680,empirical digitized reference,1.56717483
+Sb,noSOC,690,empirical digitized reference,1.58989953
+Sb,noSOC,700,empirical digitized reference,1.61261062
+Sb,noSOC,710,empirical digitized reference,1.63532065
+Sb,noSOC,720,empirical digitized reference,1.65804213
+Sb,noSOC,730,empirical digitized reference,1.68083871
+Sb,noSOC,740,empirical digitized reference,1.70444912
+Sb,noSOC,750,empirical digitized reference,1.72868872
+Sb,noSOC,760,empirical digitized reference,1.75300539
+Sb,noSOC,770,empirical digitized reference,1.77684698
+Sb,noSOC,780,empirical digitized reference,1.79966136
+Sb,noSOC,790,empirical digitized reference,1.82089642
+Sb,noSOC,800,empirical digitized reference,1.84
+Sb,noSOC,810,empirical digitized reference,1.85742082
+Sb,noSOC,820,empirical digitized reference,1.87391384
+Sb,noSOC,830,empirical digitized reference,1.88938634
+Sb,noSOC,840,empirical digitized reference,1.90374557
+Sb,noSOC,850,empirical digitized reference,1.91689881
+Sb,noSOC,860,empirical digitized reference,NA
+Sb,noSOC,870,empirical digitized reference,NA
+Sb,noSOC,880,empirical digitized reference,NA
+Sb,noSOC,890,empirical digitized reference,NA
+Sb,noSOC,0,elastic-derived Debye,0.1141407
+Sb,noSOC,10,elastic-derived Debye,0.11589861
+Sb,noSOC,20,elastic-derived Debye,0.12117078
+Sb,noSOC,30,elastic-derived Debye,0.12988462
+Sb,noSOC,40,elastic-derived Debye,0.14166466
+Sb,noSOC,50,elastic-derived Debye,0.15587502
+Sb,noSOC,60,elastic-derived Debye,0.17189016
+Sb,noSOC,70,elastic-derived Debye,0.18921982
+Sb,noSOC,80,elastic-derived Debye,0.20751094
+Sb,noSOC,90,elastic-derived Debye,0.22651528
+Sb,noSOC,100,elastic-derived Debye,0.24605803
+Sb,noSOC,110,elastic-derived Debye,0.26601456
+Sb,noSOC,120,elastic-derived Debye,0.28629456
+Sb,noSOC,130,elastic-derived Debye,0.30683147
+Sb,noSOC,140,elastic-derived Debye,0.32757534
+Sb,noSOC,150,elastic-derived Debye,0.34848814
+Sb,noSOC,160,elastic-derived Debye,0.36954044
+Sb,noSOC,170,elastic-derived Debye,0.39070916
+Sb,noSOC,180,elastic-derived Debye,0.411976
+Sb,noSOC,190,elastic-derived Debye,0.43332622
+Sb,noSOC,200,elastic-derived Debye,0.45474789
+Sb,noSOC,210,elastic-derived Debye,0.47623122
+Sb,noSOC,220,elastic-derived Debye,0.49776811
+Sb,noSOC,230,elastic-derived Debye,0.51935182
+Sb,noSOC,240,elastic-derived Debye,0.54097667
+Sb,noSOC,250,elastic-derived Debye,0.56263786
+Sb,noSOC,260,elastic-derived Debye,0.58433132
+Sb,noSOC,270,elastic-derived Debye,0.60605355
+Sb,noSOC,280,elastic-derived Debye,0.62780153
+Sb,noSOC,290,elastic-derived Debye,0.64957267
+Sb,noSOC,300,elastic-derived Debye,0.67136467
+Sb,noSOC,310,elastic-derived Debye,0.69317558
+Sb,noSOC,320,elastic-derived Debye,0.71500364
+Sb,noSOC,330,elastic-derived Debye,0.73684732
+Sb,noSOC,340,elastic-derived Debye,0.75870526
+Sb,noSOC,350,elastic-derived Debye,0.78057626
+Sb,noSOC,360,elastic-derived Debye,0.80245925
+Sb,noSOC,370,elastic-derived Debye,0.82435327
+Sb,noSOC,380,elastic-derived Debye,0.84625744
+Sb,noSOC,390,elastic-derived Debye,0.86817102
+Sb,noSOC,400,elastic-derived Debye,0.89009329
+Sb,noSOC,410,elastic-derived Debye,0.91202362
+Sb,noSOC,420,elastic-derived Debye,0.93396145
+Sb,noSOC,430,elastic-derived Debye,0.95590627
+Sb,noSOC,440,elastic-derived Debye,0.97785758
+Sb,noSOC,450,elastic-derived Debye,0.99981498
+Sb,noSOC,460,elastic-derived Debye,1.02177806
+Sb,noSOC,470,elastic-derived Debye,1.04374646
+Sb,noSOC,480,elastic-derived Debye,1.06571985
+Sb,noSOC,490,elastic-derived Debye,1.08769794
+Sb,noSOC,500,elastic-derived Debye,1.10968044
+Sb,noSOC,510,elastic-derived Debye,1.13166709
+Sb,noSOC,520,elastic-derived Debye,1.15365765
+Sb,noSOC,530,elastic-derived Debye,1.17565191
+Sb,noSOC,540,elastic-derived Debye,1.19764966
+Sb,noSOC,550,elastic-derived Debye,1.21965072
+Sb,noSOC,560,elastic-derived Debye,1.2416549
+Sb,noSOC,570,elastic-derived Debye,1.26366204
+Sb,noSOC,580,elastic-derived Debye,1.28567198
+Sb,noSOC,590,elastic-derived Debye,1.3076846
+Sb,noSOC,600,elastic-derived Debye,1.32969975
+Sb,noSOC,610,elastic-derived Debye,1.35171732
+Sb,noSOC,620,elastic-derived Debye,1.37373717
+Sb,noSOC,630,elastic-derived Debye,1.39575922
+Sb,noSOC,640,elastic-derived Debye,1.41778334
+Sb,noSOC,650,elastic-derived Debye,1.43980946
+Sb,noSOC,660,elastic-derived Debye,1.46183747
+Sb,noSOC,670,elastic-derived Debye,1.48386729
+Sb,noSOC,680,elastic-derived Debye,1.50589885
+Sb,noSOC,690,elastic-derived Debye,1.52793207
+Sb,noSOC,700,elastic-derived Debye,1.54996688
+Sb,noSOC,710,elastic-derived Debye,1.5720032
+Sb,noSOC,720,elastic-derived Debye,1.59404099
+Sb,noSOC,730,elastic-derived Debye,1.61608017
+Sb,noSOC,740,elastic-derived Debye,1.63812069
+Sb,noSOC,750,elastic-derived Debye,1.6601625
+Sb,noSOC,760,elastic-derived Debye,1.68220555
+Sb,noSOC,770,elastic-derived Debye,1.70424979
+Sb,noSOC,780,elastic-derived Debye,1.72629517
+Sb,noSOC,790,elastic-derived Debye,1.74834165
+Sb,noSOC,800,elastic-derived Debye,1.77038919
+Sb,noSOC,810,elastic-derived Debye,1.79243775
+Sb,noSOC,820,elastic-derived Debye,1.8144873
+Sb,noSOC,830,elastic-derived Debye,1.83653779
+Sb,noSOC,840,elastic-derived Debye,1.85858919
+Sb,noSOC,850,elastic-derived Debye,1.88064148
+Sb,noSOC,860,elastic-derived Debye,1.90269461
+Sb,noSOC,870,elastic-derived Debye,1.92474857
+Sb,noSOC,880,elastic-derived Debye,1.94680332
+Sb,noSOC,890,elastic-derived Debye,1.96885884
+Sb,noSOC,0,quasi-harmonic Debye,0.09458482
+Sb,noSOC,10,quasi-harmonic Debye,0.09558536
+Sb,noSOC,20,quasi-harmonic Debye,0.09858918
+Sb,noSOC,30,quasi-harmonic Debye,0.10359086
+Sb,noSOC,40,quasi-harmonic Debye,0.11050146
+Sb,noSOC,50,quasi-harmonic Debye,0.11908874
+Sb,noSOC,60,quasi-harmonic Debye,0.12905029
+Sb,noSOC,70,quasi-harmonic Debye,0.14010078
+Sb,noSOC,80,quasi-harmonic Debye,0.15200709
+Sb,noSOC,90,quasi-harmonic Debye,0.16459047
+Sb,noSOC,100,quasi-harmonic Debye,0.17771682
+Sb,noSOC,110,quasi-harmonic Debye,0.19128592
+Sb,noSOC,120,quasi-harmonic Debye,0.20522281
+Sb,noSOC,130,quasi-harmonic Debye,0.21947085
+Sb,noSOC,140,quasi-harmonic Debye,0.23398701
+Sb,noSOC,150,quasi-harmonic Debye,0.24873851
+Sb,noSOC,160,quasi-harmonic Debye,0.26369905
+Sb,noSOC,170,quasi-harmonic Debye,0.27884833
+Sb,noSOC,180,quasi-harmonic Debye,0.29416998
+Sb,noSOC,190,quasi-harmonic Debye,0.30965089
+Sb,noSOC,200,quasi-harmonic Debye,0.32528035
+Sb,noSOC,210,quasi-harmonic Debye,0.34105003
+Sb,noSOC,220,quasi-harmonic Debye,0.356953
+Sb,noSOC,230,quasi-harmonic Debye,0.37298337
+Sb,noSOC,240,quasi-harmonic Debye,0.38913656
+Sb,noSOC,250,quasi-harmonic Debye,0.40472442
+Sb,noSOC,260,quasi-harmonic Debye,0.42113559
+Sb,noSOC,270,quasi-harmonic Debye,0.43766227
+Sb,noSOC,280,quasi-harmonic Debye,0.45430249
+Sb,noSOC,290,quasi-harmonic Debye,0.47105393
+Sb,noSOC,300,quasi-harmonic Debye,0.48791667
+Sb,noSOC,310,quasi-harmonic Debye,0.50488753
+Sb,noSOC,320,quasi-harmonic Debye,0.52196518
+Sb,noSOC,330,quasi-harmonic Debye,0.53914894
+Sb,noSOC,340,quasi-harmonic Debye,0.55643791
+Sb,noSOC,350,quasi-harmonic Debye,0.57383162
+Sb,noSOC,360,quasi-harmonic Debye,0.59132967
+Sb,noSOC,370,quasi-harmonic Debye,0.60893184
+Sb,noSOC,380,quasi-harmonic Debye,0.62663822
+Sb,noSOC,390,quasi-harmonic Debye,0.64444884
+Sb,noSOC,400,quasi-harmonic Debye,0.66236373
+Sb,noSOC,410,quasi-harmonic Debye,0.68038313
+Sb,noSOC,420,quasi-harmonic Debye,0.69850712
+Sb,noSOC,430,quasi-harmonic Debye,0.71673605
+Sb,noSOC,440,quasi-harmonic Debye,0.73506975
+Sb,noSOC,450,quasi-harmonic Debye,0.75350885
+Sb,noSOC,460,quasi-harmonic Debye,0.77205342
+Sb,noSOC,470,quasi-harmonic Debye,0.79070382
+Sb,noSOC,480,quasi-harmonic Debye,0.80946032
+Sb,noSOC,490,quasi-harmonic Debye,0.82832346
+Sb,noSOC,500,quasi-harmonic Debye,0.84729396
+Sb,noSOC,510,quasi-harmonic Debye,0.8663761
+Sb,noSOC,520,quasi-harmonic Debye,0.88557219
+Sb,noSOC,530,quasi-harmonic Debye,0.90488352
+Sb,noSOC,540,quasi-harmonic Debye,0.92431098
+Sb,noSOC,550,quasi-harmonic Debye,0.94385571
+Sb,noSOC,560,quasi-harmonic Debye,0.96351888
+Sb,noSOC,570,quasi-harmonic Debye,0.98330168
+Sb,noSOC,580,quasi-harmonic Debye,1.00320537
+Sb,noSOC,590,quasi-harmonic Debye,1.02323111
+Sb,noSOC,600,quasi-harmonic Debye,1.04338039
+Sb,noSOC,610,quasi-harmonic Debye,1.06365425
+Sb,noSOC,620,quasi-harmonic Debye,1.08405445
+Sb,noSOC,630,quasi-harmonic Debye,1.10458203
+Sb,noSOC,640,quasi-harmonic Debye,1.12523877
+Sb,noSOC,650,quasi-harmonic Debye,1.14602587
+Sb,noSOC,660,quasi-harmonic Debye,1.16694496
+Sb,noSOC,670,quasi-harmonic Debye,1.18799782
+Sb,noSOC,680,quasi-harmonic Debye,1.20918584
+Sb,noSOC,690,quasi-harmonic Debye,1.23051098
+Sb,noSOC,700,quasi-harmonic Debye,1.25197428
+Sb,noSOC,710,quasi-harmonic Debye,1.27357802
+Sb,noSOC,720,quasi-harmonic Debye,1.2953237
+Sb,noSOC,730,quasi-harmonic Debye,1.31448011
+Sb,noSOC,740,quasi-harmonic Debye,1.33672042
+Sb,noSOC,750,quasi-harmonic Debye,1.35910609
+Sb,noSOC,760,quasi-harmonic Debye,1.38163819
+Sb,noSOC,770,quasi-harmonic Debye,1.40431877
+Sb,noSOC,780,quasi-harmonic Debye,1.42714792
+Sb,noSOC,790,quasi-harmonic Debye,1.45012775
+Sb,noSOC,800,quasi-harmonic Debye,1.47325891
+Sb,noSOC,810,quasi-harmonic Debye,1.49654271
+Sb,noSOC,820,quasi-harmonic Debye,1.51998071
+Sb,noSOC,830,quasi-harmonic Debye,1.54357424
+Sb,noSOC,840,quasi-harmonic Debye,1.56732462
+Sb,noSOC,850,quasi-harmonic Debye,1.59123335
+Sb,noSOC,860,quasi-harmonic Debye,1.61530153
+Sb,noSOC,870,quasi-harmonic Debye,1.63953238
+Sb,noSOC,880,quasi-harmonic Debye,1.66392639
+Sb,noSOC,890,quasi-harmonic Debye,1.68848619
+Sb,noSOC,0,harmonic phonon spectrum (isotropic),0.14328323
+Sb,noSOC,10,harmonic phonon spectrum (isotropic),0.14565088
+Sb,noSOC,20,harmonic phonon spectrum (isotropic),0.15588422
+Sb,noSOC,30,harmonic phonon spectrum (isotropic),0.1743238
+Sb,noSOC,40,harmonic phonon spectrum (isotropic),0.19811507
+Sb,noSOC,50,harmonic phonon spectrum (isotropic),0.22525253
+Sb,noSOC,60,harmonic phonon spectrum (isotropic),0.25457684
+Sb,noSOC,70,harmonic phonon spectrum (isotropic),0.2853879
+Sb,noSOC,80,harmonic phonon spectrum (isotropic),0.31724567
+Sb,noSOC,90,harmonic phonon spectrum (isotropic),0.34986195
+Sb,noSOC,100,harmonic phonon spectrum (isotropic),0.38304224
+Sb,noSOC,110,harmonic phonon spectrum (isotropic),0.41665232
+Sb,noSOC,120,harmonic phonon spectrum (isotropic),0.45059482
+Sb,noSOC,130,harmonic phonon spectrum (isotropic),0.48480102
+Sb,noSOC,140,harmonic phonon spectrum (isotropic),0.51921804
+Sb,noSOC,150,harmonic phonon spectrum (isotropic),0.55380745
+Sb,noSOC,160,harmonic phonon spectrum (isotropic),0.5885382
+Sb,noSOC,170,harmonic phonon spectrum (isotropic),0.62338659
+Sb,noSOC,180,harmonic phonon spectrum (isotropic),0.65833446
+Sb,noSOC,190,harmonic phonon spectrum (isotropic),0.69336629
+Sb,noSOC,200,harmonic phonon spectrum (isotropic),0.7284705
+Sb,noSOC,210,harmonic phonon spectrum (isotropic),0.76363709
+Sb,noSOC,220,harmonic phonon spectrum (isotropic),0.79885736
+Sb,noSOC,230,harmonic phonon spectrum (isotropic),0.83412448
+Sb,noSOC,240,harmonic phonon spectrum (isotropic),0.86943319
+Sb,noSOC,250,harmonic phonon spectrum (isotropic),0.90477874
+Sb,noSOC,260,harmonic phonon spectrum (isotropic),0.94015641
+Sb,noSOC,270,harmonic phonon spectrum (isotropic),0.97556302
+Sb,noSOC,280,harmonic phonon spectrum (isotropic),1.01099569
+Sb,noSOC,290,harmonic phonon spectrum (isotropic),1.04645152
+Sb,noSOC,300,harmonic phonon spectrum (isotropic),1.08192788
+Sb,noSOC,310,harmonic phonon spectrum (isotropic),1.11742371
+Sb,noSOC,320,harmonic phonon spectrum (isotropic),1.15293692
+Sb,noSOC,330,harmonic phonon spectrum (isotropic),1.18846513
+Sb,noSOC,340,harmonic phonon spectrum (isotropic),1.22400781
+Sb,noSOC,350,harmonic phonon spectrum (isotropic),1.25956391
+Sb,noSOC,360,harmonic phonon spectrum (isotropic),1.29513213
+Sb,noSOC,370,harmonic phonon spectrum (isotropic),1.33071113
+Sb,noSOC,380,harmonic phonon spectrum (isotropic),1.36630013
+Sb,noSOC,390,harmonic phonon spectrum (isotropic),1.40189887
+Sb,noSOC,400,harmonic phonon spectrum (isotropic),1.43750604
+Sb,noSOC,410,harmonic phonon spectrum (isotropic),1.47312189
+Sb,noSOC,420,harmonic phonon spectrum (isotropic),1.50874484
+Sb,noSOC,430,harmonic phonon spectrum (isotropic),1.54437438
+Sb,noSOC,440,harmonic phonon spectrum (isotropic),1.58001102
+Sb,noSOC,450,harmonic phonon spectrum (isotropic),1.61565371
+Sb,noSOC,460,harmonic phonon spectrum (isotropic),1.65130194
+Sb,noSOC,470,harmonic phonon spectrum (isotropic),1.68695568
+Sb,noSOC,480,harmonic phonon spectrum (isotropic),1.72261417
+Sb,noSOC,490,harmonic phonon spectrum (isotropic),1.75827766
+Sb,noSOC,500,harmonic phonon spectrum (isotropic),1.79394509
+Sb,noSOC,510,harmonic phonon spectrum (isotropic),1.829617
+Sb,noSOC,520,harmonic phonon spectrum (isotropic),1.86529286
+Sb,noSOC,530,harmonic phonon spectrum (isotropic),1.90097213
+Sb,noSOC,540,harmonic phonon spectrum (isotropic),1.9366551
+Sb,noSOC,550,harmonic phonon spectrum (isotropic),1.97234122
+Sb,noSOC,560,harmonic phonon spectrum (isotropic),2.00803076
+Sb,noSOC,570,harmonic phonon spectrum (isotropic),2.0437232
+Sb,noSOC,580,harmonic phonon spectrum (isotropic),2.079418
+Sb,noSOC,590,harmonic phonon spectrum (isotropic),2.11511623
+Sb,noSOC,600,harmonic phonon spectrum (isotropic),2.15081656
+Sb,noSOC,610,harmonic phonon spectrum (isotropic),2.18651927
+Sb,noSOC,620,harmonic phonon spectrum (isotropic),2.22222434
+Sb,noSOC,630,harmonic phonon spectrum (isotropic),2.25793177
+Sb,noSOC,640,harmonic phonon spectrum (isotropic),2.29364106
+Sb,noSOC,650,harmonic phonon spectrum (isotropic),2.32935244
+Sb,noSOC,660,harmonic phonon spectrum (isotropic),2.36506567
+Sb,noSOC,670,harmonic phonon spectrum (isotropic),2.40078101
+Sb,noSOC,680,harmonic phonon spectrum (isotropic),2.43649739
+Sb,noSOC,690,harmonic phonon spectrum (isotropic),2.47221589
+Sb,noSOC,700,harmonic phonon spectrum (isotropic),2.50793596
+Sb,noSOC,710,harmonic phonon spectrum (isotropic),2.54365761
+Sb,noSOC,720,harmonic phonon spectrum (isotropic),2.57938032
+Sb,noSOC,730,harmonic phonon spectrum (isotropic),2.61510513
+Sb,noSOC,740,harmonic phonon spectrum (isotropic),2.65083099
+Sb,noSOC,750,harmonic phonon spectrum (isotropic),2.68655817
+Sb,noSOC,760,harmonic phonon spectrum (isotropic),2.72228613
+Sb,noSOC,770,harmonic phonon spectrum (isotropic),2.75801568
+Sb,noSOC,780,harmonic phonon spectrum (isotropic),2.79374628
+Sb,noSOC,790,harmonic phonon spectrum (isotropic),2.8294782
+Sb,noSOC,800,harmonic phonon spectrum (isotropic),2.8652109
+Sb,noSOC,810,harmonic phonon spectrum (isotropic),2.90094466
+Sb,noSOC,820,harmonic phonon spectrum (isotropic),2.93667921
+Sb,noSOC,830,harmonic phonon spectrum (isotropic),2.97241507
+Sb,noSOC,840,harmonic phonon spectrum (isotropic),3.00815172
+Sb,noSOC,850,harmonic phonon spectrum (isotropic),3.04388943
+Sb,noSOC,860,harmonic phonon spectrum (isotropic),3.07962766
+Sb,noSOC,870,harmonic phonon spectrum (isotropic),3.11536668
+Sb,noSOC,880,harmonic phonon spectrum (isotropic),3.15110676
+Sb,noSOC,890,harmonic phonon spectrum (isotropic),3.18684789
+Sb,noSOC,0,harmonic phonon spectrum (basal-plane average),0.1409948
+Sb,noSOC,10,harmonic phonon spectrum (basal-plane average),0.14300267
+Sb,noSOC,20,harmonic phonon spectrum (basal-plane average),0.1521893
+Sb,noSOC,30,harmonic phonon spectrum (basal-plane average),0.16927082
+Sb,noSOC,40,harmonic phonon spectrum (basal-plane average),0.19155007
+Sb,noSOC,50,harmonic phonon spectrum (basal-plane average),0.21711156
+Sb,noSOC,60,harmonic phonon spectrum (basal-plane average),0.24483488
+Sb,noSOC,70,harmonic phonon spectrum (basal-plane average),0.2740347
+Sb,noSOC,80,harmonic phonon spectrum (basal-plane average),0.30427675
+Sb,noSOC,90,harmonic phonon spectrum (basal-plane average),0.3352752
+Sb,noSOC,100,harmonic phonon spectrum (basal-plane average),0.36683661
+Sb,noSOC,110,harmonic phonon spectrum (basal-plane average),0.39882756
+Sb,noSOC,120,harmonic phonon spectrum (basal-plane average),0.43115012
+Sb,noSOC,130,harmonic phonon spectrum (basal-plane average),0.46373639
+Sb,noSOC,140,harmonic phonon spectrum (basal-plane average),0.49653348
+Sb,noSOC,150,harmonic phonon spectrum (basal-plane average),0.5295027
+Sb,noSOC,160,harmonic phonon spectrum (basal-plane average),0.56261325
+Sb,noSOC,170,harmonic phonon spectrum (basal-plane average),0.59584144
+Sb,noSOC,180,harmonic phonon spectrum (basal-plane average),0.62916912
+Sb,noSOC,190,harmonic phonon spectrum (basal-plane average),0.66258049
+Sb,noSOC,200,harmonic phonon spectrum (basal-plane average),0.69606451
+Sb,noSOC,210,harmonic phonon spectrum (basal-plane average),0.7296109
+Sb,noSOC,220,harmonic phonon spectrum (basal-plane average),0.76321098
+Sb,noSOC,230,harmonic phonon spectrum (basal-plane average),0.79685765
+Sb,noSOC,240,harmonic phonon spectrum (basal-plane average),0.83054616
+Sb,noSOC,250,harmonic phonon spectrum (basal-plane average),0.86427178
+Sb,noSOC,260,harmonic phonon spectrum (basal-plane average),0.89802899
+Sb,noSOC,270,harmonic phonon spectrum (basal-plane average),0.93181541
+Sb,noSOC,280,harmonic phonon spectrum (basal-plane average),0.96562788
+Sb,noSOC,290,harmonic phonon spectrum (basal-plane average),0.99946325
+Sb,noSOC,300,harmonic phonon spectrum (basal-plane average),1.03331916
+Sb,noSOC,310,harmonic phonon spectrum (basal-plane average),1.0671948
+Sb,noSOC,320,harmonic phonon spectrum (basal-plane average),1.10108781
+Sb,noSOC,330,harmonic phonon spectrum (basal-plane average),1.13499582
+Sb,noSOC,340,harmonic phonon spectrum (basal-plane average),1.16891805
+Sb,noSOC,350,harmonic phonon spectrum (basal-plane average),1.20285369
+Sb,noSOC,360,harmonic phonon spectrum (basal-plane average),1.23680197
+Sb,noSOC,370,harmonic phonon spectrum (basal-plane average),1.27076052
+Sb,noSOC,380,harmonic phonon spectrum (basal-plane average),1.30472933
+Sb,noSOC,390,harmonic phonon spectrum (basal-plane average),1.33870761
+Sb,noSOC,400,harmonic phonon spectrum (basal-plane average),1.37269458
+Sb,noSOC,410,harmonic phonon spectrum (basal-plane average),1.40669024
+Sb,noSOC,420,harmonic phonon spectrum (basal-plane average),1.440693
+Sb,noSOC,430,harmonic phonon spectrum (basal-plane average),1.47470208
+Sb,noSOC,440,harmonic phonon spectrum (basal-plane average),1.50871826
+Sb,noSOC,450,harmonic phonon spectrum (basal-plane average),1.54274076
+Sb,noSOC,460,harmonic phonon spectrum (basal-plane average),1.57676879
+Sb,noSOC,470,harmonic phonon spectrum (basal-plane average),1.61080234
+Sb,noSOC,480,harmonic phonon spectrum (basal-plane average),1.64484063
+Sb,noSOC,490,harmonic phonon spectrum (basal-plane average),1.67888366
+Sb,noSOC,500,harmonic phonon spectrum (basal-plane average),1.71293064
+Sb,noSOC,510,harmonic phonon spectrum (basal-plane average),1.74698235
+Sb,noSOC,520,harmonic phonon spectrum (basal-plane average),1.78103802
+Sb,noSOC,530,harmonic phonon spectrum (basal-plane average),1.81509684
+Sb,noSOC,540,harmonic phonon spectrum (basal-plane average),1.84915961
+Sb,noSOC,550,harmonic phonon spectrum (basal-plane average),1.88322553
+Sb,noSOC,560,harmonic phonon spectrum (basal-plane average),1.91729462
+Sb,noSOC,570,harmonic phonon spectrum (basal-plane average),1.95136686
+Sb,noSOC,580,harmonic phonon spectrum (basal-plane average),1.98544147
+Sb,noSOC,590,harmonic phonon spectrum (basal-plane average),2.01951924
+Sb,noSOC,600,harmonic phonon spectrum (basal-plane average),2.05359938
+Sb,noSOC,610,harmonic phonon spectrum (basal-plane average),2.08768189
+Sb,noSOC,620,harmonic phonon spectrum (basal-plane average),2.12176676
+Sb,noSOC,630,harmonic phonon spectrum (basal-plane average),2.15585401
+Sb,noSOC,640,harmonic phonon spectrum (basal-plane average),2.18994283
+Sb,noSOC,650,harmonic phonon spectrum (basal-plane average),2.22403403
+Sb,noSOC,660,harmonic phonon spectrum (basal-plane average),2.2581268
+Sb,noSOC,670,harmonic phonon spectrum (basal-plane average),2.29222194
+Sb,noSOC,680,harmonic phonon spectrum (basal-plane average),2.32631787
+Sb,noSOC,690,harmonic phonon spectrum (basal-plane average),2.36041617
+Sb,noSOC,700,harmonic phonon spectrum (basal-plane average),2.39451605
+Sb,noSOC,710,harmonic phonon spectrum (basal-plane average),2.4286175
+Sb,noSOC,720,harmonic phonon spectrum (basal-plane average),2.46271975
+Sb,noSOC,730,harmonic phonon spectrum (basal-plane average),2.49682436
+Sb,noSOC,740,harmonic phonon spectrum (basal-plane average),2.53092977
+Sb,noSOC,750,harmonic phonon spectrum (basal-plane average),2.56503675
+Sb,noSOC,760,harmonic phonon spectrum (basal-plane average),2.59914453
+Sb,noSOC,770,harmonic phonon spectrum (basal-plane average),2.63325388
+Sb,noSOC,780,harmonic phonon spectrum (basal-plane average),2.66736402
+Sb,noSOC,790,harmonic phonon spectrum (basal-plane average),2.70147574
+Sb,noSOC,800,harmonic phonon spectrum (basal-plane average),2.73558826
+Sb,noSOC,810,harmonic phonon spectrum (basal-plane average),2.76970156
+Sb,noSOC,820,harmonic phonon spectrum (basal-plane average),2.80381565
+Sb,noSOC,830,harmonic phonon spectrum (basal-plane average),2.83793132
+Sb,noSOC,840,harmonic phonon spectrum (basal-plane average),2.87204777
+Sb,noSOC,850,harmonic phonon spectrum (basal-plane average),2.90616502
+Sb,noSOC,860,harmonic phonon spectrum (basal-plane average),2.94028306
+Sb,noSOC,870,harmonic phonon spectrum (basal-plane average),2.97440189
+Sb,noSOC,880,harmonic phonon spectrum (basal-plane average),3.00852151
+Sb,noSOC,890,harmonic phonon spectrum (basal-plane average),3.0426427
+Sb,noSOC,0,harmonic phonon spectrum (c-axis),0.1478601
+Sb,noSOC,10,harmonic phonon spectrum (c-axis),0.15094731
+Sb,noSOC,20,harmonic phonon spectrum (c-axis),0.16327405
+Sb,noSOC,30,harmonic phonon spectrum (c-axis),0.18442974
+Sb,noSOC,40,harmonic phonon spectrum (c-axis),0.21124506
+Sb,noSOC,50,harmonic phonon spectrum (c-axis),0.24153449
+Sb,noSOC,60,harmonic phonon spectrum (c-axis),0.27406075
+Sb,noSOC,70,harmonic phonon spectrum (c-axis),0.30809431
+Sb,noSOC,80,harmonic phonon spectrum (c-axis),0.34318352
+Sb,noSOC,90,harmonic phonon spectrum (c-axis),0.37903545
+Sb,noSOC,100,harmonic phonon spectrum (c-axis),0.4154535
+Sb,noSOC,110,harmonic phonon spectrum (c-axis),0.45230186
+Sb,noSOC,120,harmonic phonon spectrum (c-axis),0.48948421
+Sb,noSOC,130,harmonic phonon spectrum (c-axis),0.52693028
+Sb,noSOC,140,harmonic phonon spectrum (c-axis),0.56458717
+Sb,noSOC,150,harmonic phonon spectrum (c-axis),0.60241697
+Sb,noSOC,160,harmonic phonon spectrum (c-axis),0.6403881
+Sb,noSOC,170,harmonic phonon spectrum (c-axis),0.67847687
+Sb,noSOC,180,harmonic phonon spectrum (c-axis),0.71666514
+Sb,noSOC,190,harmonic phonon spectrum (c-axis),0.75493788
+Sb,noSOC,200,harmonic phonon spectrum (c-axis),0.79328248
+Sb,noSOC,210,harmonic phonon spectrum (c-axis),0.83168945
+Sb,noSOC,220,harmonic phonon spectrum (c-axis),0.87015012
+Sb,noSOC,230,harmonic phonon spectrum (c-axis),0.90865816
+Sb,noSOC,240,harmonic phonon spectrum (c-axis),0.94720725
+Sb,noSOC,250,harmonic phonon spectrum (c-axis),0.98579267
+Sb,noSOC,260,harmonic phonon spectrum (c-axis),1.02441125
+Sb,noSOC,270,harmonic phonon spectrum (c-axis),1.06305825
+Sb,noSOC,280,harmonic phonon spectrum (c-axis),1.10173131
+Sb,noSOC,290,harmonic phonon spectrum (c-axis),1.14042805
+Sb,noSOC,300,harmonic phonon spectrum (c-axis),1.17914532
+Sb,noSOC,310,harmonic phonon spectrum (c-axis),1.21788155
+Sb,noSOC,320,harmonic phonon spectrum (c-axis),1.25663514
+Sb,noSOC,330,harmonic phonon spectrum (c-axis),1.29540374
+Sb,noSOC,340,harmonic phonon spectrum (c-axis),1.33418734
+Sb,noSOC,350,harmonic phonon spectrum (c-axis),1.37298436
+Sb,noSOC,360,harmonic phonon spectrum (c-axis),1.41179243
+Sb,noSOC,370,harmonic phonon spectrum (c-axis),1.45061235
+Sb,noSOC,380,harmonic phonon spectrum (c-axis),1.48944174
+Sb,noSOC,390,harmonic phonon spectrum (c-axis),1.5282814
+Sb,noSOC,400,harmonic phonon spectrum (c-axis),1.56712895
+Sb,noSOC,410,harmonic phonon spectrum (c-axis),1.60598519
+Sb,noSOC,420,harmonic phonon spectrum (c-axis),1.64484853
+Sb,noSOC,430,harmonic phonon spectrum (c-axis),1.68371898
+Sb,noSOC,440,harmonic phonon spectrum (c-axis),1.72259654
+Sb,noSOC,450,harmonic phonon spectrum (c-axis),1.76147962
+Sb,noSOC,460,harmonic phonon spectrum (c-axis),1.80036823
+Sb,noSOC,470,harmonic phonon spectrum (c-axis),1.83926237
+Sb,noSOC,480,harmonic phonon spectrum (c-axis),1.87816124
+Sb,noSOC,490,harmonic phonon spectrum (c-axis),1.91706564
+Sb,noSOC,500,harmonic phonon spectrum (c-axis),1.95597399
+Sb,noSOC,510,harmonic phonon spectrum (c-axis),1.99488629
+Sb,noSOC,520,harmonic phonon spectrum (c-axis),2.03380253
+Sb,noSOC,530,harmonic phonon spectrum (c-axis),2.07272273
+Sb,noSOC,540,harmonic phonon spectrum (c-axis),2.11164608
+Sb,noSOC,550,harmonic phonon spectrum (c-axis),2.15057259
+Sb,noSOC,560,harmonic phonon spectrum (c-axis),2.18950304
+Sb,noSOC,570,harmonic phonon spectrum (c-axis),2.22843587
+Sb,noSOC,580,harmonic phonon spectrum (c-axis),2.26737106
+Sb,noSOC,590,harmonic phonon spectrum (c-axis),2.30631021
+Sb,noSOC,600,harmonic phonon spectrum (c-axis),2.34525093
+Sb,noSOC,610,harmonic phonon spectrum (c-axis),2.38419402
+Sb,noSOC,620,harmonic phonon spectrum (c-axis),2.42313948
+Sb,noSOC,630,harmonic phonon spectrum (c-axis),2.46208731
+Sb,noSOC,640,harmonic phonon spectrum (c-axis),2.5010375
+Sb,noSOC,650,harmonic phonon spectrum (c-axis),2.53998928
+Sb,noSOC,660,harmonic phonon spectrum (c-axis),2.57894342
+Sb,noSOC,670,harmonic phonon spectrum (c-axis),2.61789914
+Sb,noSOC,680,harmonic phonon spectrum (c-axis),2.65685645
+Sb,noSOC,690,harmonic phonon spectrum (c-axis),2.69581533
+Sb,noSOC,700,harmonic phonon spectrum (c-axis),2.73477579
+Sb,noSOC,710,harmonic phonon spectrum (c-axis),2.77373783
+Sb,noSOC,720,harmonic phonon spectrum (c-axis),2.81270145
+Sb,noSOC,730,harmonic phonon spectrum (c-axis),2.85166665
+Sb,noSOC,740,harmonic phonon spectrum (c-axis),2.89063342
+Sb,noSOC,750,harmonic phonon spectrum (c-axis),2.92960099
+Sb,noSOC,760,harmonic phonon spectrum (c-axis),2.96856935
+Sb,noSOC,770,harmonic phonon spectrum (c-axis),3.00753928
+Sb,noSOC,780,harmonic phonon spectrum (c-axis),3.0465108
+Sb,noSOC,790,harmonic phonon spectrum (c-axis),3.0854831
+Sb,noSOC,800,harmonic phonon spectrum (c-axis),3.1244562
+Sb,noSOC,810,harmonic phonon spectrum (c-axis),3.16343087
+Sb,noSOC,820,harmonic phonon spectrum (c-axis),3.20240633
+Sb,noSOC,830,harmonic phonon spectrum (c-axis),3.24138258
+Sb,noSOC,840,harmonic phonon spectrum (c-axis),3.28035963
+Sb,noSOC,850,harmonic phonon spectrum (c-axis),3.31933825
+Sb,noSOC,860,harmonic phonon spectrum (c-axis),3.35831687
+Sb,noSOC,870,harmonic phonon spectrum (c-axis),3.39729628
+Sb,noSOC,880,harmonic phonon spectrum (c-axis),3.43627727
+Sb,noSOC,890,harmonic phonon spectrum (c-axis),3.47525826
+Bi_noSOC,noSOC,0,empirical digitized reference,NA
+Bi_noSOC,noSOC,10,empirical digitized reference,0.13662359
+Bi_noSOC,noSOC,20,empirical digitized reference,0.15534204
+Bi_noSOC,noSOC,30,empirical digitized reference,0.17940232
+Bi_noSOC,noSOC,40,empirical digitized reference,0.20749951
+Bi_noSOC,noSOC,50,empirical digitized reference,0.24487018
+Bi_noSOC,noSOC,60,empirical digitized reference,0.2879896
+Bi_noSOC,noSOC,70,empirical digitized reference,0.33061084
+Bi_noSOC,noSOC,80,empirical digitized reference,0.37422074
+Bi_noSOC,noSOC,90,empirical digitized reference,0.41895841
+Bi_noSOC,noSOC,100,empirical digitized reference,0.46388001
+Bi_noSOC,noSOC,110,empirical digitized reference,0.50832539
+Bi_noSOC,noSOC,120,empirical digitized reference,0.55295422
+Bi_noSOC,noSOC,130,empirical digitized reference,0.59771071
+Bi_noSOC,noSOC,140,empirical digitized reference,0.64240255
+Bi_noSOC,noSOC,150,empirical digitized reference,0.68683741
+Bi_noSOC,noSOC,160,empirical digitized reference,0.73082296
+Bi_noSOC,noSOC,170,empirical digitized reference,0.77415939
+Bi_noSOC,noSOC,180,empirical digitized reference,0.81674422
+Bi_noSOC,noSOC,190,empirical digitized reference,0.85879061
+Bi_noSOC,noSOC,200,empirical digitized reference,0.90054918
+Bi_noSOC,noSOC,210,empirical digitized reference,0.9422705
+Bi_noSOC,noSOC,220,empirical digitized reference,0.98420519
+Bi_noSOC,noSOC,230,empirical digitized reference,1.02660383
+Bi_noSOC,noSOC,240,empirical digitized reference,1.0696843
+Bi_noSOC,noSOC,250,empirical digitized reference,1.11330602
+Bi_noSOC,noSOC,260,empirical digitized reference,1.15731152
+Bi_noSOC,noSOC,270,empirical digitized reference,1.2015814
+Bi_noSOC,noSOC,280,empirical digitized reference,1.24599622
+Bi_noSOC,noSOC,290,empirical digitized reference,1.29044328
+Bi_noSOC,noSOC,300,empirical digitized reference,1.33519876
+Bi_noSOC,noSOC,310,empirical digitized reference,1.38032892
+Bi_noSOC,noSOC,320,empirical digitized reference,1.42565051
+Bi_noSOC,noSOC,330,empirical digitized reference,1.47098028
+Bi_noSOC,noSOC,340,empirical digitized reference,1.51613497
+Bi_noSOC,noSOC,350,empirical digitized reference,1.56093134
+Bi_noSOC,noSOC,360,empirical digitized reference,1.60518615
+Bi_noSOC,noSOC,370,empirical digitized reference,1.64870044
+Bi_noSOC,noSOC,380,empirical digitized reference,1.69121244
+Bi_noSOC,noSOC,390,empirical digitized reference,1.73307895
+Bi_noSOC,noSOC,400,empirical digitized reference,1.77481411
+Bi_noSOC,noSOC,410,empirical digitized reference,1.8169321
+Bi_noSOC,noSOC,420,empirical digitized reference,1.85985199
+Bi_noSOC,noSOC,430,empirical digitized reference,1.90338897
+Bi_noSOC,noSOC,440,empirical digitized reference,1.94737912
+Bi_noSOC,noSOC,450,empirical digitized reference,1.99169229
+Bi_noSOC,noSOC,460,empirical digitized reference,2.03619831
+Bi_noSOC,noSOC,470,empirical digitized reference,2.08076703
+Bi_noSOC,noSOC,480,empirical digitized reference,2.12526829
+Bi_noSOC,noSOC,490,empirical digitized reference,2.16957193
+Bi_noSOC,noSOC,500,empirical digitized reference,2.2135478
+Bi_noSOC,noSOC,510,empirical digitized reference,2.25706574
+Bi_noSOC,noSOC,520,empirical digitized reference,2.29999559
+Bi_noSOC,noSOC,530,empirical digitized reference,2.34222332
+Bi_noSOC,noSOC,540,empirical digitized reference,2.38379959
+Bi_noSOC,noSOC,550,empirical digitized reference,2.42485594
+Bi_noSOC,noSOC,0,elastic-derived Debye,0.11942357
+Bi_noSOC,noSOC,10,elastic-derived Debye,0.12535439
+Bi_noSOC,noSOC,20,elastic-derived Debye,0.14283966
+Bi_noSOC,noSOC,30,elastic-derived Debye,0.16938695
+Bi_noSOC,noSOC,40,elastic-derived Debye,0.20141498
+Bi_noSOC,noSOC,50,elastic-derived Debye,0.23657226
+Bi_noSOC,noSOC,60,elastic-derived Debye,0.27358817
+Bi_noSOC,noSOC,70,elastic-derived Debye,0.31177218
+Bi_noSOC,noSOC,80,elastic-derived Debye,0.35072973
+Bi_noSOC,noSOC,90,elastic-derived Debye,0.39022277
+Bi_noSOC,noSOC,100,elastic-derived Debye,0.4301005
+Bi_noSOC,noSOC,110,elastic-derived Debye,0.47026324
+Bi_noSOC,noSOC,120,elastic-derived Debye,0.5106427
+Bi_noSOC,noSOC,130,elastic-derived Debye,0.55119062
+Bi_noSOC,noSOC,140,elastic-derived Debye,0.59187197
+Bi_noSOC,noSOC,150,elastic-derived Debye,0.63266078
+Bi_noSOC,noSOC,160,elastic-derived Debye,0.67353734
+Bi_noSOC,noSOC,170,elastic-derived Debye,0.71448648
+Bi_noSOC,noSOC,180,elastic-derived Debye,0.75549632
+Bi_noSOC,noSOC,190,elastic-derived Debye,0.79655743
+Bi_noSOC,noSOC,200,elastic-derived Debye,0.83766222
+Bi_noSOC,noSOC,210,elastic-derived Debye,0.87880453
+Bi_noSOC,noSOC,220,elastic-derived Debye,0.91997932
+Bi_noSOC,noSOC,230,elastic-derived Debye,0.96118238
+Bi_noSOC,noSOC,240,elastic-derived Debye,1.00241022
+Bi_noSOC,noSOC,250,elastic-derived Debye,1.04365989
+Bi_noSOC,noSOC,260,elastic-derived Debye,1.0849289
+Bi_noSOC,noSOC,270,elastic-derived Debye,1.12621511
+Bi_noSOC,noSOC,280,elastic-derived Debye,1.16751668
+Bi_noSOC,noSOC,290,elastic-derived Debye,1.20883206
+Bi_noSOC,noSOC,300,elastic-derived Debye,1.25015985
+Bi_noSOC,noSOC,310,elastic-derived Debye,1.29149887
+Bi_noSOC,noSOC,320,elastic-derived Debye,1.33284806
+Bi_noSOC,noSOC,330,elastic-derived Debye,1.37420652
+Bi_noSOC,noSOC,340,elastic-derived Debye,1.41557342
+Bi_noSOC,noSOC,350,elastic-derived Debye,1.45694805
+Bi_noSOC,noSOC,360,elastic-derived Debye,1.49832976
+Bi_noSOC,noSOC,370,elastic-derived Debye,1.53971799
+Bi_noSOC,noSOC,380,elastic-derived Debye,1.58111221
+Bi_noSOC,noSOC,390,elastic-derived Debye,1.62251198
+Bi_noSOC,noSOC,400,elastic-derived Debye,1.66391687
+Bi_noSOC,noSOC,410,elastic-derived Debye,1.70532651
+Bi_noSOC,noSOC,420,elastic-derived Debye,1.74674057
+Bi_noSOC,noSOC,430,elastic-derived Debye,1.78815873
+Bi_noSOC,noSOC,440,elastic-derived Debye,1.82958072
+Bi_noSOC,noSOC,450,elastic-derived Debye,1.87100628
+Bi_noSOC,noSOC,460,elastic-derived Debye,1.91243518
+Bi_noSOC,noSOC,470,elastic-derived Debye,1.95386722
+Bi_noSOC,noSOC,480,elastic-derived Debye,1.99530218
+Bi_noSOC,noSOC,490,elastic-derived Debye,2.0367399
+Bi_noSOC,noSOC,500,elastic-derived Debye,2.07818021
+Bi_noSOC,noSOC,510,elastic-derived Debye,2.11962295
+Bi_noSOC,noSOC,520,elastic-derived Debye,2.16106799
+Bi_noSOC,noSOC,530,elastic-derived Debye,2.2025152
+Bi_noSOC,noSOC,540,elastic-derived Debye,2.24396445
+Bi_noSOC,noSOC,550,elastic-derived Debye,2.28541564
+Bi_noSOC,noSOC,0,quasi-harmonic Debye,0.09922253
+Bi_noSOC,noSOC,10,quasi-harmonic Debye,0.10262532
+Bi_noSOC,noSOC,20,quasi-harmonic Debye,0.11278484
+Bi_noSOC,noSOC,30,quasi-harmonic Debye,0.12890104
+Bi_noSOC,noSOC,40,quasi-harmonic Debye,0.14924295
+Bi_noSOC,noSOC,50,quasi-harmonic Debye,0.1723107
+Bi_noSOC,noSOC,60,quasi-harmonic Debye,0.19715521
+Bi_noSOC,noSOC,70,quasi-harmonic Debye,0.2232122
+Bi_noSOC,noSOC,80,quasi-harmonic Debye,0.25014189
+Bi_noSOC,noSOC,90,quasi-harmonic Debye,0.2777322
+Bi_noSOC,noSOC,100,quasi-harmonic Debye,0.30584582
+Bi_noSOC,noSOC,110,quasi-harmonic Debye,0.33439092
+Bi_noSOC,noSOC,120,quasi-harmonic Debye,0.36330437
+Bi_noSOC,noSOC,130,quasi-harmonic Debye,0.39254093
+Bi_noSOC,noSOC,140,quasi-harmonic Debye,0.42206842
+Bi_noSOC,noSOC,150,quasi-harmonic Debye,0.4518625
+Bi_noSOC,noSOC,160,quasi-harmonic Debye,0.48190551
+Bi_noSOC,noSOC,170,quasi-harmonic Debye,0.5121837
+Bi_noSOC,noSOC,180,quasi-harmonic Debye,0.54268647
+Bi_noSOC,noSOC,190,quasi-harmonic Debye,0.57340581
+Bi_noSOC,noSOC,200,quasi-harmonic Debye,0.60433564
+Bi_noSOC,noSOC,210,quasi-harmonic Debye,0.63547117
+Bi_noSOC,noSOC,220,quasi-harmonic Debye,0.66680818
+Bi_noSOC,noSOC,230,quasi-harmonic Debye,0.6983437
+Bi_noSOC,noSOC,240,quasi-harmonic Debye,0.73007593
+Bi_noSOC,noSOC,250,quasi-harmonic Debye,0.76200292
+Bi_noSOC,noSOC,260,quasi-harmonic Debye,0.79412345
+Bi_noSOC,noSOC,270,quasi-harmonic Debye,0.82643742
+Bi_noSOC,noSOC,280,quasi-harmonic Debye,0.85894279
+Bi_noSOC,noSOC,290,quasi-harmonic Debye,0.89164314
+Bi_noSOC,noSOC,300,quasi-harmonic Debye,0.92454145
+Bi_noSOC,noSOC,310,quasi-harmonic Debye,0.95763902
+Bi_noSOC,noSOC,320,quasi-harmonic Debye,0.99093618
+Bi_noSOC,noSOC,330,quasi-harmonic Debye,1.02443435
+Bi_noSOC,noSOC,340,quasi-harmonic Debye,1.05813518
+Bi_noSOC,noSOC,350,quasi-harmonic Debye,1.09203992
+Bi_noSOC,noSOC,360,quasi-harmonic Debye,1.12614959
+Bi_noSOC,noSOC,370,quasi-harmonic Debye,1.16046726
+Bi_noSOC,noSOC,380,quasi-harmonic Debye,1.19499382
+Bi_noSOC,noSOC,390,quasi-harmonic Debye,1.22973095
+Bi_noSOC,noSOC,400,quasi-harmonic Debye,1.26468178
+Bi_noSOC,noSOC,410,quasi-harmonic Debye,1.29984677
+Bi_noSOC,noSOC,420,quasi-harmonic Debye,1.3352293
+Bi_noSOC,noSOC,430,quasi-harmonic Debye,1.37083174
+Bi_noSOC,noSOC,440,quasi-harmonic Debye,1.40665528
+Bi_noSOC,noSOC,450,quasi-harmonic Debye,1.44270288
+Bi_noSOC,noSOC,460,quasi-harmonic Debye,1.47897761
+Bi_noSOC,noSOC,470,quasi-harmonic Debye,1.51548059
+Bi_noSOC,noSOC,480,quasi-harmonic Debye,1.55221578
+Bi_noSOC,noSOC,490,quasi-harmonic Debye,1.58918563
+Bi_noSOC,noSOC,500,quasi-harmonic Debye,1.62639179
+Bi_noSOC,noSOC,510,quasi-harmonic Debye,1.66035469
+Bi_noSOC,noSOC,520,quasi-harmonic Debye,1.69827612
+Bi_noSOC,noSOC,530,quasi-harmonic Debye,1.73644472
+Bi_noSOC,noSOC,540,quasi-harmonic Debye,1.77486169
+Bi_noSOC,noSOC,550,quasi-harmonic Debye,1.81352905
+Bi_noSOC,noSOC,0,harmonic phonon spectrum (isotropic),0.12578482
+Bi_noSOC,noSOC,10,harmonic phonon spectrum (isotropic),0.13341179
+Bi_noSOC,noSOC,20,harmonic phonon spectrum (isotropic),0.1593191
+Bi_noSOC,noSOC,30,harmonic phonon spectrum (isotropic),0.19612957
+Bi_noSOC,noSOC,40,harmonic phonon spectrum (isotropic),0.23816434
+Bi_noSOC,noSOC,50,harmonic phonon spectrum (isotropic),0.28305604
+Bi_noSOC,noSOC,60,harmonic phonon spectrum (isotropic),0.3296561
+Bi_noSOC,noSOC,70,harmonic phonon spectrum (isotropic),0.37734682
+Bi_noSOC,noSOC,80,harmonic phonon spectrum (isotropic),0.42576842
+Bi_noSOC,noSOC,90,harmonic phonon spectrum (isotropic),0.47470218
+Bi_noSOC,noSOC,100,harmonic phonon spectrum (isotropic),0.52400651
+Bi_noSOC,noSOC,110,harmonic phonon spectrum (isotropic),0.57358719
+Bi_noSOC,noSOC,120,harmonic phonon spectrum (isotropic),0.62337895
+Bi_noSOC,noSOC,130,harmonic phonon spectrum (isotropic),0.67333573
+Bi_noSOC,noSOC,140,harmonic phonon spectrum (isotropic),0.72342358
+Bi_noSOC,noSOC,150,harmonic phonon spectrum (isotropic),0.77361644
+Bi_noSOC,noSOC,160,harmonic phonon spectrum (isotropic),0.82389589
+Bi_noSOC,noSOC,170,harmonic phonon spectrum (isotropic),0.87424719
+Bi_noSOC,noSOC,180,harmonic phonon spectrum (isotropic),0.9246585
+Bi_noSOC,noSOC,190,harmonic phonon spectrum (isotropic),0.97512034
+Bi_noSOC,noSOC,200,harmonic phonon spectrum (isotropic),1.0256256
+Bi_noSOC,noSOC,210,harmonic phonon spectrum (isotropic),1.07616877
+Bi_noSOC,noSOC,220,harmonic phonon spectrum (isotropic),1.12674325
+Bi_noSOC,noSOC,230,harmonic phonon spectrum (isotropic),1.1773459
+Bi_noSOC,noSOC,240,harmonic phonon spectrum (isotropic),1.22797355
+Bi_noSOC,noSOC,250,harmonic phonon spectrum (isotropic),1.27862252
+Bi_noSOC,noSOC,260,harmonic phonon spectrum (isotropic),1.32929096
+Bi_noSOC,noSOC,270,harmonic phonon spectrum (isotropic),1.37997625
+Bi_noSOC,noSOC,280,harmonic phonon spectrum (isotropic),1.43067733
+Bi_noSOC,noSOC,290,harmonic phonon spectrum (isotropic),1.48139156
+Bi_noSOC,noSOC,300,harmonic phonon spectrum (isotropic),1.5321187
+Bi_noSOC,noSOC,310,harmonic phonon spectrum (isotropic),1.58285636
+Bi_noSOC,noSOC,320,harmonic phonon spectrum (isotropic),1.63360455
+Bi_noSOC,noSOC,330,harmonic phonon spectrum (isotropic),1.68436222
+Bi_noSOC,noSOC,340,harmonic phonon spectrum (isotropic),1.73512804
+Bi_noSOC,noSOC,350,harmonic phonon spectrum (isotropic),1.78590176
+Bi_noSOC,noSOC,360,harmonic phonon spectrum (isotropic),1.83668179
+Bi_noSOC,noSOC,370,harmonic phonon spectrum (isotropic),1.88746894
+Bi_noSOC,noSOC,380,harmonic phonon spectrum (isotropic),1.93826239
+Bi_noSOC,noSOC,390,harmonic phonon spectrum (isotropic),1.98906112
+Bi_noSOC,noSOC,400,harmonic phonon spectrum (isotropic),2.03986484
+Bi_noSOC,noSOC,410,harmonic phonon spectrum (isotropic),2.0906733
+Bi_noSOC,noSOC,420,harmonic phonon spectrum (isotropic),2.14148623
+Bi_noSOC,noSOC,430,harmonic phonon spectrum (isotropic),2.19230285
+Bi_noSOC,noSOC,440,harmonic phonon spectrum (isotropic),2.24312368
+Bi_noSOC,noSOC,450,harmonic phonon spectrum (isotropic),2.29394794
+Bi_noSOC,noSOC,460,harmonic phonon spectrum (isotropic),2.34477587
+Bi_noSOC,noSOC,470,harmonic phonon spectrum (isotropic),2.39560644
+Bi_noSOC,noSOC,480,harmonic phonon spectrum (isotropic),2.44644017
+Bi_noSOC,noSOC,490,harmonic phonon spectrum (isotropic),2.49727705
+Bi_noSOC,noSOC,500,harmonic phonon spectrum (isotropic),2.54811604
+Bi_noSOC,noSOC,510,harmonic phonon spectrum (isotropic),2.59895766
+Bi_noSOC,noSOC,520,harmonic phonon spectrum (isotropic),2.64980139
+Bi_noSOC,noSOC,530,harmonic phonon spectrum (isotropic),2.70064722
+Bi_noSOC,noSOC,540,harmonic phonon spectrum (isotropic),2.75149516
+Bi_noSOC,noSOC,550,harmonic phonon spectrum (isotropic),2.80234521
+Bi_noSOC,noSOC,0,harmonic phonon spectrum (basal-plane average),0.12575218
+Bi_noSOC,noSOC,10,harmonic phonon spectrum (basal-plane average),0.13321518
+Bi_noSOC,noSOC,20,harmonic phonon spectrum (basal-plane average),0.15879167
+Bi_noSOC,noSOC,30,harmonic phonon spectrum (basal-plane average),0.1952942
+Bi_noSOC,noSOC,40,harmonic phonon spectrum (basal-plane average),0.23702289
+Bi_noSOC,noSOC,50,harmonic phonon spectrum (basal-plane average),0.28161377
+Bi_noSOC,noSOC,60,harmonic phonon spectrum (basal-plane average),0.32791642
+Bi_noSOC,noSOC,70,harmonic phonon spectrum (basal-plane average),0.37531184
+Bi_noSOC,noSOC,80,harmonic phonon spectrum (basal-plane average),0.42343919
+Bi_noSOC,noSOC,90,harmonic phonon spectrum (basal-plane average),0.47207976
+Bi_noSOC,noSOC,100,harmonic phonon spectrum (basal-plane average),0.52109143
+Bi_noSOC,noSOC,110,harmonic phonon spectrum (basal-plane average),0.57037944
+Bi_noSOC,noSOC,120,harmonic phonon spectrum (basal-plane average),0.61987906
+Bi_noSOC,noSOC,130,harmonic phonon spectrum (basal-plane average),0.6695437
+Bi_noSOC,noSOC,140,harmonic phonon spectrum (basal-plane average),0.71933941
+Bi_noSOC,noSOC,150,harmonic phonon spectrum (basal-plane average),0.76924013
+Bi_noSOC,noSOC,160,harmonic phonon spectrum (basal-plane average),0.8192277
+Bi_noSOC,noSOC,170,harmonic phonon spectrum (basal-plane average),0.86928712
+Bi_noSOC,noSOC,180,harmonic phonon spectrum (basal-plane average),0.91940655
+Bi_noSOC,noSOC,190,harmonic phonon spectrum (basal-plane average),0.96957651
+Bi_noSOC,noSOC,200,harmonic phonon spectrum (basal-plane average),1.0197899
+Bi_noSOC,noSOC,210,harmonic phonon spectrum (basal-plane average),1.07004119
+Bi_noSOC,noSOC,220,harmonic phonon spectrum (basal-plane average),1.12032406
+Bi_noSOC,noSOC,230,harmonic phonon spectrum (basal-plane average),1.17063457
+Bi_noSOC,noSOC,240,harmonic phonon spectrum (basal-plane average),1.22097034
+Bi_noSOC,noSOC,250,harmonic phonon spectrum (basal-plane average),1.27132743
+Bi_noSOC,noSOC,260,harmonic phonon spectrum (basal-plane average),1.32170426
+Bi_noSOC,noSOC,270,harmonic phonon spectrum (basal-plane average),1.37209767
+Bi_noSOC,noSOC,280,harmonic phonon spectrum (basal-plane average),1.42250687
+Bi_noSOC,noSOC,290,harmonic phonon spectrum (basal-plane average),1.4729295
+Bi_noSOC,noSOC,300,harmonic phonon spectrum (basal-plane average),1.52336475
+Bi_noSOC,noSOC,310,harmonic phonon spectrum (basal-plane average),1.57381028
+Bi_noSOC,noSOC,320,harmonic phonon spectrum (basal-plane average),1.62426685
+Bi_noSOC,noSOC,330,harmonic phonon spectrum (basal-plane average),1.6747329
+Bi_noSOC,noSOC,340,harmonic phonon spectrum (basal-plane average),1.72520685
+Bi_noSOC,noSOC,350,harmonic phonon spectrum (basal-plane average),1.77568869
+Bi_noSOC,noSOC,360,harmonic phonon spectrum (basal-plane average),1.82617685
+Bi_noSOC,noSOC,370,harmonic phonon spectrum (basal-plane average),1.87667211
+Bi_noSOC,noSOC,380,harmonic phonon spectrum (basal-plane average),1.9271737
+Bi_noSOC,noSOC,390,harmonic phonon spectrum (basal-plane average),1.9776808
+Bi_noSOC,noSOC,400,harmonic phonon spectrum (basal-plane average),2.02819265
+Bi_noSOC,noSOC,410,harmonic phonon spectrum (basal-plane average),2.07870923
+Bi_noSOC,noSOC,420,harmonic phonon spectrum (basal-plane average),2.12923055
+Bi_noSOC,noSOC,430,harmonic phonon spectrum (basal-plane average),2.17975503
+Bi_noSOC,noSOC,440,harmonic phonon spectrum (basal-plane average),2.23028425
+Bi_noSOC,noSOC,450,harmonic phonon spectrum (basal-plane average),2.28081662
+Bi_noSOC,noSOC,460,harmonic phonon spectrum (basal-plane average),2.33135295
+Bi_noSOC,noSOC,470,harmonic phonon spectrum (basal-plane average),2.38189164
+Bi_noSOC,noSOC,480,harmonic phonon spectrum (basal-plane average),2.43243349
+Bi_noSOC,noSOC,490,harmonic phonon spectrum (basal-plane average),2.48297849
+Bi_noSOC,noSOC,500,harmonic phonon spectrum (basal-plane average),2.53352587
+Bi_noSOC,noSOC,510,harmonic phonon spectrum (basal-plane average),2.58407562
+Bi_noSOC,noSOC,520,harmonic phonon spectrum (basal-plane average),2.63462773
+Bi_noSOC,noSOC,530,harmonic phonon spectrum (basal-plane average),2.68518142
+Bi_noSOC,noSOC,540,harmonic phonon spectrum (basal-plane average),2.73573748
+Bi_noSOC,noSOC,550,harmonic phonon spectrum (basal-plane average),2.78629591
+Bi_noSOC,noSOC,0,harmonic phonon spectrum (c-axis),0.12585009
+Bi_noSOC,noSOC,10,harmonic phonon spectrum (c-axis),0.13380499
+Bi_noSOC,noSOC,20,harmonic phonon spectrum (c-axis),0.16037397
+Bi_noSOC,noSOC,30,harmonic phonon spectrum (c-axis),0.19780029
+Bi_noSOC,noSOC,40,harmonic phonon spectrum (c-axis),0.24044725
+Bi_noSOC,noSOC,50,harmonic phonon spectrum (c-axis),0.2859406
+Bi_noSOC,noSOC,60,harmonic phonon spectrum (c-axis),0.33313547
+Bi_noSOC,noSOC,70,harmonic phonon spectrum (c-axis),0.38141678
+Bi_noSOC,noSOC,80,harmonic phonon spectrum (c-axis),0.43042687
+Bi_noSOC,noSOC,90,harmonic phonon spectrum (c-axis),0.47994702
+Bi_noSOC,noSOC,100,harmonic phonon spectrum (c-axis),0.52983668
+Bi_noSOC,noSOC,110,harmonic phonon spectrum (c-axis),0.5800027
+Bi_noSOC,noSOC,120,harmonic phonon spectrum (c-axis),0.63037874
+Bi_noSOC,noSOC,130,harmonic phonon spectrum (c-axis),0.6809198
+Bi_noSOC,noSOC,140,harmonic phonon spectrum (c-axis),0.73159193
+Bi_noSOC,noSOC,150,harmonic phonon spectrum (c-axis),0.78236907
+Bi_noSOC,noSOC,160,harmonic phonon spectrum (c-axis),0.83323227
+Bi_noSOC,noSOC,170,harmonic phonon spectrum (c-axis),0.88416733
+Bi_noSOC,noSOC,180,harmonic phonon spectrum (c-axis),0.93516239
+Bi_noSOC,noSOC,190,harmonic phonon spectrum (c-axis),0.98620798
+Bi_noSOC,noSOC,200,harmonic phonon spectrum (c-axis),1.037297
+Bi_noSOC,noSOC,210,harmonic phonon spectrum (c-axis),1.08842392
+Bi_noSOC,noSOC,220,harmonic phonon spectrum (c-axis),1.13958163
+Bi_noSOC,noSOC,230,harmonic phonon spectrum (c-axis),1.19076856
+Bi_noSOC,noSOC,240,harmonic phonon spectrum (c-axis),1.24197996
+Bi_noSOC,noSOC,250,harmonic phonon spectrum (c-axis),1.29321269
+Bi_noSOC,noSOC,260,harmonic phonon spectrum (c-axis),1.34446436
+Bi_noSOC,noSOC,270,harmonic phonon spectrum (c-axis),1.3957334
+Bi_noSOC,noSOC,280,harmonic phonon spectrum (c-axis),1.44701823
+Bi_noSOC,noSOC,290,harmonic phonon spectrum (c-axis),1.4983157
+Bi_noSOC,noSOC,300,harmonic phonon spectrum (c-axis),1.54962659
+Bi_noSOC,noSOC,310,harmonic phonon spectrum (c-axis),1.60094853
+Bi_noSOC,noSOC,320,harmonic phonon spectrum (c-axis),1.65227995
+Bi_noSOC,noSOC,330,harmonic phonon spectrum (c-axis),1.70362084
+Bi_noSOC,noSOC,340,harmonic phonon spectrum (c-axis),1.75497042
+Bi_noSOC,noSOC,350,harmonic phonon spectrum (c-axis),1.80632789
+Bi_noSOC,noSOC,360,harmonic phonon spectrum (c-axis),1.85769168
+Bi_noSOC,noSOC,370,harmonic phonon spectrum (c-axis),1.90906258
+Bi_noSOC,noSOC,380,harmonic phonon spectrum (c-axis),1.96043979
+Bi_noSOC,noSOC,390,harmonic phonon spectrum (c-axis),2.01182174
+Bi_noSOC,noSOC,400,harmonic phonon spectrum (c-axis),2.06320922
+Bi_noSOC,noSOC,410,harmonic phonon spectrum (c-axis),2.11460143
+Bi_noSOC,noSOC,420,harmonic phonon spectrum (c-axis),2.16599759
+Bi_noSOC,noSOC,430,harmonic phonon spectrum (c-axis),2.21739849
+Bi_noSOC,noSOC,440,harmonic phonon spectrum (c-axis),2.26880255
+Bi_noSOC,noSOC,450,harmonic phonon spectrum (c-axis),2.32021056
+Bi_noSOC,noSOC,460,harmonic phonon spectrum (c-axis),2.37162172
+Bi_noSOC,noSOC,470,harmonic phonon spectrum (c-axis),2.42303604
+Bi_noSOC,noSOC,480,harmonic phonon spectrum (c-axis),2.47445352
+Bi_noSOC,noSOC,490,harmonic phonon spectrum (c-axis),2.52587416
+Bi_noSOC,noSOC,500,harmonic phonon spectrum (c-axis),2.57729638
+Bi_noSOC,noSOC,510,harmonic phonon spectrum (c-axis),2.62872176
+Bi_noSOC,noSOC,520,harmonic phonon spectrum (c-axis),2.68014871
+Bi_noSOC,noSOC,530,harmonic phonon spectrum (c-axis),2.73157883
+Bi_noSOC,noSOC,540,harmonic phonon spectrum (c-axis),2.78301052
+Bi_noSOC,noSOC,550,harmonic phonon spectrum (c-axis),2.83444379
+Bi_SOC,SOC,0,elastic-derived Debye,0.13553465
+Bi_SOC,SOC,10,elastic-derived Debye,0.14420253
+Bi_SOC,SOC,20,elastic-derived Debye,0.1694097
+Bi_SOC,SOC,30,elastic-derived Debye,0.20638645
+Bi_SOC,SOC,40,elastic-derived Debye,0.24978996
+Bi_SOC,SOC,50,elastic-derived Debye,0.29664989
+Bi_SOC,SOC,60,elastic-derived Debye,0.34549626
+Bi_SOC,SOC,70,elastic-derived Debye,0.39556721
+Bi_SOC,SOC,80,elastic-derived Debye,0.44643935
+Bi_SOC,SOC,90,elastic-derived Debye,0.4978617
+Bi_SOC,SOC,100,elastic-derived Debye,0.54967711
+Bi_SOC,SOC,110,elastic-derived Debye,0.60178257
+Bi_SOC,SOC,120,elastic-derived Debye,0.65410791
+Bi_SOC,SOC,130,elastic-derived Debye,0.70660378
+Bi_SOC,SOC,140,elastic-derived Debye,0.75923449
+Bi_SOC,SOC,150,elastic-derived Debye,0.81197362
+Bi_SOC,SOC,160,elastic-derived Debye,0.8648012
+Bi_SOC,SOC,170,elastic-derived Debye,0.91770186
+Bi_SOC,SOC,180,elastic-derived Debye,0.97066359
+Bi_SOC,SOC,190,elastic-derived Debye,1.02367687
+Bi_SOC,SOC,200,elastic-derived Debye,1.07673405
+Bi_SOC,SOC,210,elastic-derived Debye,1.12982891
+Bi_SOC,SOC,220,elastic-derived Debye,1.18295638
+Bi_SOC,SOC,230,elastic-derived Debye,1.23611223
+Bi_SOC,SOC,240,elastic-derived Debye,1.28929295
+Bi_SOC,SOC,250,elastic-derived Debye,1.34249556
+Bi_SOC,SOC,260,elastic-derived Debye,1.39571755
+Bi_SOC,SOC,270,elastic-derived Debye,1.4489568
+Bi_SOC,SOC,280,elastic-derived Debye,1.50221146
+Bi_SOC,SOC,290,elastic-derived Debye,1.55547993
+Bi_SOC,SOC,300,elastic-derived Debye,1.60876086
+Bi_SOC,SOC,310,elastic-derived Debye,1.66205303
+Bi_SOC,SOC,320,elastic-derived Debye,1.71535541
+Bi_SOC,SOC,330,elastic-derived Debye,1.76866705
+Bi_SOC,SOC,340,elastic-derived Debye,1.82198716
+Bi_SOC,SOC,350,elastic-derived Debye,1.875315
+Bi_SOC,SOC,360,elastic-derived Debye,1.92864994
+Bi_SOC,SOC,370,elastic-derived Debye,1.9819914
+Bi_SOC,SOC,380,elastic-derived Debye,2.03533887
+Bi_SOC,SOC,390,elastic-derived Debye,2.08869188
+Bi_SOC,SOC,400,elastic-derived Debye,2.14205003
+Bi_SOC,SOC,410,elastic-derived Debye,2.19541293
+Bi_SOC,SOC,420,elastic-derived Debye,2.24878025
+Bi_SOC,SOC,430,elastic-derived Debye,2.30215169
+Bi_SOC,SOC,440,elastic-derived Debye,2.35552695
+Bi_SOC,SOC,450,elastic-derived Debye,2.40890579
+Bi_SOC,SOC,460,elastic-derived Debye,2.46228797
+Bi_SOC,SOC,470,elastic-derived Debye,2.51567329
+Bi_SOC,SOC,480,elastic-derived Debye,2.56906154
+Bi_SOC,SOC,490,elastic-derived Debye,2.62245254
+Bi_SOC,SOC,500,elastic-derived Debye,2.67584614
+Bi_SOC,SOC,510,elastic-derived Debye,2.72924217
+Bi_SOC,SOC,520,elastic-derived Debye,2.78264051
+Bi_SOC,SOC,530,elastic-derived Debye,2.83604101
+Bi_SOC,SOC,540,elastic-derived Debye,2.88944356
+Bi_SOC,SOC,550,elastic-derived Debye,2.94284804
+Bi_SOC,SOC,0,quasi-harmonic Debye,0.11657609
+Bi_SOC,SOC,10,quasi-harmonic Debye,0.12209545
+Bi_SOC,SOC,20,quasi-harmonic Debye,0.13843651
+Bi_SOC,SOC,30,quasi-harmonic Debye,0.16350639
+Bi_SOC,SOC,40,quasi-harmonic Debye,0.19408107
+Bi_SOC,SOC,50,quasi-harmonic Debye,0.2279569
+Bi_SOC,SOC,60,quasi-harmonic Debye,0.26391857
+Bi_SOC,SOC,70,quasi-harmonic Debye,0.30129808
+Bi_SOC,SOC,80,quasi-harmonic Debye,0.33971208
+Bi_SOC,SOC,90,quasi-harmonic Debye,0.37892913
+Bi_SOC,SOC,100,quasi-harmonic Debye,0.41880313
+Bi_SOC,SOC,110,quasi-harmonic Debye,0.45923805
+Bi_SOC,SOC,120,quasi-harmonic Debye,0.50016884
+Bi_SOC,SOC,130,quasi-harmonic Debye,0.54155052
+Bi_SOC,SOC,140,quasi-harmonic Debye,0.58335093
+Bi_SOC,SOC,150,quasi-harmonic Debye,0.6255472
+Bi_SOC,SOC,160,quasi-harmonic Debye,0.66812241
+Bi_SOC,SOC,170,quasi-harmonic Debye,0.71106467
+Bi_SOC,SOC,180,quasi-harmonic Debye,0.75436526
+Bi_SOC,SOC,190,quasi-harmonic Debye,0.79801731
+Bi_SOC,SOC,200,quasi-harmonic Debye,0.84201677
+Bi_SOC,SOC,210,quasi-harmonic Debye,0.88636308
+Bi_SOC,SOC,220,quasi-harmonic Debye,0.93105988
+Bi_SOC,SOC,230,quasi-harmonic Debye,0.97610974
+Bi_SOC,SOC,240,quasi-harmonic Debye,1.02151467
+Bi_SOC,SOC,250,quasi-harmonic Debye,1.06727694
+Bi_SOC,SOC,260,quasi-harmonic Debye,1.11339922
+Bi_SOC,SOC,270,quasi-harmonic Debye,1.15988522
+Bi_SOC,SOC,280,quasi-harmonic Debye,1.20673806
+Bi_SOC,SOC,290,quasi-harmonic Debye,1.25396243
+Bi_SOC,SOC,300,quasi-harmonic Debye,1.30156215
+Bi_SOC,SOC,310,quasi-harmonic Debye,1.34954198
+Bi_SOC,SOC,320,quasi-harmonic Debye,1.39790692
+Bi_SOC,SOC,330,quasi-harmonic Debye,1.44666219
+Bi_SOC,SOC,340,quasi-harmonic Debye,1.49581385
+Bi_SOC,SOC,350,quasi-harmonic Debye,1.54536584
+Bi_SOC,SOC,360,quasi-harmonic Debye,1.59532605
+Bi_SOC,SOC,370,quasi-harmonic Debye,1.64570124
+Bi_SOC,SOC,380,quasi-harmonic Debye,1.69649763
+Bi_SOC,SOC,390,quasi-harmonic Debye,1.74772214
+Bi_SOC,SOC,400,quasi-harmonic Debye,1.79507373
+Bi_SOC,SOC,410,quasi-harmonic Debye,1.84752827
+Bi_SOC,SOC,420,quasi-harmonic Debye,1.90043633
+Bi_SOC,SOC,430,quasi-harmonic Debye,1.95380458
+Bi_SOC,SOC,440,quasi-harmonic Debye,2.00763839
+Bi_SOC,SOC,450,quasi-harmonic Debye,2.06194266
+Bi_SOC,SOC,460,quasi-harmonic Debye,2.11672446
+Bi_SOC,SOC,470,quasi-harmonic Debye,2.17199001
+Bi_SOC,SOC,480,quasi-harmonic Debye,2.22774646
+Bi_SOC,SOC,490,quasi-harmonic Debye,2.28399913
+Bi_SOC,SOC,500,quasi-harmonic Debye,2.34075573
+Bi_SOC,SOC,510,quasi-harmonic Debye,2.39801954
+Bi_SOC,SOC,520,quasi-harmonic Debye,2.45579576
+Bi_SOC,SOC,530,quasi-harmonic Debye,2.51409097
+Bi_SOC,SOC,540,quasi-harmonic Debye,2.57291382
+Bi_SOC,SOC,550,quasi-harmonic Debye,2.63227073

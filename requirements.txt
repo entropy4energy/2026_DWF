@@ -1,0 +1,21 @@
+# Runtime dependencies for the DWF data package.
+#
+# Version floors, not pins: the scripts format their own output with explicit
+# format strings rather than relying on library defaults, so they are not
+# sensitive to patch releases. numpy >= 2.0 is required: the generators call
+# np.trapezoid, which numpy 1.x does not have.
+#
+# Verified end to end on:
+#   Python     3.14.4
+#   numpy      2.5.3
+#   scipy      1.18.1
+#   pandas     3.0.6
+#   matplotlib 3.11.2
+#   seaborn    0.13.2
+# (macOS 27, 2026-09-28. See README.md, Scripts.)
+
+numpy>=2.0
+scipy>=1.11
+pandas>=2.0
+matplotlib>=3.7
+seaborn>=0.13

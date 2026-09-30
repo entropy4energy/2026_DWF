@@ -1,0 +1,5 @@
+frequency_window_THz,dos_fraction,classical_leverage_proxy_fraction
+0-1,0.192812,0.595808
+1-2,0.308267,0.30571
+2-4,0.49892,0.0984824
+>4,0,0

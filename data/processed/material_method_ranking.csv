@@ -1,0 +1,43 @@
+material,soc_status,rank_metric,rank,method,metric_value
+As,noSOC,NRMSE,1,empirical digitized reference,0.10077936
+As,noSOC,NRMSE,2,harmonic phonon spectrum (isotropic),0.1116405
+As,noSOC,NRMSE,3,elastic-derived Debye,0.17107628
+As,noSOC,NRMSE,4,quasi-harmonic Debye,0.33430699
+As,noSOC,RMSE,1,empirical digitized reference,0.2097856
+As,noSOC,RMSE,2,harmonic phonon spectrum (isotropic),0.23239451
+As,noSOC,RMSE,3,elastic-derived Debye,0.35611798
+As,noSOC,RMSE,4,quasi-harmonic Debye,0.69590434
+As,noSOC,R2,1,empirical digitized reference,0.90611077
+As,noSOC,R2,2,harmonic phonon spectrum (isotropic),0.8847831
+As,noSOC,R2,3,elastic-derived Debye,0.72944706
+As,noSOC,R2,4,quasi-harmonic Debye,-0.0331504
+Sb,noSOC,NRMSE,1,harmonic phonon spectrum (isotropic),0.03608605
+Sb,noSOC,NRMSE,2,empirical digitized reference,0.21909267
+Sb,noSOC,NRMSE,3,elastic-derived Debye,0.23049359
+Sb,noSOC,NRMSE,4,quasi-harmonic Debye,0.2928007
+Sb,noSOC,RMSE,1,harmonic phonon spectrum (isotropic),0.10651206
+Sb,noSOC,RMSE,2,empirical digitized reference,0.64667676
+Sb,noSOC,RMSE,3,elastic-derived Debye,0.68032785
+Sb,noSOC,RMSE,4,quasi-harmonic Debye,0.86423433
+Sb,noSOC,R2,1,harmonic phonon spectrum (isotropic),0.98895886
+Sb,noSOC,R2,2,empirical digitized reference,0.59300342
+Sb,noSOC,R2,3,elastic-derived Debye,0.5495436
+Sb,noSOC,R2,4,quasi-harmonic Debye,0.27309229
+Bi_noSOC,noSOC,NRMSE,1,quasi-harmonic Debye,0.09615085
+Bi_noSOC,noSOC,NRMSE,2,elastic-derived Debye,0.24825125
+Bi_noSOC,noSOC,NRMSE,3,empirical digitized reference,0.30302692
+Bi_noSOC,noSOC,NRMSE,4,harmonic phonon spectrum (isotropic),0.43688715
+Bi_noSOC,noSOC,RMSE,1,quasi-harmonic Debye,0.13697467
+Bi_noSOC,noSOC,RMSE,2,elastic-derived Debye,0.35365402
+Bi_noSOC,noSOC,RMSE,3,empirical digitized reference,0.43168639
+Bi_noSOC,noSOC,RMSE,4,harmonic phonon spectrum (isotropic),0.62238113
+Bi_noSOC,noSOC,R2,1,quasi-harmonic Debye,0.91508315
+Bi_noSOC,noSOC,R2,2,elastic-derived Debye,0.43392946
+Bi_noSOC,noSOC,R2,3,empirical digitized reference,0.15656798
+Bi_noSOC,noSOC,R2,4,harmonic phonon spectrum (isotropic),-0.75317876
+Bi_SOC,SOC,NRMSE,1,quasi-harmonic Debye,0.32669548
+Bi_SOC,SOC,NRMSE,2,elastic-derived Debye,0.48898993
+Bi_SOC,SOC,RMSE,1,quasi-harmonic Debye,0.46540418
+Bi_SOC,SOC,RMSE,2,elastic-derived Debye,0.69660577
+Bi_SOC,SOC,R2,1,quasi-harmonic Debye,0.01966634
+Bi_SOC,SOC,R2,2,elastic-derived Debye,-1.19627892

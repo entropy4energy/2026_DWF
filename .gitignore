@@ -1,0 +1,10 @@
+.DS_Store
+__pycache__/
+.cache/
+.venv/
+
+# Written by scripts/run_all.py; rebuilt on every run.
+/figures/
+/logs/
+data/processed/*.tex
+data/processed/cross_material_synthesis_summary.md

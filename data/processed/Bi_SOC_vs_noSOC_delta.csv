@@ -1,0 +1,29 @@
+descriptor,Bi_noSOC,Bi_SOC,abs_change,percent_change,interpretation_short
+a_hex_A,4.5726766,4.61805936,0.04538276,0.99247688,SOC increases this quantity
+c_hex_A,12.00369885,12.10979211,0.10609327,0.88383812,SOC increases this quantity
+V_per_atom_A3,36.22725659,37.27649678,1.04924018,2.89627281,SOC increases this quantity
+density_g_cm3,9.57897867,9.30935438,-0.2696243,-2.81474997,SOC softens this quantity
+B_VRH_GPa,30.7539,28.5101,-2.2438,-7.29598522,SOC softens this quantity
+G_VRH_GPa,13.0564,10.0408,-3.0156,-23.09671885,SOC softens this quantity
+Y_VRH_GPa,34.3132,26.9577,-7.3555,-21.43635685,SOC softens this quantity
+poisson_ratio,0.314044,0.342409,0.028365,9.03217384,SOC shifts the Poisson ratio upward
+elastic_anisotropy,3.15946,3.58139,0.42193,13.35449729,SOC increases this quantity
+debye_T_elastic_K,115.1,101.418,-13.682,-11.88705474,SOC drops the characteristic Debye scale
+debye_T_quasi_harmonic_K,137.969,117.056,-20.913,-15.15775283,SOC drops the characteristic Debye scale
+acoustic_debye_T_K,75.9443,64.3876,-11.5567,-15.21733692,SOC drops the characteristic Debye scale
+gruneisen_param,2.17218,2.30115,0.12897,5.93735326,SOC increases this quantity
+thermal_expansion_300K_1_per_K,6.18670000e-05,7.73072000e-05,1.54402000e-05,24.95708536,SOC increases the thermal expansion coefficient
+B_static_300K_GPa,40.8551,34.3305,-6.5246,-15.9700992,SOC softens this quantity
+B_isothermal_300K_GPa,39.2436,32.5443,-6.6993,-17.07106382,SOC softens this quantity
+kappa_300K_W_per_mK,1.17079,0.635996,-0.534794,-45.67804645,SOC lowers the lattice thermal conductivity
+C11_GPa,72.8294,59.1115,-13.7179,-18.83566252,SOC softens this quantity
+C33_GPa,31.6903,31.3493,-0.341,-1.07603904,SOC softens this quantity
+C44_GPa,9.22142,5.51507,-3.70635,-40.19283364,SOC softens this quantity
+C66_GPa,23.9772,19.8446,-4.1326,-17.23554043,SOC softens this quantity
+B_Voigt_GPa,34.0438,29.4067,-4.6371,-13.62098238,SOC softens this quantity
+B_Reuss_GPa,27.464,27.6135,0.1495,0.54434897,SOC increases this quantity
+G_Voigt_GPa,16.0071,12.653,-3.3541,-20.95382674,SOC softens this quantity
+G_Reuss_GPa,10.1056,7.42856,-2.67704,-26.49065864,SOC softens this quantity
+v_trans_m_s,1167.48,1038.54,-128.94,-11.04430054,SOC softens this quantity
+v_long_m_s,1783.36,1586.4,-196.96,-11.04432083,SOC softens this quantity
+v_avg_m_s,1279.22,1137.93,-141.29,-11.0450118,SOC softens this quantity

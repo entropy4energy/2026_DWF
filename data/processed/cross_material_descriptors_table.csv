@@ -1,0 +1,8 @@
+material,structure,soc_status,V_per_atom_A3,G_VRH_GPa,Theta_D_AEL_K,Theta_D_AGL_K,mean_freq_THz,log_avg_freq_THz,sub_1THz_DOS_frac,sub_2THz_DOS_frac,leverage_total,leverage_below_2THz,leverage_fraction_below_2THz,regime_A7_label
+As,"A7 (hR2, R-3m)",noSOC,22.74104485,25.6124,249.135,334.878,4.30845242,3.84702227,0.00871775,0.10139152,,,,stiff (As-like)
+Sb,"A7 (hR2, R-3m)",noSOC,31.75666494,25.6303,206.693,247.915,2.88800588,2.599206,0.02375639,0.36186793,,,,soft (Sb-like)
+Bi,"A7 (hR2, R-3m)",noSOC,36.22725659,13.0564,115.1,137.969,2.02292017,1.77729715,0.19143377,0.50107951,,,,boundary (Bi-like)
+Bi (SOC),"A7 (hR2, R-3m)",SOC,37.27649678,10.0408,101.418,117.056,1.87323,1.62574,0.26061,0.50136,0.76204,0.69457,0.91147,boundary (Bi-like)
+C,cF8 (diamond),noSOC,,519.3,2225,2099,28.93920,27.59680,0.00001,0.00005,0.00185,0.00004,0.02032,stiff (As-like)
+Si,cF8 (diamond),noSOC,,62.7,625.4,611.1,9.71129,8.58619,0.00062,0.00582,0.02742,0.00372,0.13582,stiff (As-like)
+Ge,cF8 (diamond),noSOC,,43.1,331.7,324.1,5.31037,4.64080,0.00483,0.07880,0.10059,0.04159,0.41351,stiff (As-like)

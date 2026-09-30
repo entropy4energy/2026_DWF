@@ -1,0 +1,254 @@
+[AFLOW] ************************************************************************************************************************** 
+[AFLOW]                                                                                     
+[AFLOW]                     .o.        .o88o. oooo                                          
+[AFLOW]                    .888.       888 `` `888                                          
+[AFLOW]                   .8'888.     o888oo   888   .ooooo.  oooo oooo    ooo              
+[AFLOW]                  .8' `888.     888     888  d88' `88b  `88. `88.  .8'               
+[AFLOW]                 .88ooo8888.    888     888  888   888   `88..]88..8'                
+[AFLOW]                .8'     `888.   888     888  888   888    `888'`888'                 
+[AFLOW]               o88o     o8888o o888o   o888o `Y8bod8P'     `8'  `8'  .in             
+[AFLOW]                                                                                     
+[AFLOW] ************************************************************************************************************************** 
+[AFLOW] * Stefano Curtarolo - (AFLOW V3.2.14) 
+[AFLOW] * D. Morgan, W. Setyawan, G. Hart, M. Jahnatek, S. Wang, O. Levy, K. Yang, J. Xue,  
+[AFLOW] * R. Taylor, C. Calderon, C. Toher, C. Oses, J. J. Plata, D. Hicks, M. Esters,      
+[AFLOW] * P. Nath, F. Rose, E. Gossett, E. Perim, R. Chepulskyy, K. Rasch, M. Fornari,      
+[AFLOW] * M. Buongiorno Nardelli 
+[AFLOW] ************************************************************************************************************************** 
+[AFLOW] AFLOW automatically generated (aflow_avasp.cpp) 
+[AFLOW] GENERATOR = coses1 
+[AFLOW] ************************************************************************************************************************** 
+[AFLOW] ************************************************************************************************************************** 
+[AFLOW]SYSTEM=C:PAW_PBE.A_cF8_227_a.A
+#[AFLOW] single element calculation
+[AFLOW] ************************************************************************************************************************** 
+[AFLOW] input file for aflow 
+[AFLOW_MODE=VASP] 
+[AFLOW] ************************************************************************************************************************** 
+[AFLOW_MODE_ZIP=xz] 
+[AFLOW_MODE_BINARY=vasp_std] 
+[AFLOW] ************************************************************************************************************************** 
+[AFLOW] ************************************************************************************************************************** 
+#[AFLOW_MODE_MPI]
+[AFLOW_MODE_MPI_MODE]NCPUS=MAX 
+[AFLOW_MODE_MPI_MODE]COMMAND ="mpirun -np" 
+[AFLOW_MODE_MPI_MODE]AUTOTUNE 
+[AFLOW_MODE_MPI_MODE]BINARY="vasp_std" 
+[AFLOW] ************************************************************************************************************************** 
+[AFLOW_SYMMETRY]CALC                                         // README_AFLOW_SYM.TXT
+#[AFLOW_SYMMETRY]SGROUP_WRITE                                // README_AFLOW_SYM.TXT
+#[AFLOW_SYMMETRY]SGROUP_RADIUS=7.77                          // README_AFLOW_SYM.TXT
+[AFLOW] ************************************************************************************************************************** 
+#[AFLOW_APL]CALC                                             // README_AFLOW_APL.TXT
+[AFLOW_APL]DC=ON                                             // README_AFLOW_APL.TXT
+[AFLOW_APL]DCPATH=LATTICE                                    // README_AFLOW_APL.TXT
+[AFLOW_APL]DCPOINTS=100                                      // README_AFLOW_APL.TXT
+[AFLOW_APL]DINEQUIV_ONLY=ON                                  // README_AFLOW_APL.TXT
+[AFLOW_APL]DISPLACEMENTS=ON                                  // README_AFLOW_APL.TXT
+[AFLOW_APL]DMAG=0.015                                        // README_AFLOW_APL.TXT
+[AFLOW_APL]DOS=ON                                            // README_AFLOW_APL.TXT
+[AFLOW_APL]DOSMESH=21x21x21                                  // README_AFLOW_APL.TXT
+[AFLOW_APL]DOSMETHOD=LT                                      // README_AFLOW_APL.TXT
+[AFLOW_APL]DOSPOINTS=2000                                    // README_AFLOW_APL.TXT
+[AFLOW_APL]DOS_PROJECT=OFF                                   // README_AFLOW_APL.TXT
+[AFLOW_APL]DPM=ON                                            // README_AFLOW_APL.TXT
+[AFLOW_APL]DSYMMETRIZE=ON                                    // README_AFLOW_APL.TXT
+[AFLOW_APL]DXYZONLY=OFF                                      // README_AFLOW_APL.TXT
+[AFLOW_APL]ENGINE=DM                                         // README_AFLOW_APL.TXT
+[AFLOW_APL]FREQFORMAT=THZ|ALLOW_NEGATIVE                     // README_AFLOW_APL.TXT
+[AFLOW_APL]GROUP_VELOCITY=ON                                 // README_AFLOW_APL.TXT
+[AFLOW_APL]HIBERNATE=ON                                      // README_AFLOW_APL.TXT
+[AFLOW_APL]KPPRA=3000                                        // README_AFLOW_APL.TXT
+[AFLOW_APL]KSCHEME=G                                         // README_AFLOW_APL.TXT
+[AFLOW_APL]MINATOMS=175                                      // README_AFLOW_APL.TXT
+[AFLOW_APL]POLAR=ON                                          // README_AFLOW_APL.TXT
+[AFLOW_APL]PREC=PHONONS                                      // README_AFLOW_APL.TXT
+[AFLOW_APL]RELAX=ON                                          // README_AFLOW_APL.TXT
+[AFLOW_APL]RELAX_COMMENSURATE=ON                             // README_AFLOW_APL.TXT
+[AFLOW_APL]TP=ON                                             // README_AFLOW_APL.TXT
+[AFLOW_APL]TPT=0:2000:10                                     // README_AFLOW_APL.TXT
+[AFLOW_APL]ZEROSTATE=OFF                                     // README_AFLOW_APL.TXT
+[AFLOW] ************************************************************************************************************************** 
+#[AFLOW_QHA]CALC                                             // README_AFLOW_APL.TXT
+[AFLOW_QHA]EOS=ON                                            // README_AFLOW_APL.TXT
+[AFLOW_QHA]EOS_DISTORTION_RANGE=-12:16:3                     // README_AFLOW_APL.TXT
+[AFLOW_QHA]EOS_MODEL=SJ                                      // README_AFLOW_APL.TXT
+[AFLOW_QHA]GP_DISTORTION=1                                   // README_AFLOW_APL.TXT
+[AFLOW_QHA]GP_FINITE_DIFF=OFF                                // README_AFLOW_APL.TXT
+[AFLOW_QHA]IGNORE_IMAGINARY=OFF                              // README_AFLOW_APL.TXT
+[AFLOW_QHA]INCLUDE_ELEC_CONTRIB=OFF                          // README_AFLOW_APL.TXT
+[AFLOW_QHA]MODE=QHA                                          // README_AFLOW_APL.TXT
+[AFLOW_QHA]PDIS_T=300                                        // README_AFLOW_APL.TXT
+[AFLOW_QHA]RELAX_IONS_CELL=OFF                               // README_AFLOW_APL.TXT
+[AFLOW_QHA]SOMMERFELD_EXPANSION=OFF                          // README_AFLOW_APL.TXT
+[AFLOW_QHA]TAYLOR_EXPANSION_ORDER=2                          // README_AFLOW_APL.TXT
+[AFLOW] ************************************************************************************************************************** 
+#[AFLOW_AAPL]CALC                                            // README_AFLOW_APL.TXT
+[AFLOW_AAPL]BOUNDARY=OFF                                     // README_AFLOW_APL.TXT
+[AFLOW_AAPL]BTE=FULL                                         // README_AFLOW_APL.TXT
+[AFLOW_AAPL]CUMULATIVEK=OFF                                  // README_AFLOW_APL.TXT
+[AFLOW_AAPL]CUT_RAD=0.0                                      // README_AFLOW_APL.TXT
+[AFLOW_AAPL]CUT_SHELL=6                                      // README_AFLOW_APL.TXT
+[AFLOW_AAPL]ISOTOPE=ON                                       // README_AFLOW_APL.TXT
+[AFLOW_AAPL]MIXING_COEFFICIENT=0                             // README_AFLOW_APL.TXT
+[AFLOW_AAPL]NANO_SIZE=100                                    // README_AFLOW_APL.TXT
+[AFLOW_AAPL]SUMRULE=1e-07                                    // README_AFLOW_APL.TXT
+[AFLOW_AAPL]SUMRULE_MAX_ITER=2000                            // README_AFLOW_APL.TXT
+[AFLOW_AAPL]TCT=50:550:50                                    // README_AFLOW_APL.TXT
+[AFLOW_AAPL]THERMALGRID=21x21x21                             // README_AFLOW_APL.TXT
+[AFLOW] ************************************************************************************************************************** 
+#[AFLOW_AGL]CALC                                             // README_AFLOW_AGL.TXT
+[AFLOW_AGL]AEL_POISSON_RATIO=ON                              // README_AFLOW_AGL.TXT
+[AFLOW_AGL]DIRNAME_ARUN=ON                                   // README_AFLOW_AGL.TXT
+[AFLOW_AGL]NTEMP=201                                         // README_AFLOW_AGL.TXT
+[AFLOW_AGL]HUGONIOT_CALC=ON                                  // README_AFLOW_AGL.TXT
+[AFLOW_AGL]NPRESSURE=101                                     // README_AFLOW_AGL.TXT
+[AFLOW_AGL]SPRESSURE=1.0                                     // README_AFLOW_AGL.TXT
+[AFLOW_AGL]NSTRUCTURES=28                                    // README_AFLOW_AGL.TXT
+[AFLOW_AGL]STRAIN_STEP=0.01                                  // README_AFLOW_AGL.TXT
+[AFLOW_AGL]WRITE_GIBBS_INPUT=OFF                             // README_AFLOW_AGL.TXT
+[AFLOW_AGL]WRITE_FULL_RESULTS=OFF                            // README_AFLOW_AGL.TXT
+[AFLOW_AGL]PLOT_RESULTS=OFF                                  // README_AFLOW_AGL.TXT
+[AFLOW_AGL]IEOS=0                                            // README_AFLOW_AGL.TXT
+[AFLOW_AGL]IDEBYE=0                                          // README_AFLOW_AGL.TXT
+[AFLOW_AGL]CHECK_EV_CONCAVITY=OFF                            // README_AFLOW_AGL.TXT
+[AFLOW_AGL]CHECK_EV_MIN=OFF                                  // README_AFLOW_AGL.TXT
+[AFLOW_AGL]FIT_TYPE=0                                        // README_AFLOW_AGL.TXT
+[AFLOW_AGL]AUTOSKIP_FAILED_ARUNS=OFF                         // README_AFLOW_AGL.TXT
+[AFLOW_AGL]SKIP_FAILED_ARUNS=                                // README_AFLOW_AGL.TXT
+[AFLOW_AGL]SKIP_ARUNS_MAX=7                                  // README_AFLOW_AGL.TXT
+[AFLOW_AGL]RUN_ALL_PRESSURE_TEMPERATURE=OFF                  // README_AFLOW_AGL.TXT
+[AFLOW_AGL]HUGONIOT_EXTRAPOLATE=OFF                          // README_AFLOW_AGL.TXT
+[AFLOW_AGL]PRECACC_ALGONORM=OFF                              // README_AFLOW_AGL.TXT
+[AFLOW] ************************************************************************************************************************** 
+#[AFLOW_AEL]CALC                                             // README_AFLOW_AEL.TXT
+[AFLOW_AEL]STRAIN_SYMMETRY=ON                                // README_AFLOW_AEL.TXT
+[AFLOW_AEL]DIRNAME_ARUN=ON                                   // README_AFLOW_AEL.TXT
+[AFLOW_AEL]NNORMAL_STRAINS=4                                 // README_AFLOW_AEL.TXT
+[AFLOW_AEL]NSHEAR_STRAINS=4                                  // README_AFLOW_AEL.TXT
+[AFLOW_AEL]NORMAL_STRAIN_STEP=0.005                          // README_AFLOW_AEL.TXT
+[AFLOW_AEL]SHEAR_STRAIN_STEP=0.005                           // README_AFLOW_AEL.TXT
+[AFLOW_AEL]CHECK_ELASTIC_SYMMETRY=OFF                        // README_AFLOW_AEL.TXT
+[AFLOW_AEL]WRITE_FULL_RESULTS=OFF                            // README_AFLOW_AEL.TXT
+[AFLOW_AEL]ORIGIN_STRAIN_CALC=OFF                            // README_AFLOW_AEL.TXT
+[AFLOW_AEL]RELAXED_STRUCT_FIT=OFF                            // README_AFLOW_AEL.TXT
+[AFLOW_AEL]ORIGIN_STRAIN_FIT=OFF                             // README_AFLOW_AEL.TXT
+[AFLOW_AEL]NEG_STRAINS=ON                                    // README_AFLOW_AEL.TXT
+[AFLOW_AEL]NIND_STRAINS=3                                    // README_AFLOW_AEL.TXT
+[AFLOW_AEL]SYM_TOL_FRAC=0.05                                 // README_AFLOW_AEL.TXT
+[AFLOW_AEL]VASPRUNXML_STRESS=OFF                             // README_AFLOW_AEL.TXT
+[AFLOW_AEL]PRECACC_ALGONORM=OFF                              // README_AFLOW_AEL.TXT
+[AFLOW_AEL]SYMMETRIZE=OFF                                    // README_AFLOW_AEL.TXT
+[AFLOW_AEL]VASPSYM=OFF                                       // README_AFLOW_AEL.TXT
+[AFLOW_AEL]AUTOSKIP_FAILED_ARUNS=OFF                         // README_AFLOW_AEL.TXT
+[AFLOW_AEL]SKIP_FAILED_ARUNS=                                // README_AFLOW_AEL.TXT
+[AFLOW_AEL]SKIP_ARUNS_MAX=1                                  // README_AFLOW_AEL.TXT
+[AFLOW] ************************************************************************************************************************** 
+[VASP_RUN]RELAX_STATIC=2                                     // GENERATE | STATIC | RELAX=N | RELAX_STATIC=N | STATIC_BANDS | RELAX_STATIC_BANDS=N | REPEAT_STATIC | REPEAT_STATIC_BANDS | REPEAT_BANDS [,DS[,DD[,DSCF]]] 
+#[VASP_FORCE_OPTION]NEGLECT_NOMIX 
+[VASP_FORCE_OPTION]WAVECAR=OFF                               // ON | OFF (default: DEFAULT_VASP_FORCE_OPTION_WAVECAR in .aflow.rc)
+[VASP_FORCE_OPTION]CHGCAR=ON                                 // ON | OFF (default: DEFAULT_VASP_FORCE_OPTION_CHGCAR in .aflow.rc)
+#[VASP_FORCE_OPTION]KPOINTS=keyword[,keyword]                // EVEN | ODD | KSHIFT_GAMMA_EVEN | KSHIFT_GAMMA_ODD | KSCHEME_MONKHORST_PACK | KSCHEME_GAMMA | GAMMA | KEEPK | IBZKPT
+[VASP_FORCE_OPTION]SYM=ON                                    // ON | OFF  (default: DEFAULT_VASP_FORCE_OPTION_SYM in .aflow.rc)
+[VASP_FORCE_OPTION]AUTO_PSEUDOPOTENTIALS=potpaw_PBE          // pot_LDA | pot_GGA | potpaw_LDA | potpaw_GGA | potpaw_PBE | potpaw_LDA_KIN | potpaw_PBE_KIN  
+[VASP_FORCE_OPTION]NBANDS                                    // Estimate Bands (better than VASP)
+#[VASP_FORCE_OPTION]PSTRESS=0.0                              // Pressure in kBar (1kB=0.1GPa)
+#[VASP_FORCE_OPTION]EDIFFG=-0.001                            // EDIFFG for relaxed forces
+#[VASP_FORCE_OPTION]ENMAX_MULTIPLY=1.4                       // Multiplication of the max(pseudopotential_cutoffs)
+#[VASP_FORCE_OPTION]POTIM=0.5                                // ionic time-step
+#[AFLOW REMOVED (KBIN::XVASP_INCAR_SPIN_FIX_RELAX)] [VASP_FORCE_OPTION]SPIN=ON,REMOVE_RELAX_2                    // (ON | OFF  (default: DEFAULT_VASP_FORCE_OPTION_SPIN in .aflow.rc)), REMOVE_RELAX_1 | _2 (default: DEFAULT_VASP_FORCE_OPTION_SPIN_REMOVE_RELAX_1 _2 in .aflow.rc), RECYCLE_SPIN (default DEFAULT_VASP_FORCE_OPTION_RECYCLE_SPIN in .aflow.rc)
+#[VASP_FORCE_OPTION]AUTO_MAGMOM=ON                           // ON | OFF (default: DEFAULT_VASP_FORCE_OPTION_AUTO_MAGMOM in .aflow.rc)
+[VASP_FORCE_OPTION]BADER=ON                                  // ON | OFF (default: DEFAULT_VASP_FORCE_OPTION_BADER in .aflow.rc)
+[VASP_FORCE_OPTION]RELAX_ALL                                 // ALL | IONS | CELL_SHAPE | CELL_VOLUME | IONS_CELL_VOLUME | IONS_CELL_SHAPE 
+[VASP_FORCE_OPTION]RELAX_MODE=ENERGY                         // (ENERGY | FORCES | ENERGY_FORCES | FORCES_ENERGY) (default: DEFAULT_VASP_FORCE_OPTION_RELAX_MODE_SCHEME in .aflow.rc) 
+[VASP_FORCE_OPTION]PREC=ACCURATE                             // (LOW | MEDIUM | NORMAL | HIGH | ACCURATE | PHONONS), PRESERVED (default: DEFAULT_VASP_FORCE_OPTION_PREC_SCHEME in .aflow.rc)
+[VASP_FORCE_OPTION]ALGO=NORMAL                               // (NORMAL | VERYFAST | FAST | ALL | DAMPED), PRESERVED (default: DEFAULT_VASP_FORCE_OPTION_ALGO_SCHEME in .aflow.rc)
+#[VASP_FORCE_OPTION]METAGGA=NONE                             // (TPSS | RTPSS | M06L | MBJL | SCAN | MS0 | MS1 | MS2 | NONE) (default: DEFAULT_VASP_FORCE_OPTION_METAGGA_SCHEME in .aflow.rc)
+#[VASP_FORCE_OPTION]IVDW=0                                   // (number_for_VASP_see_manual_for_IVDW | 0) (default: DEFAULT_VASP_FORCE_OPTION_IVDW_SCHEME in .aflow.rc)
+#[VASP_FORCE_OPTION]NOTUNE 
+[VASP_FORCE_OPTION]TYPE=DEFAULT                              // (METAL | INSULATOR | SEMICONDUCTOR | DEFAULT) (default DEFAULT) 
+[VASP_FORCE_OPTION]CONVERT_UNIT_CELL=SPRIM                   // (SPRIM, SCONV, NIGGLI, MINK, INCELL, COMPACT, WS, CART, FRAC, PRES) 
+#[VASP_FORCE_OPTION]VOLUME+=10.0 
+#[AFLOW REMOVED (KBIN::VASP_CONTCAR_Save(relax1))] [VASP_FORCE_OPTION]VOLUME*=1.05 
+[AFLOW] ************************************************************************************************************************** 
+[AFLOW] ************************************************************************************************************************** 
+[VASP_INCAR_MODE_EXPLICIT]START 
+SYSTEM=C:PAW_PBE.A_cF8_227_a.A
+#PSTRESS=000       # Pressure in kBar (1kB=0.1GPa)           # for hand modification
+#EDIFFG=-0.001     # For relaxed forces                      # for hand modification
+#POTIM=-0.001      # default                                 # for hand modification
+#NBANDS=XX                                                   # for hand modification
+#IALGO=48                                                    # for hand modification
+[VASP_INCAR_MODE_EXPLICIT]STOP 
+[AFLOW] ************************************************************************************************************************** 
+[VASP_KPOINTS_MODE_IMPLICIT] 
+[VASP_KPOINTS_FILE]KSCHEME=AUTO
+[VASP_KPOINTS_FILE]KPPRA=32768
+[VASP_KPOINTS_FILE]STATIC_KSCHEME=AUTO
+[VASP_KPOINTS_FILE]STATIC_KPPRA=32768
+[VASP_KPOINTS_FILE]BANDS_LATTICE=AUTO
+[VASP_KPOINTS_FILE]BANDS_GRID=128
+[AFLOW] ************************************************************************************************************************** 
+[VASP_POSCAR_MODE_EXPLICIT]START 
+C/A_cF8_227_a.A params=-1 SG=227 [ANRL doi: 10.1016/j.commatsci.2017.01.017 (part 1), doi: 10.1016/j.commatsci.2018.10.043 (part 2)]
+-11.189800
+   0.00000000000000   0.50000000000000   0.50000000000000
+   0.50000000000000   0.00000000000000   0.50000000000000
+   0.50000000000000   0.50000000000000   0.00000000000000
+2 
+Direct(2) [A2] 
+   0.12500000000000   0.12500000000000   0.12500000000000  C     
+   0.87500000000000   0.87500000000000   0.87500000000000  C     
+[VASP_POSCAR_MODE_EXPLICIT]STOP 
+[AFLOW] ************************************************************************************************************************** 
+[VASP_POTCAR_MODE_IMPLICIT] 
+[VASP_POTCAR_FILE]C
+[AFLOW] potpaw_PBE: C 
+[AFLOW] COMPOSITION_PP=|C2|
+[AFLOW] COMPOSITION=|C2|
+[AFLOW] VOLUME(A^3)=|5.5949|
+[AFLOW] MASS(amu)=|12.011|
+[AFLOW] ************************************************************************************************************************** 
+[AFLOW] ************************************************************************************************************************** 
+[AFLOW] AFLOW automatically generated (aflow_avasp.cpp) 
+[AFLOW] ************************************************************************************************************************** 
+[AFLOW] AFLOW V(3.2.14) in ./LIB1/LIB/C:PAW_PBE/A_cF8_227_a.A
+[AFLOW] ************************************************************************************************************************** 
+[VASP_POTCAR_AUID]a720f5418b5ad14f
+[AFLOW] ************************************************************************************************************************** 
+[AFLOW] SELF-MODIFICATION
+[AFLOW] Recycling CONTCAR of relax1
+[AFLOW] ************************************************************************************************************************** 
+[VASP_POSCAR_MODE_EXPLICIT]START
+C/A_cF8_227_a.A params=-1 SG=227 [ANRL d
+1.016396
+   0.00000000000000   1.75750135711615   1.75750135711615
+   1.75750135711615  -0.00000000000000   1.75750135711615
+   1.75750135711615   1.75750135711615   0.00000000000000
+C 
+2 
+Direct(2) [A2] 
+   0.87500000000000   0.87500000000000   0.37500000000000  C     
+   0.12500000000000   0.12500000000000   0.62500000000000  C     
+[VASP_POSCAR_MODE_EXPLICIT]STOP
+[AFLOW] ************************************************************************************************************************** 
+[AFLOW] ************************************************************************************************************************** 
+[AFLOW] SELF-MODIFICATION
+[AFLOW] Recycling CONTCAR of relax2
+[AFLOW] ************************************************************************************************************************** 
+[VASP_POSCAR_MODE_EXPLICIT]START
+C/A_cF8_227_a.A params=-1 SG=227 [ANRL d
+1.016396
+   0.00000000000000   1.75750135711615   1.75750135711615
+   1.75750135711615   0.00000000000000   1.75750135711615
+   1.75750135711615   1.75750135711615   0.00000000000000
+C 
+2 
+Direct(2) [A2] 
+   0.87500000000000   0.87500000000000   0.37500000000000  C     
+   0.12500000000000   0.12500000000000   0.62500000000000  C     
+[VASP_POSCAR_MODE_EXPLICIT]STOP
+[AFLOW] ************************************************************************************************************************** 
+[VASP_FORCE_OPTION]SPIN=OFF                                  // Self Correction (KBIN::XVASP_INCAR_SPIN_FIX_RELAX)
+[POSCAR_ORIG]PATCHED=20240103_08:55:55_GMT-5
+[AFLOW_QMVASP]PATCHED=20240103_08:55:56_GMT-5

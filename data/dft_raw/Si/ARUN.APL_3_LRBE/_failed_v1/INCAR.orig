@@ -1,0 +1,8 @@
+#AFLOW INCAR automatically generated (INCAR_MODE_EXPLICIT_START_STOP)
+SYSTEM=Si:PAW_PBE.A_cF8_227_a.A
+IBRION=8                                         
+LEPSILON=.TRUE.                                  
+ISMEAR=0                                                    
+SIGMA=0.05
+NELM=200                                                    
+#incar

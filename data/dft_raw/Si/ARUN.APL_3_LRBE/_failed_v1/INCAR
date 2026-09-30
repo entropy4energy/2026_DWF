@@ -1,0 +1,51 @@
+#AFLOW INCAR automatically generated (INCAR_MODE_EXPLICIT_START_STOP)
+SYSTEM=Si:PAW_PBE.A_cF8_227_a.A
+IBRION=8                                         
+LEPSILON=.TRUE.                                  
+ISMEAR=0                                                    
+SIGMA=0.05
+# NELM=200                                                     # AFLOW REMOVED (KBIN::XVASP_INCAR PREC=PHONONS)
+#incar
+# Performing MPI-AUTOTUNE [AFLOW] begin
+# MPI tuning for Linux cluster with CPUS=192
+# look at the VASP manual
+LPLANE=.TRUE.                                    # parallelization
+#[AFLOW REMOVED(LEPSILON=.TRUE.)] NPAR=16                                          # lookup table from NCPUS=192
+#[AFLOW REMOVED(LEPSILON=.TRUE.)] NCORE=12                                         # lookup table from NCPUS=192
+NSIM=4                                           # tune size vector/matrix product
+LSCALU=.FALSE.                                   # neglect scalapack
+# Performing MPI-AUTOTUNE [AFLOW] end
+# Performing KBIN::XVASP_INCAR_PREPARE_GENERIC(NBANDS=48) [AFLOW] begin
+NBANDS=48                                        # KBIN::XVASP_INCAR_PREPARE_GENERIC(NBANDS=48)
+# Performing KBIN::XVASP_INCAR_PREPARE_GENERIC(NBANDS=48) [AFLOW] end
+# Performing KBIN::XVASP_INCAR_PREPARE_GENERIC(SPIN=OFF) [AFLOW] begin
+ISPIN=1                                          # KBIN::XVASP_INCAR_PREPARE_GENERIC(SPIN=OFF)
+# Performing KBIN::XVASP_INCAR_PREPARE_GENERIC(SPIN=OFF) [AFLOW] end
+# Performing KBIN::XVASP_INCAR_PREPARE_GENERIC(SYM=ON) [AFLOW] begin
+ISYM=2                                           # KBIN::XVASP_INCAR_PREPARE_GENERIC(SYM=ON) SYMMETRY=ON
+# Performing KBIN::XVASP_INCAR_PREPARE_GENERIC(SYM=ON) [AFLOW] end
+# Performing KBIN::XVASP_INCAR_PREPARE_GENERIC(WAVECAR=OFF) [AFLOW] begin
+LWAVE=.FALSE.                                    # KBIN::XVASP_INCAR_PREPARE_GENERIC(WAVECAR=OFF)
+# Performing KBIN::XVASP_INCAR_PREPARE_GENERIC(WAVECAR=OFF) [AFLOW] end
+# Performing KBIN::XVASP_INCAR_PREPARE_GENERIC(LCHARG=ON) [AFLOW] begin
+LCHARG=.TRUE.                                    # KBIN::XVASP_INCAR_PREPARE_GENERIC(LCHARG=ON)
+# Performing KBIN::XVASP_INCAR_PREPARE_GENERIC(LCHARG=ON) [AFLOW] end
+# Performing Precision PREC=PHONONS [AFLOW] begin
+PREC=Accurate                                    # avoid wrap around errors
+ENMAX=343.483                                    # 1.4*ENMAX (245.345) of pseudopotentials
+LREAL=.FALSE.                                    # reciprocal space projection technique
+EDIFF=1e-08                                      # high accuracy required
+EDIFFG=-0.001                                    # high accuracy required
+# NELM=200                                         # Many electronic steps # AFLOW REMOVED (KBIN::XVASP_INCAR_Static_ON)
+NELMIN=4                                         # The forces have to be well converged
+ADDGRID=.TRUE.                                   # For finer forces
+# Performing Precision PREC=PHONONS [AFLOW] end
+# Performing KBIN::XVASP_INCAR_PREPARE_GENERIC(ALGO=NORMAL) [AFLOW] begin
+ALGO=Normal                                      # KBIN::XVASP_INCAR_PREPARE_GENERIC(ALGO=NORMAL) blocked Davidson block iteration scheme (IALGO=38)
+# Performing KBIN::XVASP_INCAR_PREPARE_GENERIC(ALGO=NORMAL) [AFLOW] end
+# Performing STATIC [AFLOW] begin
+LAECHG=.TRUE.                                    # Performing STATIC  (Bader ON)
+LORBIT=10                                        # Performing STATIC
+NELM=200                                         # Performing STATIC
+#removing IBRION, NSW, ISIF
+# Performing STATIC [AFLOW] end
