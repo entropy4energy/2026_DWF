@@ -1,0 +1,296 @@
+# Complete literature archive of isotropic Debye-Waller B(T) for the
+# diamond-structure controls (C, Si, Ge). Every tabulated temperature point from
+# each primary source is included; SI Fig. S1 plots a curated subset.
+# Provenance audited 2026-06-03 against the primary-source PDFs.
+#
+# source_type: diffraction_refinement | cbed_direct | pdos_derived
+#            | thetaM_derived | lattice_dynamical_calc
+# Conversions: B = 8 pi^2 Uiso (Beyer); thetaM_derived B(T) from
+#   Theta_M(Si)=543(8) K or Theta_M(Ge)=290(5) K via
+#   B(T)=(6 h^2/(m kB Theta_M))*(phi(x)/x + 1/4), x=Theta_M/T.
+#
+# flag column: "" for a clean point, or "artifact" for a value retained verbatim
+# from the source table that is physically impossible (B must rise with T). These
+# are kept for archival fidelity but excluded from Fig. S1; the notes column gives
+# the rationale per point.
+material,T_K,B_A2,B_unc_A2,source_key,source_label,source_type,page_table,quantity,conversion,flag,notes
+C,100,0.1306,0.0015,Beyer2023,Beyer et al. 2023 (Acta Cryst A79 41),diffraction_refinement,Table 1,Uiso=16.54(19)e-4 A^2,B=8pi^2 Uiso,,nominal set-point T (100 K); calibrated T in their Table S1
+C,200,0.1382,0.0009,Beyer2023,Beyer et al. 2023 (Acta Cryst A79 41),diffraction_refinement,Table 1,Uiso=17.5(12)e-4 A^2,B=8pi^2 Uiso,,nominal set-point T (200 K); calibrated T in their Table S1
+C,300,0.1423,0.0015,Beyer2023,Beyer et al. 2023 (Acta Cryst A79 41),diffraction_refinement,Table 1,Uiso=18.02(19)e-4 A^2,B=8pi^2 Uiso,,nominal set-point T (300 K); calibrated T in their Table S1
+C,300,0.1465,0.0015,Beyer2023,Beyer et al. 2023 (Acta Cryst A79 41),diffraction_refinement,Table 1,Uiso=18.55(19)e-4 A^2,B=8pi^2 Uiso,,nominal set-point T (300 K-after); calibrated T in their Table S1
+C,400,0.1566,0.0016,Beyer2023,Beyer et al. 2023 (Acta Cryst A79 41),diffraction_refinement,Table 1,Uiso=19.83(20)e-4 A^2,B=8pi^2 Uiso,,nominal set-point T (400 K); calibrated T in their Table S1
+C,500,0.1777,0.0015,Beyer2023,Beyer et al. 2023 (Acta Cryst A79 41),diffraction_refinement,Table 1,Uiso=22.51(19)e-4 A^2,B=8pi^2 Uiso,,nominal set-point T (500 K); calibrated T in their Table S1
+C,600,0.1940,0.0016,Beyer2023,Beyer et al. 2023 (Acta Cryst A79 41),diffraction_refinement,Table 1,Uiso=24.57(20)e-4 A^2,B=8pi^2 Uiso,,nominal set-point T (600 K); calibrated T in their Table S1
+C,700,0.2125,0.0014,Beyer2023,Beyer et al. 2023 (Acta Cryst A79 41),diffraction_refinement,Table 1,Uiso=26.91(18)e-4 A^2,B=8pi^2 Uiso,,nominal set-point T (700 K); calibrated T in their Table S1
+C,800,0.2427,0.0012,Beyer2023,Beyer et al. 2023 (Acta Cryst A79 41),diffraction_refinement,Table 1,Uiso=30.74(15)e-4 A^2,B=8pi^2 Uiso,,nominal set-point T (800 K); calibrated T in their Table S1
+C,900,0.2663,0.0017,Beyer2023,Beyer et al. 2023 (Acta Cryst A79 41),diffraction_refinement,Table 1,Uiso=33.73(22)e-4 A^2,B=8pi^2 Uiso,,nominal set-point T (900 K); calibrated T in their Table S1
+C,1000,0.2892,0.0019,Beyer2023,Beyer et al. 2023 (Acta Cryst A79 41),diffraction_refinement,Table 1,Uiso=36.63(24)e-4 A^2,B=8pi^2 Uiso,,nominal set-point T (1000 K); calibrated T in their Table S1
+C,1,0.1286,,Peng1996,Peng et al. 1996 (Acta Cryst A52 456),pdos_derived,Supplement Table 1 (B column),B=0.1286 A^2,none (direct B),,from experimentally determined phonon DOS; accuracy ~2-3%
+C,2,0.1286,,Peng1996,Peng et al. 1996 (Acta Cryst A52 456),pdos_derived,Supplement Table 1 (B column),B=0.1286 A^2,none (direct B),,from experimentally determined phonon DOS; accuracy ~2-3%
+C,3,0.1286,,Peng1996,Peng et al. 1996 (Acta Cryst A52 456),pdos_derived,Supplement Table 1 (B column),B=0.1286 A^2,none (direct B),,from experimentally determined phonon DOS; accuracy ~2-3%
+C,4,0.1286,,Peng1996,Peng et al. 1996 (Acta Cryst A52 456),pdos_derived,Supplement Table 1 (B column),B=0.1286 A^2,none (direct B),,from experimentally determined phonon DOS; accuracy ~2-3%
+C,5,0.1286,,Peng1996,Peng et al. 1996 (Acta Cryst A52 456),pdos_derived,Supplement Table 1 (B column),B=0.1286 A^2,none (direct B),,from experimentally determined phonon DOS; accuracy ~2-3%
+C,6,0.1286,,Peng1996,Peng et al. 1996 (Acta Cryst A52 456),pdos_derived,Supplement Table 1 (B column),B=0.1286 A^2,none (direct B),,from experimentally determined phonon DOS; accuracy ~2-3%
+C,7,0.1286,,Peng1996,Peng et al. 1996 (Acta Cryst A52 456),pdos_derived,Supplement Table 1 (B column),B=0.1286 A^2,none (direct B),,from experimentally determined phonon DOS; accuracy ~2-3%
+C,8,0.1286,,Peng1996,Peng et al. 1996 (Acta Cryst A52 456),pdos_derived,Supplement Table 1 (B column),B=0.1286 A^2,none (direct B),,from experimentally determined phonon DOS; accuracy ~2-3%
+C,9,0.1286,,Peng1996,Peng et al. 1996 (Acta Cryst A52 456),pdos_derived,Supplement Table 1 (B column),B=0.1286 A^2,none (direct B),,from experimentally determined phonon DOS; accuracy ~2-3%
+C,10,0.1286,,Peng1996,Peng et al. 1996 (Acta Cryst A52 456),pdos_derived,Supplement Table 1 (B column),B=0.1286 A^2,none (direct B),,from experimentally determined phonon DOS; accuracy ~2-3%
+C,15,0.1286,,Peng1996,Peng et al. 1996 (Acta Cryst A52 456),pdos_derived,Supplement Table 1 (B column),B=0.1286 A^2,none (direct B),,from experimentally determined phonon DOS; accuracy ~2-3%
+C,20,0.1287,,Peng1996,Peng et al. 1996 (Acta Cryst A52 456),pdos_derived,Supplement Table 1 (B column),B=0.1287 A^2,none (direct B),,from experimentally determined phonon DOS; accuracy ~2-3%
+C,25,0.1287,,Peng1996,Peng et al. 1996 (Acta Cryst A52 456),pdos_derived,Supplement Table 1 (B column),B=0.1287 A^2,none (direct B),,from experimentally determined phonon DOS; accuracy ~2-3%
+C,30,0.1288,,Peng1996,Peng et al. 1996 (Acta Cryst A52 456),pdos_derived,Supplement Table 1 (B column),B=0.1288 A^2,none (direct B),,from experimentally determined phonon DOS; accuracy ~2-3%
+C,40,0.1289,,Peng1996,Peng et al. 1996 (Acta Cryst A52 456),pdos_derived,Supplement Table 1 (B column),B=0.1289 A^2,none (direct B),,from experimentally determined phonon DOS; accuracy ~2-3%
+C,50,0.1291,,Peng1996,Peng et al. 1996 (Acta Cryst A52 456),pdos_derived,Supplement Table 1 (B column),B=0.1291 A^2,none (direct B),,from experimentally determined phonon DOS; accuracy ~2-3%
+C,60,0.1292,,Peng1996,Peng et al. 1996 (Acta Cryst A52 456),pdos_derived,Supplement Table 1 (B column),B=0.1292 A^2,none (direct B),,from experimentally determined phonon DOS; accuracy ~2-3%
+C,65,0.1294,,Peng1996,Peng et al. 1996 (Acta Cryst A52 456),pdos_derived,Supplement Table 1 (B column),B=0.1294 A^2,none (direct B),,from experimentally determined phonon DOS; accuracy ~2-3%
+C,70,0.1295,,Peng1996,Peng et al. 1996 (Acta Cryst A52 456),pdos_derived,Supplement Table 1 (B column),B=0.1295 A^2,none (direct B),,from experimentally determined phonon DOS; accuracy ~2-3%
+C,75,0.1296,,Peng1996,Peng et al. 1996 (Acta Cryst A52 456),pdos_derived,Supplement Table 1 (B column),B=0.1296 A^2,none (direct B),,from experimentally determined phonon DOS; accuracy ~2-3%
+C,77,0.1296,,Peng1996,Peng et al. 1996 (Acta Cryst A52 456),pdos_derived,Supplement Table 1 (B column),B=0.1296 A^2,none (direct B),,from experimentally determined phonon DOS; accuracy ~2-3%
+C,80,0.1297,,Peng1996,Peng et al. 1996 (Acta Cryst A52 456),pdos_derived,Supplement Table 1 (B column),B=0.1297 A^2,none (direct B),,from experimentally determined phonon DOS; accuracy ~2-3%
+C,85,0.1299,,Peng1996,Peng et al. 1996 (Acta Cryst A52 456),pdos_derived,Supplement Table 1 (B column),B=0.1299 A^2,none (direct B),,from experimentally determined phonon DOS; accuracy ~2-3%
+C,90,0.1300,,Peng1996,Peng et al. 1996 (Acta Cryst A52 456),pdos_derived,Supplement Table 1 (B column),B=0.1300 A^2,none (direct B),,from experimentally determined phonon DOS; accuracy ~2-3%
+C,100,0.1303,,Peng1996,Peng et al. 1996 (Acta Cryst A52 456),pdos_derived,Supplement Table 1 (B column),B=0.1303 A^2,none (direct B),,from experimentally determined phonon DOS; accuracy ~2-3%
+C,110,0.1307,,Peng1996,Peng et al. 1996 (Acta Cryst A52 456),pdos_derived,Supplement Table 1 (B column),B=0.1307 A^2,none (direct B),,from experimentally determined phonon DOS; accuracy ~2-3%
+C,120,0.1311,,Peng1996,Peng et al. 1996 (Acta Cryst A52 456),pdos_derived,Supplement Table 1 (B column),B=0.1311 A^2,none (direct B),,from experimentally determined phonon DOS; accuracy ~2-3%
+C,130,0.1315,,Peng1996,Peng et al. 1996 (Acta Cryst A52 456),pdos_derived,Supplement Table 1 (B column),B=0.1315 A^2,none (direct B),,from experimentally determined phonon DOS; accuracy ~2-3%
+C,140,0.1320,,Peng1996,Peng et al. 1996 (Acta Cryst A52 456),pdos_derived,Supplement Table 1 (B column),B=0.1320 A^2,none (direct B),,from experimentally determined phonon DOS; accuracy ~2-3%
+C,150,0.1325,,Peng1996,Peng et al. 1996 (Acta Cryst A52 456),pdos_derived,Supplement Table 1 (B column),B=0.1325 A^2,none (direct B),,from experimentally determined phonon DOS; accuracy ~2-3%
+C,160,0.1330,,Peng1996,Peng et al. 1996 (Acta Cryst A52 456),pdos_derived,Supplement Table 1 (B column),B=0.1330 A^2,none (direct B),,from experimentally determined phonon DOS; accuracy ~2-3%
+C,170,0.1336,,Peng1996,Peng et al. 1996 (Acta Cryst A52 456),pdos_derived,Supplement Table 1 (B column),B=0.1336 A^2,none (direct B),,from experimentally determined phonon DOS; accuracy ~2-3%
+C,180,0.1342,,Peng1996,Peng et al. 1996 (Acta Cryst A52 456),pdos_derived,Supplement Table 1 (B column),B=0.1342 A^2,none (direct B),,from experimentally determined phonon DOS; accuracy ~2-3%
+C,190,0.1349,,Peng1996,Peng et al. 1996 (Acta Cryst A52 456),pdos_derived,Supplement Table 1 (B column),B=0.1349 A^2,none (direct B),,from experimentally determined phonon DOS; accuracy ~2-3%
+C,200,0.1355,,Peng1996,Peng et al. 1996 (Acta Cryst A52 456),pdos_derived,Supplement Table 1 (B column),B=0.1355 A^2,none (direct B),,from experimentally determined phonon DOS; accuracy ~2-3%
+C,210,0.1363,,Peng1996,Peng et al. 1996 (Acta Cryst A52 456),pdos_derived,Supplement Table 1 (B column),B=0.1363 A^2,none (direct B),,from experimentally determined phonon DOS; accuracy ~2-3%
+C,220,0.1370,,Peng1996,Peng et al. 1996 (Acta Cryst A52 456),pdos_derived,Supplement Table 1 (B column),B=0.1370 A^2,none (direct B),,from experimentally determined phonon DOS; accuracy ~2-3%
+C,230,0.1378,,Peng1996,Peng et al. 1996 (Acta Cryst A52 456),pdos_derived,Supplement Table 1 (B column),B=0.1378 A^2,none (direct B),,from experimentally determined phonon DOS; accuracy ~2-3%
+C,240,0.1386,,Peng1996,Peng et al. 1996 (Acta Cryst A52 456),pdos_derived,Supplement Table 1 (B column),B=0.1386 A^2,none (direct B),,from experimentally determined phonon DOS; accuracy ~2-3%
+C,250,0.1394,,Peng1996,Peng et al. 1996 (Acta Cryst A52 456),pdos_derived,Supplement Table 1 (B column),B=0.1394 A^2,none (direct B),,from experimentally determined phonon DOS; accuracy ~2-3%
+C,260,0.1403,,Peng1996,Peng et al. 1996 (Acta Cryst A52 456),pdos_derived,Supplement Table 1 (B column),B=0.1403 A^2,none (direct B),,from experimentally determined phonon DOS; accuracy ~2-3%
+C,270,0.1412,,Peng1996,Peng et al. 1996 (Acta Cryst A52 456),pdos_derived,Supplement Table 1 (B column),B=0.1412 A^2,none (direct B),,from experimentally determined phonon DOS; accuracy ~2-3%
+C,280,0.1422,,Peng1996,Peng et al. 1996 (Acta Cryst A52 456),pdos_derived,Supplement Table 1 (B column),B=0.1422 A^2,none (direct B),,from experimentally determined phonon DOS; accuracy ~2-3%
+C,290,0.1432,,Peng1996,Peng et al. 1996 (Acta Cryst A52 456),pdos_derived,Supplement Table 1 (B column),B=0.1432 A^2,none (direct B),,from experimentally determined phonon DOS; accuracy ~2-3%
+C,293,0.1435,,Peng1996,Peng et al. 1996 (Acta Cryst A52 456),pdos_derived,Supplement Table 1 (B column),B=0.1435 A^2,none (direct B),,from experimentally determined phonon DOS; accuracy ~2-3%
+C,295,0.1437,,Peng1996,Peng et al. 1996 (Acta Cryst A52 456),pdos_derived,Supplement Table 1 (B column),B=0.1437 A^2,none (direct B),,from experimentally determined phonon DOS; accuracy ~2-3%
+C,300,0.1442,,Peng1996,Peng et al. 1996 (Acta Cryst A52 456),pdos_derived,Supplement Table 1 (B column),B=0.1442 A^2,none (direct B),,from experimentally determined phonon DOS; accuracy ~2-3%
+C,310,0.1453,,Peng1996,Peng et al. 1996 (Acta Cryst A52 456),pdos_derived,Supplement Table 1 (B column),B=0.1453 A^2,none (direct B),,from experimentally determined phonon DOS; accuracy ~2-3%
+C,320,0.1463,,Peng1996,Peng et al. 1996 (Acta Cryst A52 456),pdos_derived,Supplement Table 1 (B column),B=0.1463 A^2,none (direct B),,from experimentally determined phonon DOS; accuracy ~2-3%
+C,330,0.1475,,Peng1996,Peng et al. 1996 (Acta Cryst A52 456),pdos_derived,Supplement Table 1 (B column),B=0.1475 A^2,none (direct B),,from experimentally determined phonon DOS; accuracy ~2-3%
+C,340,0.1486,,Peng1996,Peng et al. 1996 (Acta Cryst A52 456),pdos_derived,Supplement Table 1 (B column),B=0.1486 A^2,none (direct B),,from experimentally determined phonon DOS; accuracy ~2-3%
+C,350,0.1498,,Peng1996,Peng et al. 1996 (Acta Cryst A52 456),pdos_derived,Supplement Table 1 (B column),B=0.1498 A^2,none (direct B),,from experimentally determined phonon DOS; accuracy ~2-3%
+C,375,0.1530,,Peng1996,Peng et al. 1996 (Acta Cryst A52 456),pdos_derived,Supplement Table 1 (B column),B=0.1530 A^2,none (direct B),,from experimentally determined phonon DOS; accuracy ~2-3%
+C,1,0.1277,,ReidPirie1980,Reid & Pirie 1980 (Acta Cryst A36 957),lattice_dynamical_calc,"Table 2 (diamond), bond-charge",B=0.1277 A^2 (model),none (model),,model calc (bond-charge column)
+C,5,0.1277,,ReidPirie1980,Reid & Pirie 1980 (Acta Cryst A36 957),lattice_dynamical_calc,"Table 2 (diamond), bond-charge",B=0.1277 A^2 (model),none (model),,model calc (bond-charge column)
+C,10,0.1277,,ReidPirie1980,Reid & Pirie 1980 (Acta Cryst A36 957),lattice_dynamical_calc,"Table 2 (diamond), bond-charge",B=0.1277 A^2 (model),none (model),,model calc (bond-charge column)
+C,20,0.1278,,ReidPirie1980,Reid & Pirie 1980 (Acta Cryst A36 957),lattice_dynamical_calc,"Table 2 (diamond), bond-charge",B=0.1278 A^2 (model),none (model),,model calc (bond-charge column)
+C,40,0.1279,,ReidPirie1980,Reid & Pirie 1980 (Acta Cryst A36 957),lattice_dynamical_calc,"Table 2 (diamond), bond-charge",B=0.1279 A^2 (model),none (model),,model calc (bond-charge column)
+C,60,0.1282,,ReidPirie1980,Reid & Pirie 1980 (Acta Cryst A36 957),lattice_dynamical_calc,"Table 2 (diamond), bond-charge",B=0.1282 A^2 (model),none (model),,model calc (bond-charge column)
+C,80,0.1286,,ReidPirie1980,Reid & Pirie 1980 (Acta Cryst A36 957),lattice_dynamical_calc,"Table 2 (diamond), bond-charge",B=0.1286 A^2 (model),none (model),,model calc (bond-charge column)
+C,100,0.1291,,ReidPirie1980,Reid & Pirie 1980 (Acta Cryst A36 957),lattice_dynamical_calc,"Table 2 (diamond), bond-charge",B=0.1291 A^2 (model),none (model),,model calc (bond-charge column)
+C,150,0.1312,,ReidPirie1980,Reid & Pirie 1980 (Acta Cryst A36 957),lattice_dynamical_calc,"Table 2 (diamond), bond-charge",B=0.1312 A^2 (model),none (model),,model calc (bond-charge column)
+C,200,0.1344,,ReidPirie1980,Reid & Pirie 1980 (Acta Cryst A36 957),lattice_dynamical_calc,"Table 2 (diamond), bond-charge",B=0.1344 A^2 (model),none (model),,model calc (bond-charge column)
+C,250,0.1389,,ReidPirie1980,Reid & Pirie 1980 (Acta Cryst A36 957),lattice_dynamical_calc,"Table 2 (diamond), bond-charge",B=0.1389 A^2 (model),none (model),,model calc (bond-charge column)
+C,295,0.1439,,ReidPirie1980,Reid & Pirie 1980 (Acta Cryst A36 957),lattice_dynamical_calc,"Table 2 (diamond), bond-charge",B=0.1439 A^2 (model),none (model),,model calc (bond-charge column); 295K model spread 0.1439-0.1451
+C,350,0.1511,,ReidPirie1980,Reid & Pirie 1980 (Acta Cryst A36 957),lattice_dynamical_calc,"Table 2 (diamond), bond-charge",B=0.1511 A^2 (model),none (model),,model calc (bond-charge column)
+C,400,0.1586,,ReidPirie1980,Reid & Pirie 1980 (Acta Cryst A36 957),lattice_dynamical_calc,"Table 2 (diamond), bond-charge",B=0.1586 A^2 (model),none (model),,model calc (bond-charge column)
+C,500,0.1757,,ReidPirie1980,Reid & Pirie 1980 (Acta Cryst A36 957),lattice_dynamical_calc,"Table 2 (diamond), bond-charge",B=0.1757 A^2 (model),none (model),,model calc (bond-charge column)
+C,600,0.1949,,ReidPirie1980,Reid & Pirie 1980 (Acta Cryst A36 957),lattice_dynamical_calc,"Table 2 (diamond), bond-charge",B=0.1949 A^2 (model),none (model),,model calc (bond-charge column)
+C,700,0.2155,,ReidPirie1980,Reid & Pirie 1980 (Acta Cryst A36 957),lattice_dynamical_calc,"Table 2 (diamond), bond-charge",B=0.2155 A^2 (model),none (model),,model calc (bond-charge column)
+C,800,0.2373,,ReidPirie1980,Reid & Pirie 1980 (Acta Cryst A36 957),lattice_dynamical_calc,"Table 2 (diamond), bond-charge",B=0.2373 A^2 (model),none (model),,model calc (bond-charge column)
+C,900,0.2598,,ReidPirie1980,Reid & Pirie 1980 (Acta Cryst A36 957),lattice_dynamical_calc,"Table 2 (diamond), bond-charge",B=0.2598 A^2 (model),none (model),,model calc (bond-charge column)
+C,1000,0.2828,,ReidPirie1980,Reid & Pirie 1980 (Acta Cryst A36 957),lattice_dynamical_calc,"Table 2 (diamond), bond-charge",B=0.2828 A^2 (model),none (model),,model calc (bond-charge column)
+Si,80,0.2151,,Batterman1962,Batterman & Chipman 1962 (Phys Rev 127 690),thetaM_derived,Table I (Theta_M=543(8) K),Theta_M(Si)=543(8) K,B(T) from Theta_M Debye-Waller formula,,"DERIVED, not direct B; paper reports Theta_M only"
+Si,100,0.2297,,Batterman1962,Batterman & Chipman 1962 (Phys Rev 127 690),thetaM_derived,Table I (Theta_M=543(8) K),Theta_M(Si)=543(8) K,B(T) from Theta_M Debye-Waller formula,,"DERIVED, not direct B; paper reports Theta_M only"
+Si,150,0.2757,,Batterman1962,Batterman & Chipman 1962 (Phys Rev 127 690),thetaM_derived,Table I (Theta_M=543(8) K),Theta_M(Si)=543(8) K,B(T) from Theta_M Debye-Waller formula,,"DERIVED, not direct B; paper reports Theta_M only"
+Si,200,0.3306,,Batterman1962,Batterman & Chipman 1962 (Phys Rev 127 690),thetaM_derived,Table I (Theta_M=543(8) K),Theta_M(Si)=543(8) K,B(T) from Theta_M Debye-Waller formula,,"DERIVED, not direct B; paper reports Theta_M only"
+Si,250,0.3904,,Batterman1962,Batterman & Chipman 1962 (Phys Rev 127 690),thetaM_derived,Table I (Theta_M=543(8) K),Theta_M(Si)=543(8) K,B(T) from Theta_M Debye-Waller formula,,"DERIVED, not direct B; paper reports Theta_M only"
+Si,290,0.4403,,Batterman1962,Batterman & Chipman 1962 (Phys Rev 127 690),thetaM_derived,Table I (Theta_M=543(8) K),Theta_M(Si)=543(8) K,B(T) from Theta_M Debye-Waller formula,,"DERIVED, not direct B; paper reports Theta_M only"
+Si,293,0.4441,,Batterman1962,Batterman & Chipman 1962 (Phys Rev 127 690),thetaM_derived,Table I (Theta_M=543(8) K),Theta_M(Si)=543(8) K,B(T) from Theta_M Debye-Waller formula,,"DERIVED, not direct B; paper reports Theta_M only"
+Si,295,0.4466,,Batterman1962,Batterman & Chipman 1962 (Phys Rev 127 690),thetaM_derived,Table I (Theta_M=543(8) K),Theta_M(Si)=543(8) K,B(T) from Theta_M Debye-Waller formula,,"DERIVED, not direct B; paper reports Theta_M only"
+Si,298,0.4504,,Batterman1962,Batterman & Chipman 1962 (Phys Rev 127 690),thetaM_derived,Table I (Theta_M=543(8) K),Theta_M(Si)=543(8) K,B(T) from Theta_M Debye-Waller formula,,"DERIVED, not direct B; paper reports Theta_M only"
+Si,300,0.4530,,Batterman1962,Batterman & Chipman 1962 (Phys Rev 127 690),thetaM_derived,Table I (Theta_M=543(8) K),Theta_M(Si)=543(8) K,B(T) from Theta_M Debye-Waller formula,,"DERIVED, not direct B; paper reports Theta_M only"
+Si,350,0.5174,,Batterman1962,Batterman & Chipman 1962 (Phys Rev 127 690),thetaM_derived,Table I (Theta_M=543(8) K),Theta_M(Si)=543(8) K,B(T) from Theta_M Debye-Waller formula,,"DERIVED, not direct B; paper reports Theta_M only"
+Si,400,0.5829,,Batterman1962,Batterman & Chipman 1962 (Phys Rev 127 690),thetaM_derived,Table I (Theta_M=543(8) K),Theta_M(Si)=543(8) K,B(T) from Theta_M Debye-Waller formula,,"DERIVED, not direct B; paper reports Theta_M only"
+Si,500,0.7163,,Batterman1962,Batterman & Chipman 1962 (Phys Rev 127 690),thetaM_derived,Table I (Theta_M=543(8) K),Theta_M(Si)=543(8) K,B(T) from Theta_M Debye-Waller formula,,"DERIVED, not direct B; paper reports Theta_M only"
+Si,600,0.8513,,Batterman1962,Batterman & Chipman 1962 (Phys Rev 127 690),thetaM_derived,Table I (Theta_M=543(8) K),Theta_M(Si)=543(8) K,B(T) from Theta_M Debye-Waller formula,,"DERIVED, not direct B; paper reports Theta_M only"
+Si,700,0.9874,,Batterman1962,Batterman & Chipman 1962 (Phys Rev 127 690),thetaM_derived,Table I (Theta_M=543(8) K),Theta_M(Si)=543(8) K,B(T) from Theta_M Debye-Waller formula,,"DERIVED, not direct B; paper reports Theta_M only"
+Si,1,0.1915,,Peng1996,Peng et al. 1996 (Acta Cryst A52 456),pdos_derived,Supplement Table 1 (B column),B=0.1915 A^2,none (direct B),,from experimentally determined phonon DOS; accuracy ~2-3%
+Si,2,0.1915,,Peng1996,Peng et al. 1996 (Acta Cryst A52 456),pdos_derived,Supplement Table 1 (B column),B=0.1915 A^2,none (direct B),,from experimentally determined phonon DOS; accuracy ~2-3%
+Si,3,0.1915,,Peng1996,Peng et al. 1996 (Acta Cryst A52 456),pdos_derived,Supplement Table 1 (B column),B=0.1915 A^2,none (direct B),,from experimentally determined phonon DOS; accuracy ~2-3%
+Si,4,0.1915,,Peng1996,Peng et al. 1996 (Acta Cryst A52 456),pdos_derived,Supplement Table 1 (B column),B=0.1915 A^2,none (direct B),,from experimentally determined phonon DOS; accuracy ~2-3%
+Si,5,0.1916,,Peng1996,Peng et al. 1996 (Acta Cryst A52 456),pdos_derived,Supplement Table 1 (B column),B=0.1916 A^2,none (direct B),,from experimentally determined phonon DOS; accuracy ~2-3%
+Si,6,0.1916,,Peng1996,Peng et al. 1996 (Acta Cryst A52 456),pdos_derived,Supplement Table 1 (B column),B=0.1916 A^2,none (direct B),,from experimentally determined phonon DOS; accuracy ~2-3%
+Si,7,0.1916,,Peng1996,Peng et al. 1996 (Acta Cryst A52 456),pdos_derived,Supplement Table 1 (B column),B=0.1916 A^2,none (direct B),,from experimentally determined phonon DOS; accuracy ~2-3%
+Si,8,0.1917,,Peng1996,Peng et al. 1996 (Acta Cryst A52 456),pdos_derived,Supplement Table 1 (B column),B=0.1917 A^2,none (direct B),,from experimentally determined phonon DOS; accuracy ~2-3%
+Si,9,0.1918,,Peng1996,Peng et al. 1996 (Acta Cryst A52 456),pdos_derived,Supplement Table 1 (B column),B=0.1918 A^2,none (direct B),,from experimentally determined phonon DOS; accuracy ~2-3%
+Si,10,0.1918,,Peng1996,Peng et al. 1996 (Acta Cryst A52 456),pdos_derived,Supplement Table 1 (B column),B=0.1918 A^2,none (direct B),,from experimentally determined phonon DOS; accuracy ~2-3%
+Si,15,0.1923,,Peng1996,Peng et al. 1996 (Acta Cryst A52 456),pdos_derived,Supplement Table 1 (B column),B=0.1923 A^2,none (direct B),,from experimentally determined phonon DOS; accuracy ~2-3%
+Si,20,0.1929,,Peng1996,Peng et al. 1996 (Acta Cryst A52 456),pdos_derived,Supplement Table 1 (B column),B=0.1929 A^2,none (direct B),,from experimentally determined phonon DOS; accuracy ~2-3%
+Si,25,0.1937,,Peng1996,Peng et al. 1996 (Acta Cryst A52 456),pdos_derived,Supplement Table 1 (B column),B=0.1937 A^2,none (direct B),,from experimentally determined phonon DOS; accuracy ~2-3%
+Si,30,0.1946,,Peng1996,Peng et al. 1996 (Acta Cryst A52 456),pdos_derived,Supplement Table 1 (B column),B=0.1946 A^2,none (direct B),,from experimentally determined phonon DOS; accuracy ~2-3%
+Si,40,0.1971,,Peng1996,Peng et al. 1996 (Acta Cryst A52 456),pdos_derived,Supplement Table 1 (B column),B=0.1971 A^2,none (direct B),,from experimentally determined phonon DOS; accuracy ~2-3%
+Si,50,0.2003,,Peng1996,Peng et al. 1996 (Acta Cryst A52 456),pdos_derived,Supplement Table 1 (B column),B=0.2003 A^2,none (direct B),,from experimentally determined phonon DOS; accuracy ~2-3%
+Si,60,0.2042,,Peng1996,Peng et al. 1996 (Acta Cryst A52 456),pdos_derived,Supplement Table 1 (B column),B=0.2042 A^2,none (direct B),,from experimentally determined phonon DOS; accuracy ~2-3%
+Si,65,0.2064,,Peng1996,Peng et al. 1996 (Acta Cryst A52 456),pdos_derived,Supplement Table 1 (B column),B=0.2064 A^2,none (direct B),,from experimentally determined phonon DOS; accuracy ~2-3%
+Si,70,0.2088,,Peng1996,Peng et al. 1996 (Acta Cryst A52 456),pdos_derived,Supplement Table 1 (B column),B=0.2088 A^2,none (direct B),,from experimentally determined phonon DOS; accuracy ~2-3%
+Si,75,0.2113,,Peng1996,Peng et al. 1996 (Acta Cryst A52 456),pdos_derived,Supplement Table 1 (B column),B=0.2113 A^2,none (direct B),,from experimentally determined phonon DOS; accuracy ~2-3%
+Si,77,0.2124,,Peng1996,Peng et al. 1996 (Acta Cryst A52 456),pdos_derived,Supplement Table 1 (B column),B=0.2124 A^2,none (direct B),,from experimentally determined phonon DOS; accuracy ~2-3%
+Si,80,0.2141,,Peng1996,Peng et al. 1996 (Acta Cryst A52 456),pdos_derived,Supplement Table 1 (B column),B=0.2141 A^2,none (direct B),,from experimentally determined phonon DOS; accuracy ~2-3%
+Si,85,0.2170,,Peng1996,Peng et al. 1996 (Acta Cryst A52 456),pdos_derived,Supplement Table 1 (B column),B=0.2170 A^2,none (direct B),,from experimentally determined phonon DOS; accuracy ~2-3%
+Si,90,0.2201,,Peng1996,Peng et al. 1996 (Acta Cryst A52 456),pdos_derived,Supplement Table 1 (B column),B=0.2201 A^2,none (direct B),,from experimentally determined phonon DOS; accuracy ~2-3%
+Si,100,0.2268,,Peng1996,Peng et al. 1996 (Acta Cryst A52 456),pdos_derived,Supplement Table 1 (B column),B=0.2268 A^2,none (direct B),,from experimentally determined phonon DOS; accuracy ~2-3%
+Si,110,0.2342,,Peng1996,Peng et al. 1996 (Acta Cryst A52 456),pdos_derived,Supplement Table 1 (B column),B=0.2342 A^2,none (direct B),,from experimentally determined phonon DOS; accuracy ~2-3%
+Si,120,0.2423,,Peng1996,Peng et al. 1996 (Acta Cryst A52 456),pdos_derived,Supplement Table 1 (B column),B=0.2423 A^2,none (direct B),,from experimentally determined phonon DOS; accuracy ~2-3%
+Si,130,0.2511,,Peng1996,Peng et al. 1996 (Acta Cryst A52 456),pdos_derived,Supplement Table 1 (B column),B=0.2511 A^2,none (direct B),,from experimentally determined phonon DOS; accuracy ~2-3%
+Si,140,0.2607,,Peng1996,Peng et al. 1996 (Acta Cryst A52 456),pdos_derived,Supplement Table 1 (B column),B=0.2607 A^2,none (direct B),,from experimentally determined phonon DOS; accuracy ~2-3%
+Si,150,0.2709,,Peng1996,Peng et al. 1996 (Acta Cryst A52 456),pdos_derived,Supplement Table 1 (B column),B=0.2709 A^2,none (direct B),,from experimentally determined phonon DOS; accuracy ~2-3%
+Si,160,0.2648,,Peng1996,Peng et al. 1996 (Acta Cryst A52 456),pdos_derived,Supplement Table 1 (B column),B=0.2648 A^2,none (direct B),artifact,"non-monotonic in deposited Peng supplement (150 K=0.2709, 170 K=0.2814); likely microfilm scan artifact, ~0.276 by interpolation; excluded from Fig. S1"
+Si,170,0.2814,,Peng1996,Peng et al. 1996 (Acta Cryst A52 456),pdos_derived,Supplement Table 1 (B column),B=0.2814 A^2,none (direct B),,from experimentally determined phonon DOS; accuracy ~2-3%
+Si,180,0.2979,,Peng1996,Peng et al. 1996 (Acta Cryst A52 456),pdos_derived,Supplement Table 1 (B column),B=0.2979 A^2,none (direct B),,from experimentally determined phonon DOS; accuracy ~2-3%
+Si,190,0.3145,,Peng1996,Peng et al. 1996 (Acta Cryst A52 456),pdos_derived,Supplement Table 1 (B column),B=0.3145 A^2,none (direct B),,from experimentally determined phonon DOS; accuracy ~2-3%
+Si,200,0.3310,,Peng1996,Peng et al. 1996 (Acta Cryst A52 456),pdos_derived,Supplement Table 1 (B column),B=0.3310 A^2,none (direct B),,from experimentally determined phonon DOS; accuracy ~2-3%
+Si,210,0.3476,,Peng1996,Peng et al. 1996 (Acta Cryst A52 456),pdos_derived,Supplement Table 1 (B column),B=0.3476 A^2,none (direct B),,from experimentally determined phonon DOS; accuracy ~2-3%
+Si,220,0.3641,,Peng1996,Peng et al. 1996 (Acta Cryst A52 456),pdos_derived,Supplement Table 1 (B column),B=0.3641 A^2,none (direct B),,from experimentally determined phonon DOS; accuracy ~2-3%
+Si,230,0.3807,,Peng1996,Peng et al. 1996 (Acta Cryst A52 456),pdos_derived,Supplement Table 1 (B column),B=0.3807 A^2,none (direct B),,from experimentally determined phonon DOS; accuracy ~2-3%
+Si,240,0.3972,,Peng1996,Peng et al. 1996 (Acta Cryst A52 456),pdos_derived,Supplement Table 1 (B column),B=0.3972 A^2,none (direct B),,from experimentally determined phonon DOS; accuracy ~2-3%
+Si,250,0.4138,,Peng1996,Peng et al. 1996 (Acta Cryst A52 456),pdos_derived,Supplement Table 1 (B column),B=0.4138 A^2,none (direct B),,from experimentally determined phonon DOS; accuracy ~2-3%
+Si,260,0.4303,,Peng1996,Peng et al. 1996 (Acta Cryst A52 456),pdos_derived,Supplement Table 1 (B column),B=0.4303 A^2,none (direct B),,from experimentally determined phonon DOS; accuracy ~2-3%
+Si,270,0.4469,,Peng1996,Peng et al. 1996 (Acta Cryst A52 456),pdos_derived,Supplement Table 1 (B column),B=0.4469 A^2,none (direct B),,from experimentally determined phonon DOS; accuracy ~2-3%
+Si,280,0.4634,,Peng1996,Peng et al. 1996 (Acta Cryst A52 456),pdos_derived,Supplement Table 1 (B column),B=0.4634 A^2,none (direct B),,from experimentally determined phonon DOS; accuracy ~2-3%
+Si,290,0.4799,,Peng1996,Peng et al. 1996 (Acta Cryst A52 456),pdos_derived,Supplement Table 1 (B column),B=0.4799 A^2,none (direct B),,from experimentally determined phonon DOS; accuracy ~2-3%
+Si,293,0.4849,,Peng1996,Peng et al. 1996 (Acta Cryst A52 456),pdos_derived,Supplement Table 1 (B column),B=0.4849 A^2,none (direct B),,from experimentally determined phonon DOS; accuracy ~2-3%
+Si,295,0.4882,,Peng1996,Peng et al. 1996 (Acta Cryst A52 456),pdos_derived,Supplement Table 1 (B column),B=0.4882 A^2,none (direct B),,from experimentally determined phonon DOS; accuracy ~2-3%
+Si,300,0.4965,,Peng1996,Peng et al. 1996 (Acta Cryst A52 456),pdos_derived,Supplement Table 1 (B column),B=0.4965 A^2,none (direct B),,from experimentally determined phonon DOS; accuracy ~2-3%
+Si,310,0.5130,,Peng1996,Peng et al. 1996 (Acta Cryst A52 456),pdos_derived,Supplement Table 1 (B column),B=0.5130 A^2,none (direct B),,from experimentally determined phonon DOS; accuracy ~2-3%
+Si,320,0.5296,,Peng1996,Peng et al. 1996 (Acta Cryst A52 456),pdos_derived,Supplement Table 1 (B column),B=0.5296 A^2,none (direct B),,from experimentally determined phonon DOS; accuracy ~2-3%
+Si,330,0.5461,,Peng1996,Peng et al. 1996 (Acta Cryst A52 456),pdos_derived,Supplement Table 1 (B column),B=0.5461 A^2,none (direct B),,from experimentally determined phonon DOS; accuracy ~2-3%
+Si,340,0.5626,,Peng1996,Peng et al. 1996 (Acta Cryst A52 456),pdos_derived,Supplement Table 1 (B column),B=0.5626 A^2,none (direct B),,from experimentally determined phonon DOS; accuracy ~2-3%
+Si,350,0.5792,,Peng1996,Peng et al. 1996 (Acta Cryst A52 456),pdos_derived,Supplement Table 1 (B column),B=0.5792 A^2,none (direct B),,from experimentally determined phonon DOS; accuracy ~2-3%
+Si,375,0.6205,,Peng1996,Peng et al. 1996 (Acta Cryst A52 456),pdos_derived,Supplement Table 1 (B column),B=0.6205 A^2,none (direct B),,from experimentally determined phonon DOS; accuracy ~2-3%
+Si,400,0.6619,,Peng1996,Peng et al. 1996 (Acta Cryst A52 456),pdos_derived,Supplement Table 1 (B column),B=0.6619 A^2,none (direct B),,from experimentally determined phonon DOS; accuracy ~2-3%
+Si,450,0.7445,,Peng1996,Peng et al. 1996 (Acta Cryst A52 456),pdos_derived,Supplement Table 1 (B column),B=0.7445 A^2,none (direct B),,from experimentally determined phonon DOS; accuracy ~2-3%
+Si,500,0.8271,,Peng1996,Peng et al. 1996 (Acta Cryst A52 456),pdos_derived,Supplement Table 1 (B column),B=0.8271 A^2,none (direct B),,from experimentally determined phonon DOS; accuracy ~2-3%
+Si,600,0.9923,,Peng1996,Peng et al. 1996 (Acta Cryst A52 456),pdos_derived,Supplement Table 1 (B column),B=0.9923 A^2,none (direct B),,from experimentally determined phonon DOS; accuracy ~2-3%
+Si,700,1.1573,,Peng1996,Peng et al. 1996 (Acta Cryst A52 456),pdos_derived,Supplement Table 1 (B column),B=1.1573 A^2,none (direct B),,from experimentally determined phonon DOS; accuracy ~2-3%
+Si,800,1.3222,,Peng1996,Peng et al. 1996 (Acta Cryst A52 456),pdos_derived,Supplement Table 1 (B column),B=1.3222 A^2,none (direct B),,from experimentally determined phonon DOS; accuracy ~2-3%
+Si,900,1.4869,,Peng1996,Peng et al. 1996 (Acta Cryst A52 456),pdos_derived,Supplement Table 1 (B column),B=1.4869 A^2,none (direct B),,from experimentally determined phonon DOS; accuracy ~2-3%
+Si,1000,1.6514,,Peng1996,Peng et al. 1996 (Acta Cryst A52 456),pdos_derived,Supplement Table 1 (B column),B=1.6514 A^2,none (direct B),,from experimentally determined phonon DOS; accuracy ~2-3%
+Si,1,0.1881,,ReidPirie1980,Reid & Pirie 1980 (Acta Cryst A36 957),lattice_dynamical_calc,"Table 1, bond-charge",B=0.1881 A^2 (model),none (model),,model calc (bond-charge column)
+Si,5,0.1882,,ReidPirie1980,Reid & Pirie 1980 (Acta Cryst A36 957),lattice_dynamical_calc,"Table 1, bond-charge",B=0.1882 A^2 (model),none (model),,model calc (bond-charge column)
+Si,10,0.1883,,ReidPirie1980,Reid & Pirie 1980 (Acta Cryst A36 957),lattice_dynamical_calc,"Table 1, bond-charge",B=0.1883 A^2 (model),none (model),,model calc (bond-charge column)
+Si,20,0.1891,,ReidPirie1980,Reid & Pirie 1980 (Acta Cryst A36 957),lattice_dynamical_calc,"Table 1, bond-charge",B=0.1891 A^2 (model),none (model),,model calc (bond-charge column)
+Si,40,0.1934,,ReidPirie1980,Reid & Pirie 1980 (Acta Cryst A36 957),lattice_dynamical_calc,"Table 1, bond-charge",B=0.1934 A^2 (model),none (model),,model calc (bond-charge column)
+Si,60,0.2030,,ReidPirie1980,Reid & Pirie 1980 (Acta Cryst A36 957),lattice_dynamical_calc,"Table 1, bond-charge",B=0.2030 A^2 (model),none (model),,model calc (bond-charge column)
+Si,80,0.2172,,ReidPirie1980,Reid & Pirie 1980 (Acta Cryst A36 957),lattice_dynamical_calc,"Table 1, bond-charge",B=0.2172 A^2 (model),none (model),,model calc (bond-charge column)
+Si,100,0.2349,,ReidPirie1980,Reid & Pirie 1980 (Acta Cryst A36 957),lattice_dynamical_calc,"Table 1, bond-charge",B=0.2349 A^2 (model),none (model),,model calc (bond-charge column)
+Si,150,0.2882,,ReidPirie1980,Reid & Pirie 1980 (Acta Cryst A36 957),lattice_dynamical_calc,"Table 1, bond-charge",B=0.2882 A^2 (model),none (model),,model calc (bond-charge column)
+Si,200,0.3493,,ReidPirie1980,Reid & Pirie 1980 (Acta Cryst A36 957),lattice_dynamical_calc,"Table 1, bond-charge",B=0.3493 A^2 (model),none (model),,model calc (bond-charge column)
+Si,250,0.4147,,ReidPirie1980,Reid & Pirie 1980 (Acta Cryst A36 957),lattice_dynamical_calc,"Table 1, bond-charge",B=0.4147 A^2 (model),none (model),,model calc (bond-charge column)
+Si,295,0.4758,,ReidPirie1980,Reid & Pirie 1980 (Acta Cryst A36 957),lattice_dynamical_calc,"Table 1, bond-charge",B=0.4758 A^2 (model),none (model),,model calc (bond-charge column); 295K model spread 0.4507-0.5192
+Si,350,0.5522,,ReidPirie1980,Reid & Pirie 1980 (Acta Cryst A36 957),lattice_dynamical_calc,"Table 1, bond-charge",B=0.5522 A^2 (model),none (model),,model calc (bond-charge column)
+Si,400,0.6230,,ReidPirie1980,Reid & Pirie 1980 (Acta Cryst A36 957),lattice_dynamical_calc,"Table 1, bond-charge",B=0.6230 A^2 (model),none (model),,model calc (bond-charge column)
+Si,500,0.7665,,ReidPirie1980,Reid & Pirie 1980 (Acta Cryst A36 957),lattice_dynamical_calc,"Table 1, bond-charge",B=0.7665 A^2 (model),none (model),,model calc (bond-charge column)
+Si,600,0.9117,,ReidPirie1980,Reid & Pirie 1980 (Acta Cryst A36 957),lattice_dynamical_calc,"Table 1, bond-charge",B=0.9117 A^2 (model),none (model),,model calc (bond-charge column)
+Si,700,1.0579,,ReidPirie1980,Reid & Pirie 1980 (Acta Cryst A36 957),lattice_dynamical_calc,"Table 1, bond-charge",B=1.0579 A^2 (model),none (model),,model calc (bond-charge column)
+Si,800,1.2047,,ReidPirie1980,Reid & Pirie 1980 (Acta Cryst A36 957),lattice_dynamical_calc,"Table 1, bond-charge",B=1.2047 A^2 (model),none (model),,model calc (bond-charge column)
+Si,900,1.3520,,ReidPirie1980,Reid & Pirie 1980 (Acta Cryst A36 957),lattice_dynamical_calc,"Table 1, bond-charge",B=1.3520 A^2 (model),none (model),,model calc (bond-charge column)
+Si,1000,1.4996,,ReidPirie1980,Reid & Pirie 1980 (Acta Cryst A36 957),lattice_dynamical_calc,"Table 1, bond-charge",B=1.4996 A^2 (model),none (model),,model calc (bond-charge column)
+Si,96,0.2707,0.0162,Sang2010,Sang et al. 2010 (Acta Cryst A66 685),cbed_direct,Table 1,B=0.2707(162) A^2,none (direct B),,CBED four-beam measurement
+Si,173,0.3476,0.0171,Sang2010,Sang et al. 2010 (Acta Cryst A66 685),cbed_direct,Table 1,B=0.3476(171) A^2,none (direct B),,CBED four-beam measurement
+Si,300,0.4833,0.0110,Sang2010,Sang et al. 2010 (Acta Cryst A66 685),cbed_direct,Table 1,B=0.4833(110) A^2,none (direct B),,"CBED four-beam measurement; Table 1 value (t>160 nm), NOT the conclusion's ambiguous 0.5063"
+Si,295,0.4632,0.0011,Spackman1986,Spackman 1986 (Acta Cryst A42 271),diffraction_refinement,Table 1 + text p.279,mean B=0.4632(11) A^2,none (direct B),,X-ray pseudoatom refinement; data at/converted to 293-298 K (295 K nominal)
+Ge,80,0.1995,,Batterman1962,Batterman & Chipman 1962 (Phys Rev 127 690),thetaM_derived,Table I (Theta_M=290(5) K),Theta_M(Ge)=290(5) K,B(T) from Theta_M Debye-Waller formula,,"DERIVED, not direct B; paper reports Theta_M only"
+Ge,100,0.2288,,Batterman1962,Batterman & Chipman 1962 (Phys Rev 127 690),thetaM_derived,Table I (Theta_M=290(5) K),Theta_M(Ge)=290(5) K,B(T) from Theta_M Debye-Waller formula,,"DERIVED, not direct B; paper reports Theta_M only"
+Ge,150,0.3104,,Batterman1962,Batterman & Chipman 1962 (Phys Rev 127 690),thetaM_derived,Table I (Theta_M=290(5) K),Theta_M(Ge)=290(5) K,B(T) from Theta_M Debye-Waller formula,,"DERIVED, not direct B; paper reports Theta_M only"
+Ge,200,0.3978,,Batterman1962,Batterman & Chipman 1962 (Phys Rev 127 690),thetaM_derived,Table I (Theta_M=290(5) K),Theta_M(Ge)=290(5) K,B(T) from Theta_M Debye-Waller formula,,"DERIVED, not direct B; paper reports Theta_M only"
+Ge,250,0.4876,,Batterman1962,Batterman & Chipman 1962 (Phys Rev 127 690),thetaM_derived,Table I (Theta_M=290(5) K),Theta_M(Ge)=290(5) K,B(T) from Theta_M Debye-Waller formula,,"DERIVED, not direct B; paper reports Theta_M only"
+Ge,290,0.5605,,Batterman1962,Batterman & Chipman 1962 (Phys Rev 127 690),thetaM_derived,Table I (Theta_M=290(5) K),Theta_M(Ge)=290(5) K,B(T) from Theta_M Debye-Waller formula,,"DERIVED, not direct B; paper reports Theta_M only"
+Ge,293,0.5660,,Batterman1962,Batterman & Chipman 1962 (Phys Rev 127 690),thetaM_derived,Table I (Theta_M=290(5) K),Theta_M(Ge)=290(5) K,B(T) from Theta_M Debye-Waller formula,,"DERIVED, not direct B; paper reports Theta_M only"
+Ge,295,0.5697,,Batterman1962,Batterman & Chipman 1962 (Phys Rev 127 690),thetaM_derived,Table I (Theta_M=290(5) K),Theta_M(Ge)=290(5) K,B(T) from Theta_M Debye-Waller formula,,"DERIVED, not direct B; paper reports Theta_M only"
+Ge,298,0.5752,,Batterman1962,Batterman & Chipman 1962 (Phys Rev 127 690),thetaM_derived,Table I (Theta_M=290(5) K),Theta_M(Ge)=290(5) K,B(T) from Theta_M Debye-Waller formula,,"DERIVED, not direct B; paper reports Theta_M only"
+Ge,300,0.5789,,Batterman1962,Batterman & Chipman 1962 (Phys Rev 127 690),thetaM_derived,Table I (Theta_M=290(5) K),Theta_M(Ge)=290(5) K,B(T) from Theta_M Debye-Waller formula,,"DERIVED, not direct B; paper reports Theta_M only"
+Ge,350,0.6709,,Batterman1962,Batterman & Chipman 1962 (Phys Rev 127 690),thetaM_derived,Table I (Theta_M=290(5) K),Theta_M(Ge)=290(5) K,B(T) from Theta_M Debye-Waller formula,,"DERIVED, not direct B; paper reports Theta_M only"
+Ge,400,0.7634,,Batterman1962,Batterman & Chipman 1962 (Phys Rev 127 690),thetaM_derived,Table I (Theta_M=290(5) K),Theta_M(Ge)=290(5) K,B(T) from Theta_M Debye-Waller formula,,"DERIVED, not direct B; paper reports Theta_M only"
+Ge,500,0.9493,,Batterman1962,Batterman & Chipman 1962 (Phys Rev 127 690),thetaM_derived,Table I (Theta_M=290(5) K),Theta_M(Ge)=290(5) K,B(T) from Theta_M Debye-Waller formula,,"DERIVED, not direct B; paper reports Theta_M only"
+Ge,600,1.1360,,Batterman1962,Batterman & Chipman 1962 (Phys Rev 127 690),thetaM_derived,Table I (Theta_M=290(5) K),Theta_M(Ge)=290(5) K,B(T) from Theta_M Debye-Waller formula,,"DERIVED, not direct B; paper reports Theta_M only"
+Ge,700,1.3231,,Batterman1962,Batterman & Chipman 1962 (Phys Rev 127 690),thetaM_derived,Table I (Theta_M=290(5) K),Theta_M(Ge)=290(5) K,B(T) from Theta_M Debye-Waller formula,,"DERIVED, not direct B; paper reports Theta_M only"
+Ge,1,0.1341,,Peng1996,Peng et al. 1996 (Acta Cryst A52 456),pdos_derived,Supplement Table 1 (B column),B=0.1341 A^2,none (direct B),,from experimentally determined phonon DOS; accuracy ~2-3%
+Ge,2,0.1342,,Peng1996,Peng et al. 1996 (Acta Cryst A52 456),pdos_derived,Supplement Table 1 (B column),B=0.1342 A^2,none (direct B),,from experimentally determined phonon DOS; accuracy ~2-3%
+Ge,3,0.1342,,Peng1996,Peng et al. 1996 (Acta Cryst A52 456),pdos_derived,Supplement Table 1 (B column),B=0.1342 A^2,none (direct B),,from experimentally determined phonon DOS; accuracy ~2-3%
+Ge,4,0.1342,,Peng1996,Peng et al. 1996 (Acta Cryst A52 456),pdos_derived,Supplement Table 1 (B column),B=0.1342 A^2,none (direct B),,from experimentally determined phonon DOS; accuracy ~2-3%
+Ge,5,0.1343,,Peng1996,Peng et al. 1996 (Acta Cryst A52 456),pdos_derived,Supplement Table 1 (B column),B=0.1343 A^2,none (direct B),,from experimentally determined phonon DOS; accuracy ~2-3%
+Ge,6,0.1343,,Peng1996,Peng et al. 1996 (Acta Cryst A52 456),pdos_derived,Supplement Table 1 (B column),B=0.1343 A^2,none (direct B),,from experimentally determined phonon DOS; accuracy ~2-3%
+Ge,7,0.1344,,Peng1996,Peng et al. 1996 (Acta Cryst A52 456),pdos_derived,Supplement Table 1 (B column),B=0.1344 A^2,none (direct B),,from experimentally determined phonon DOS; accuracy ~2-3%
+Ge,8,0.1344,,Peng1996,Peng et al. 1996 (Acta Cryst A52 456),pdos_derived,Supplement Table 1 (B column),B=0.1344 A^2,none (direct B),,from experimentally determined phonon DOS; accuracy ~2-3%
+Ge,9,0.1345,,Peng1996,Peng et al. 1996 (Acta Cryst A52 456),pdos_derived,Supplement Table 1 (B column),B=0.1345 A^2,none (direct B),,from experimentally determined phonon DOS; accuracy ~2-3%
+Ge,10,0.1346,,Peng1996,Peng et al. 1996 (Acta Cryst A52 456),pdos_derived,Supplement Table 1 (B column),B=0.1346 A^2,none (direct B),,from experimentally determined phonon DOS; accuracy ~2-3%
+Ge,15,0.1352,,Peng1996,Peng et al. 1996 (Acta Cryst A52 456),pdos_derived,Supplement Table 1 (B column),B=0.1352 A^2,none (direct B),,from experimentally determined phonon DOS; accuracy ~2-3%
+Ge,20,0.1360,,Peng1996,Peng et al. 1996 (Acta Cryst A52 456),pdos_derived,Supplement Table 1 (B column),B=0.1360 A^2,none (direct B),,from experimentally determined phonon DOS; accuracy ~2-3%
+Ge,25,0.1370,,Peng1996,Peng et al. 1996 (Acta Cryst A52 456),pdos_derived,Supplement Table 1 (B column),B=0.1370 A^2,none (direct B),,from experimentally determined phonon DOS; accuracy ~2-3%
+Ge,30,0.1382,,Peng1996,Peng et al. 1996 (Acta Cryst A52 456),pdos_derived,Supplement Table 1 (B column),B=0.1382 A^2,none (direct B),,from experimentally determined phonon DOS; accuracy ~2-3%
+Ge,40,0.1414,,Peng1996,Peng et al. 1996 (Acta Cryst A52 456),pdos_derived,Supplement Table 1 (B column),B=0.1414 A^2,none (direct B),,from experimentally determined phonon DOS; accuracy ~2-3%
+Ge,50,0.1455,,Peng1996,Peng et al. 1996 (Acta Cryst A52 456),pdos_derived,Supplement Table 1 (B column),B=0.1455 A^2,none (direct B),,from experimentally determined phonon DOS; accuracy ~2-3%
+Ge,60,0.1505,,Peng1996,Peng et al. 1996 (Acta Cryst A52 456),pdos_derived,Supplement Table 1 (B column),B=0.1505 A^2,none (direct B),,from experimentally determined phonon DOS; accuracy ~2-3%
+Ge,65,0.1533,,Peng1996,Peng et al. 1996 (Acta Cryst A52 456),pdos_derived,Supplement Table 1 (B column),B=0.1533 A^2,none (direct B),,from experimentally determined phonon DOS; accuracy ~2-3%
+Ge,70,0.1564,,Peng1996,Peng et al. 1996 (Acta Cryst A52 456),pdos_derived,Supplement Table 1 (B column),B=0.1564 A^2,none (direct B),,from experimentally determined phonon DOS; accuracy ~2-3%
+Ge,75,0.1597,,Peng1996,Peng et al. 1996 (Acta Cryst A52 456),pdos_derived,Supplement Table 1 (B column),B=0.1597 A^2,none (direct B),,from experimentally determined phonon DOS; accuracy ~2-3%
+Ge,77,0.1611,,Peng1996,Peng et al. 1996 (Acta Cryst A52 456),pdos_derived,Supplement Table 1 (B column),B=0.1611 A^2,none (direct B),,from experimentally determined phonon DOS; accuracy ~2-3%
+Ge,80,0.1632,,Peng1996,Peng et al. 1996 (Acta Cryst A52 456),pdos_derived,Supplement Table 1 (B column),B=0.1632 A^2,none (direct B),,from experimentally determined phonon DOS; accuracy ~2-3%
+Ge,85,0.1670,,Peng1996,Peng et al. 1996 (Acta Cryst A52 456),pdos_derived,Supplement Table 1 (B column),B=0.1670 A^2,none (direct B),,from experimentally determined phonon DOS; accuracy ~2-3%
+Ge,90,0.1844,,Peng1996,Peng et al. 1996 (Acta Cryst A52 456),pdos_derived,Supplement Table 1 (B column),B=0.1844 A^2,none (direct B),,from experimentally determined phonon DOS; accuracy ~2-3%
+Ge,100,0.2049,,Peng1996,Peng et al. 1996 (Acta Cryst A52 456),pdos_derived,Supplement Table 1 (B column),B=0.2049 A^2,none (direct B),,from experimentally determined phonon DOS; accuracy ~2-3%
+Ge,110,0.2254,,Peng1996,Peng et al. 1996 (Acta Cryst A52 456),pdos_derived,Supplement Table 1 (B column),B=0.2254 A^2,none (direct B),,from experimentally determined phonon DOS; accuracy ~2-3%
+Ge,120,0.2458,,Peng1996,Peng et al. 1996 (Acta Cryst A52 456),pdos_derived,Supplement Table 1 (B column),B=0.2458 A^2,none (direct B),,from experimentally determined phonon DOS; accuracy ~2-3%
+Ge,130,0.2663,,Peng1996,Peng et al. 1996 (Acta Cryst A52 456),pdos_derived,Supplement Table 1 (B column),B=0.2663 A^2,none (direct B),,from experimentally determined phonon DOS; accuracy ~2-3%
+Ge,140,0.2868,,Peng1996,Peng et al. 1996 (Acta Cryst A52 456),pdos_derived,Supplement Table 1 (B column),B=0.2868 A^2,none (direct B),,from experimentally determined phonon DOS; accuracy ~2-3%
+Ge,150,0.3073,,Peng1996,Peng et al. 1996 (Acta Cryst A52 456),pdos_derived,Supplement Table 1 (B column),B=0.3073 A^2,none (direct B),,from experimentally determined phonon DOS; accuracy ~2-3%
+Ge,160,0.3278,,Peng1996,Peng et al. 1996 (Acta Cryst A52 456),pdos_derived,Supplement Table 1 (B column),B=0.3278 A^2,none (direct B),,from experimentally determined phonon DOS; accuracy ~2-3%
+Ge,170,0.3483,,Peng1996,Peng et al. 1996 (Acta Cryst A52 456),pdos_derived,Supplement Table 1 (B column),B=0.3483 A^2,none (direct B),,from experimentally determined phonon DOS; accuracy ~2-3%
+Ge,180,0.3687,,Peng1996,Peng et al. 1996 (Acta Cryst A52 456),pdos_derived,Supplement Table 1 (B column),B=0.3687 A^2,none (direct B),,from experimentally determined phonon DOS; accuracy ~2-3%
+Ge,190,0.3892,,Peng1996,Peng et al. 1996 (Acta Cryst A52 456),pdos_derived,Supplement Table 1 (B column),B=0.3892 A^2,none (direct B),,from experimentally determined phonon DOS; accuracy ~2-3%
+Ge,200,0.4097,,Peng1996,Peng et al. 1996 (Acta Cryst A52 456),pdos_derived,Supplement Table 1 (B column),B=0.4097 A^2,none (direct B),,from experimentally determined phonon DOS; accuracy ~2-3%
+Ge,210,0.4302,,Peng1996,Peng et al. 1996 (Acta Cryst A52 456),pdos_derived,Supplement Table 1 (B column),B=0.4302 A^2,none (direct B),,from experimentally determined phonon DOS; accuracy ~2-3%
+Ge,220,0.4506,,Peng1996,Peng et al. 1996 (Acta Cryst A52 456),pdos_derived,Supplement Table 1 (B column),B=0.4506 A^2,none (direct B),,from experimentally determined phonon DOS; accuracy ~2-3%
+Ge,230,0.4711,,Peng1996,Peng et al. 1996 (Acta Cryst A52 456),pdos_derived,Supplement Table 1 (B column),B=0.4711 A^2,none (direct B),,from experimentally determined phonon DOS; accuracy ~2-3%
+Ge,240,0.4915,,Peng1996,Peng et al. 1996 (Acta Cryst A52 456),pdos_derived,Supplement Table 1 (B column),B=0.4915 A^2,none (direct B),,from experimentally determined phonon DOS; accuracy ~2-3%
+Ge,250,0.5120,,Peng1996,Peng et al. 1996 (Acta Cryst A52 456),pdos_derived,Supplement Table 1 (B column),B=0.5120 A^2,none (direct B),,from experimentally determined phonon DOS; accuracy ~2-3%
+Ge,260,0.5325,,Peng1996,Peng et al. 1996 (Acta Cryst A52 456),pdos_derived,Supplement Table 1 (B column),B=0.5325 A^2,none (direct B),,from experimentally determined phonon DOS; accuracy ~2-3%
+Ge,270,0.5529,,Peng1996,Peng et al. 1996 (Acta Cryst A52 456),pdos_derived,Supplement Table 1 (B column),B=0.5529 A^2,none (direct B),,from experimentally determined phonon DOS; accuracy ~2-3%
+Ge,280,0.5734,,Peng1996,Peng et al. 1996 (Acta Cryst A52 456),pdos_derived,Supplement Table 1 (B column),B=0.5734 A^2,none (direct B),,from experimentally determined phonon DOS; accuracy ~2-3%
+Ge,290,0.5939,,Peng1996,Peng et al. 1996 (Acta Cryst A52 456),pdos_derived,Supplement Table 1 (B column),B=0.5939 A^2,none (direct B),,from experimentally determined phonon DOS; accuracy ~2-3%
+Ge,293,0.6000,,Peng1996,Peng et al. 1996 (Acta Cryst A52 456),pdos_derived,Supplement Table 1 (B column),B=0.6000 A^2,none (direct B),,from experimentally determined phonon DOS; accuracy ~2-3%
+Ge,295,0.6041,,Peng1996,Peng et al. 1996 (Acta Cryst A52 456),pdos_derived,Supplement Table 1 (B column),B=0.6041 A^2,none (direct B),,from experimentally determined phonon DOS; accuracy ~2-3%
+Ge,300,0.6143,,Peng1996,Peng et al. 1996 (Acta Cryst A52 456),pdos_derived,Supplement Table 1 (B column),B=0.6143 A^2,none (direct B),,from experimentally determined phonon DOS; accuracy ~2-3%
+Ge,310,0.6348,,Peng1996,Peng et al. 1996 (Acta Cryst A52 456),pdos_derived,Supplement Table 1 (B column),B=0.6348 A^2,none (direct B),,from experimentally determined phonon DOS; accuracy ~2-3%
+Ge,320,0.6552,,Peng1996,Peng et al. 1996 (Acta Cryst A52 456),pdos_derived,Supplement Table 1 (B column),B=0.6552 A^2,none (direct B),,from experimentally determined phonon DOS; accuracy ~2-3%
+Ge,330,0.6756,,Peng1996,Peng et al. 1996 (Acta Cryst A52 456),pdos_derived,Supplement Table 1 (B column),B=0.6756 A^2,none (direct B),,from experimentally determined phonon DOS; accuracy ~2-3%
+Ge,340,0.6961,,Peng1996,Peng et al. 1996 (Acta Cryst A52 456),pdos_derived,Supplement Table 1 (B column),B=0.6961 A^2,none (direct B),,from experimentally determined phonon DOS; accuracy ~2-3%
+Ge,350,0.7165,,Peng1996,Peng et al. 1996 (Acta Cryst A52 456),pdos_derived,Supplement Table 1 (B column),B=0.7165 A^2,none (direct B),,from experimentally determined phonon DOS; accuracy ~2-3%
+Ge,375,0.7676,,Peng1996,Peng et al. 1996 (Acta Cryst A52 456),pdos_derived,Supplement Table 1 (B column),B=0.7676 A^2,none (direct B),,from experimentally determined phonon DOS; accuracy ~2-3%
+Ge,400,0.8187,,Peng1996,Peng et al. 1996 (Acta Cryst A52 456),pdos_derived,Supplement Table 1 (B column),B=0.8187 A^2,none (direct B),,from experimentally determined phonon DOS; accuracy ~2-3%
+Ge,450,0.9207,,Peng1996,Peng et al. 1996 (Acta Cryst A52 456),pdos_derived,Supplement Table 1 (B column),B=0.9207 A^2,none (direct B),,from experimentally determined phonon DOS; accuracy ~2-3%
+Ge,500,1.0227,,Peng1996,Peng et al. 1996 (Acta Cryst A52 456),pdos_derived,Supplement Table 1 (B column),B=1.0227 A^2,none (direct B),,from experimentally determined phonon DOS; accuracy ~2-3%
+Ge,600,1.2263,,Peng1996,Peng et al. 1996 (Acta Cryst A52 456),pdos_derived,Supplement Table 1 (B column),B=1.2263 A^2,none (direct B),,from experimentally determined phonon DOS; accuracy ~2-3%
+Ge,700,1.4293,,Peng1996,Peng et al. 1996 (Acta Cryst A52 456),pdos_derived,Supplement Table 1 (B column),B=1.4293 A^2,none (direct B),,from experimentally determined phonon DOS; accuracy ~2-3%
+Ge,800,1.6318,,Peng1996,Peng et al. 1996 (Acta Cryst A52 456),pdos_derived,Supplement Table 1 (B column),B=1.6318 A^2,none (direct B),,from experimentally determined phonon DOS; accuracy ~2-3%
+Ge,900,1.8336,,Peng1996,Peng et al. 1996 (Acta Cryst A52 456),pdos_derived,Supplement Table 1 (B column),B=1.8336 A^2,none (direct B),,from experimentally determined phonon DOS; accuracy ~2-3%
+Ge,1000,2.0345,,Peng1996,Peng et al. 1996 (Acta Cryst A52 456),pdos_derived,Supplement Table 1 (B column),B=2.0345 A^2,none (direct B),,from experimentally determined phonon DOS; accuracy ~2-3%
+Ge,1,0.1282,,ReidPirie1980,Reid & Pirie 1980 (Acta Cryst A36 957),lattice_dynamical_calc,"Table 2 (germanium), bond-charge",B=0.1282 A^2 (model),none (model),,model calc (bond-charge column)
+Ge,5,0.1282,,ReidPirie1980,Reid & Pirie 1980 (Acta Cryst A36 957),lattice_dynamical_calc,"Table 2 (germanium), bond-charge",B=0.1282 A^2 (model),none (model),,model calc (bond-charge column)
+Ge,10,0.1286,,ReidPirie1980,Reid & Pirie 1980 (Acta Cryst A36 957),lattice_dynamical_calc,"Table 2 (germanium), bond-charge",B=0.1286 A^2 (model),none (model),,model calc (bond-charge column)
+Ge,20,0.1307,,ReidPirie1980,Reid & Pirie 1980 (Acta Cryst A36 957),lattice_dynamical_calc,"Table 2 (germanium), bond-charge",B=0.1307 A^2 (model),none (model),,model calc (bond-charge column)
+Ge,40,0.1434,,ReidPirie1980,Reid & Pirie 1980 (Acta Cryst A36 957),lattice_dynamical_calc,"Table 2 (germanium), bond-charge",B=0.1434 A^2 (model),none (model),,model calc (bond-charge column)
+Ge,60,0.1648,,ReidPirie1980,Reid & Pirie 1980 (Acta Cryst A36 957),lattice_dynamical_calc,"Table 2 (germanium), bond-charge",B=0.1648 A^2 (model),none (model),,model calc (bond-charge column)
+Ge,80,0.1910,,ReidPirie1980,Reid & Pirie 1980 (Acta Cryst A36 957),lattice_dynamical_calc,"Table 2 (germanium), bond-charge",B=0.1910 A^2 (model),none (model),,model calc (bond-charge column)
+Ge,100,0.2200,,ReidPirie1980,Reid & Pirie 1980 (Acta Cryst A36 957),lattice_dynamical_calc,"Table 2 (germanium), bond-charge",B=0.2200 A^2 (model),none (model),,model calc (bond-charge column)
+Ge,150,0.2994,,ReidPirie1980,Reid & Pirie 1980 (Acta Cryst A36 957),lattice_dynamical_calc,"Table 2 (germanium), bond-charge",B=0.2994 A^2 (model),none (model),,model calc (bond-charge column)
+Ge,200,0.3837,,ReidPirie1980,Reid & Pirie 1980 (Acta Cryst A36 957),lattice_dynamical_calc,"Table 2 (germanium), bond-charge",B=0.3837 A^2 (model),none (model),,model calc (bond-charge column)
+Ge,250,0.4703,,ReidPirie1980,Reid & Pirie 1980 (Acta Cryst A36 957),lattice_dynamical_calc,"Table 2 (germanium), bond-charge",B=0.4703 A^2 (model),none (model),,model calc (bond-charge column)
+Ge,295,0.5493,,ReidPirie1980,Reid & Pirie 1980 (Acta Cryst A36 957),lattice_dynamical_calc,"Table 2 (germanium), bond-charge",B=0.5493 A^2 (model),none (model),,model calc (bond-charge column); 295K model spread 0.5160-0.6015
+Ge,350,0.6468,,ReidPirie1980,Reid & Pirie 1980 (Acta Cryst A36 957),lattice_dynamical_calc,"Table 2 (germanium), bond-charge",B=0.6468 A^2 (model),none (model),,model calc (bond-charge column)
+Ge,400,0.7359,,ReidPirie1980,Reid & Pirie 1980 (Acta Cryst A36 957),lattice_dynamical_calc,"Table 2 (germanium), bond-charge",B=0.7359 A^2 (model),none (model),,model calc (bond-charge column)
+Ge,500,0.9150,,ReidPirie1980,Reid & Pirie 1980 (Acta Cryst A36 957),lattice_dynamical_calc,"Table 2 (germanium), bond-charge",B=0.9150 A^2 (model),none (model),,model calc (bond-charge column)
+Ge,600,1.0948,,ReidPirie1980,Reid & Pirie 1980 (Acta Cryst A36 957),lattice_dynamical_calc,"Table 2 (germanium), bond-charge",B=1.0948 A^2 (model),none (model),,model calc (bond-charge column)
+Ge,700,1.2750,,ReidPirie1980,Reid & Pirie 1980 (Acta Cryst A36 957),lattice_dynamical_calc,"Table 2 (germanium), bond-charge",B=1.2750 A^2 (model),none (model),,model calc (bond-charge column)
+Ge,800,1.4555,,ReidPirie1980,Reid & Pirie 1980 (Acta Cryst A36 957),lattice_dynamical_calc,"Table 2 (germanium), bond-charge",B=1.4555 A^2 (model),none (model),,model calc (bond-charge column)
+Ge,900,1.6361,,ReidPirie1980,Reid & Pirie 1980 (Acta Cryst A36 957),lattice_dynamical_calc,"Table 2 (germanium), bond-charge",B=1.6361 A^2 (model),none (model),,model calc (bond-charge column)
+Ge,1000,1.8168,,ReidPirie1980,Reid & Pirie 1980 (Acta Cryst A36 957),lattice_dynamical_calc,"Table 2 (germanium), bond-charge",B=1.8168 A^2 (model),none (model),,model calc (bond-charge column)

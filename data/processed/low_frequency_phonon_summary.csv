@@ -1,0 +1,5 @@
+material,soc_status,min_freq_THz,first_peak_THz,dos_frac_0_1THz,dos_frac_0_2THz,mean_freq_THz,log_avg_freq_THz,short_note
+As,noSOC,0.00215953,1.79888728,0.00871775,0.10139152,4.30845242,3.84702227,low-frequency weight is limited; spectrum is relatively stiff
+Sb,noSOC,0.00146726,1.40124895,0.02375639,0.36186793,2.88800588,2.599206,substantial low-frequency spectral weight remains below 2 THz
+Bi_noSOC,noSOC,0.00109786,0.72348656,0.19143377,0.50107951,2.02292017,1.77729715,very soft spectrum; roughly half of the phonon weight lies below 2 THz
+Bi_SOC,SOC,NA,NA,NA,NA,NA,NA,phonon DOS not available from the SOC calculation

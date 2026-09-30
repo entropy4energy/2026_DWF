@@ -1,0 +1,10 @@
+descriptor,noSOC,SOC,delta_pct
+mean_freq_THz,2.02294,1.87323,-7.4005
+log_avg_freq_THz,1.77731,1.62574,-8.5283
+dos_frac_below_1THz,0.191428,0.260614,36.1418
+dos_frac_below_2THz,0.501071,0.501362,0.0580
+leverage_total,0.604785,0.762035,26.0010
+leverage_below_2THz,0.545181,0.694569,27.4015
+leverage_fraction_below_2THz,0.901447,0.911466,1.1115
+min_freq_THz,+0.001098,+0.001022,
+neg_dos_weight,0.000000e+00,0.000000e+00,

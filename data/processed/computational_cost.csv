@@ -1,0 +1,19 @@
+material,route,stage,outcar,nions,irreducible_kpoints,cores,elapsed_s,core_hours
+As,standard,relax1,OUTCAR.relax1.xz,6,147,48,381.707,5.08943
+As,standard,relax2,OUTCAR.relax2.xz,6,147,48,101.611,1.35481
+As,standard,static,OUTCAR.static.xz,6,147,48,34.520,0.460267
+As,harmonic,displaced supercell (+),ARUN.APL_1_A0D0P/OUTCAR.static.xz,192,10,48,9396.801,125.291
+As,harmonic,displaced supercell (-),ARUN.APL_2_A0D0M/OUTCAR.static.xz,192,10,48,9293.720,123.916
+As,harmonic,Born charges and dielectric tensor,ARUN.APL_3_LRBE/OUTCAR.static.xz,6,180,48,787.430,10.4991
+Sb,standard,relax1,OUTCAR.relax1.xz,6,147,48,401.854,5.35805
+Sb,standard,relax2,OUTCAR.relax2.xz,6,147,48,97.946,1.30595
+Sb,standard,static,OUTCAR.static.xz,6,147,48,34.382,0.458427
+Sb,harmonic,displaced supercell (+),ARUN.APL_1_A0D0P/OUTCAR.static.xz,192,10,48,10253.760,136.717
+Sb,harmonic,displaced supercell (-),ARUN.APL_2_A0D0M/OUTCAR.static.xz,192,10,48,9198.118,122.642
+Sb,harmonic,Born charges and dielectric tensor,ARUN.APL_3_LRBE/OUTCAR.static.xz,6,202,48,964.759,12.8635
+Bi,standard,relax1,OUTCAR.relax1.xz,6,147,48,966.760,12.8901
+Bi,standard,relax2,OUTCAR.relax2.xz,6,147,48,182.174,2.42899
+Bi,standard,static,OUTCAR.static.xz,6,147,48,55.003,0.733373
+Bi,harmonic,displaced supercell (+),ARUN.APL_1_A0D0P/OUTCAR.static.xz,192,10,48,36489.800,486.531
+Bi,harmonic,displaced supercell (-),ARUN.APL_2_A0D0M/OUTCAR.static.xz,192,10,48,38922.872,518.972
+Bi,harmonic,Born charges and dielectric tensor,ARUN.APL_3_LRBE/OUTCAR.static.xz,6,202,48,4780.230,63.7364
